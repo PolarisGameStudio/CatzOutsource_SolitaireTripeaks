@@ -1,5 +1,5 @@
 using I2.MiniGames;
-using Nightingale.Ads;
+
 using Nightingale.ScenesManager;
 using Nightingale.Utilitys;
 using UnityEngine;
@@ -114,7 +114,7 @@ namespace SolitaireTripeaks
 				loopWheelRotate = AudioUtility.GetSound().PlayLoop("Audios/wheel_rotate");
 				UpdateCostUI();
 			};
-			if (SingletonBehaviour<ThirdPartyAdManager>.Get().IsRewardedVideoAvailable(AuxiliaryData.Get().WatchVideoCount) && AuxiliaryData.Get().GetDailyNumber("RewardOnceWheelSpin") < ((!StatisticsData.Get().IsLowPlayer()) ? 1 : 2))
+			if (IronSourceManager.Instance.IsRewardedVideoAvailable() && AuxiliaryData.Get().GetDailyNumber("RewardOnceWheelSpin") < ((!StatisticsData.Get().IsLowPlayer()) ? 1 : 2))
 			{
 				WatchVideoAdTipScene.ShowWatchAdRewardDoubleBooster(delegate(bool success)
 				{

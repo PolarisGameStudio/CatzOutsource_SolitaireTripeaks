@@ -1,5 +1,4 @@
 using DG.Tweening;
-using Nightingale.Ads;
 using Nightingale.Localization;
 using Nightingale.ScenesManager;
 using Nightingale.Utilitys;
@@ -137,7 +136,7 @@ namespace SolitaireTripeaks
 				long coins = PackData.Get().GetCommodity(BoosterType.Coins).GetTotal();
 				StoreScene.ShowOutofCoinsInLevelScene(delegate
 				{
-					if (coins == PackData.Get().GetCommodity(BoosterType.Coins).GetTotal() && SingletonBehaviour<ThirdPartyAdManager>.Get().IsRewardedVideoAvailable(AuxiliaryData.Get().WatchVideoCount))
+					if (coins == PackData.Get().GetCommodity(BoosterType.Coins).GetTotal() && IronSourceManager.Instance.IsRewardedVideoAvailable())
 					{
 						WatchVideoAdTipScene.ShowWatchAdRewardCoins();
 					}

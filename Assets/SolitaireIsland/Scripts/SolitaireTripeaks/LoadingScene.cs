@@ -1,5 +1,5 @@
 using com.F4A.MobileThird;
-using Nightingale.Ads;
+
 using Nightingale.ScenesManager;
 using Nightingale.Tasks;
 using Nightingale.Utilitys;
@@ -96,7 +96,6 @@ namespace SolitaireTripeaks
                         GameConfig.PutAssetBundle(assetBundle);
                         LevelRetrunCoinConfig.PutAssetBundle(assetBundle);
 						UniverseConfig.PutAssetBundle(assetBundle);
-						SingletonBehaviour<ThirdPartyAdManager>.Get().Initialization(assetBundle);
 						HightScoreRewardGroup.PutAssetBundle(assetBundle);
 						VersionConfig.Initialization(assetBundle, delegate
 						{

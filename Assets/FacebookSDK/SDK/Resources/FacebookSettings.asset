@@ -14,16 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - 
+  - 3b667a4a361bd6cd9c36388e2d34feb5
   appIds:
-  - 1212131313131
+  - 3066496160345031
   appLabels:
-  - Cats and Cards
+  - App Name
   cookie: 1
   logging: 1
   status: 1
   xfbml: 0
   frictionlessRequests: 1
+  androidKeystorePath: 
   iosURLSuffix: 
   appLinkSchemes:
   - list: []

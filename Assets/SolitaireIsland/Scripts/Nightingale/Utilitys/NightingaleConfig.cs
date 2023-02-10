@@ -1,4 +1,3 @@
-using Nightingale.Ads;
 using System;
 using System.Linq;
 using UnityEngine;
@@ -44,10 +43,6 @@ namespace Nightingale.Utilitys
 		[Header("俱乐部接口")]
 		public string ClubApi;
 
-		[Header("广告id")]
-		[SerializeField]
-		public ThirdPartyAdData[] ThirdPartyAdDatas;
-
 		private static NightingaleConfig config;
 
 		public static NightingaleConfig Get()
@@ -62,16 +57,6 @@ namespace Nightingale.Utilitys
 		public string GetAppIdAndVersion()
 		{
 			return $"{AppId}_{Application.version}";
-		}
-
-		public ThirdPartyAdData GetThirdPartyAdData(ThirdPartyAdType type, ThirdPartyPlatform platform)
-		{
-			ThirdPartyAdData thirdPartyAdData = ThirdPartyAdDatas.ToList().Find((ThirdPartyAdData e) => e.type == type && e.platform == platform);
-			if (thirdPartyAdData != null)
-			{
-				return thirdPartyAdData;
-			}
-			return null;
 		}
 	}
 }

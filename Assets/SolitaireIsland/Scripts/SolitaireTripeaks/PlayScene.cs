@@ -1,5 +1,5 @@
 using DG.Tweening;
-using Nightingale.Ads;
+
 using Nightingale.Inputs;
 using Nightingale.Localization;
 using Nightingale.ScenesManager;
@@ -61,9 +61,9 @@ namespace SolitaireTripeaks
 			return playScene;
 		}
 
-		private void WatchAdComeleted(bool completed)
+		private void WatchAdComeleted()
 		{
-			if (completed && HandCardSystem.Get() != null && PlayDesk.Get() != null && !PlayDesk.Get().IsGameOver)
+			if (HandCardSystem.Get() != null && PlayDesk.Get() != null && !PlayDesk.Get().IsGameOver)
 			{
 				watchCompleted = true;
 				HandCardSystem.Get().AppendLeftCards(3);
@@ -77,7 +77,6 @@ namespace SolitaireTripeaks
 		{
 			base.OnDestroy();
 			SingletonBehaviour<LoaderUtility>.Get().UnLoadScene(typeof(PlayScene).Name);
-			SingletonBehaviour<ThirdPartyAdManager>.Get().compeleted.RemoveListener(WatchAdComeleted);
 		}
 
 		private void Start()
@@ -96,7 +95,6 @@ namespace SolitaireTripeaks
 			try
 			{
 				playScene = this;
-				SingletonBehaviour<ThirdPartyAdManager>.Get().compeleted.AddListener(WatchAdComeleted);
 				SingletonClass<OnceGameData>.Get().Rest();
 				AuxiliaryData.Get().PlayNumber++;
 				SingletonBehaviour<GlobalConfig>.Get().TimeScale = 1f;
@@ -203,7 +201,7 @@ namespace SolitaireTripeaks
 				});
 				VideoStepButton.onClick.AddListener(delegate
 				{
-					SingletonBehaviour<ThirdPartyAdManager>.Get().ShowRewardedVideoAd();
+					IronSourceManager.Instance.ShowRewardedAds(WatchAdComeleted);
 				});
 				CloseButton.onClick.AddListener(delegate
 				{
@@ -339,7 +337,7 @@ namespace SolitaireTripeaks
 			VideoStepButton.interactable = false;
 			if (visable)
 			{
-				if (!watchCompleted && (StatisticsData.Get().IsLowPlayer() || AuxiliaryData.Get().GetDailyNumber("WatchAdAddCards") < 1) && SingletonBehaviour<ThirdPartyAdManager>.Get().IsRewardedVideoAvailable(AuxiliaryData.Get().WatchVideoCount) && PlayData.Get().HasThanLevelData(0, 0, 6))
+				if (!watchCompleted && (StatisticsData.Get().IsLowPlayer() || AuxiliaryData.Get().GetDailyNumber("WatchAdAddCards") < 1) && IronSourceManager.Instance.IsRewardedVideoAvailable() && PlayData.Get().HasThanLevelData(0, 0, 6))
 				{
 					VideoStepButton.transform.DOLocalMoveY(endValue, 0.5f).OnComplete(delegate
 					{

@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 10
@@ -70,6 +71,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 7
@@ -113,6 +115,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 8
@@ -156,6 +159,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 9
@@ -204,6 +208,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 0
@@ -217,144 +222,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2061833894}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad67bd1846c406c4089a26506b1d7839, type: 3}
+  m_Script: {fileID: 11500000, guid: 97fc7ae35c936b44a8bc24af450b4964, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _isAdColonyReady: 0
-  urlFileDataSetting: 
-  fileAdConfigDefault: {fileID: 0}
-  adConfigData:
-    isEnableAds: 1
-    _idDeviceTests:
-    - id01
-    - id02
-    adPosition: 1
-    rewardAdOrder: 020000000500000006000000
-    interstitialAdsOrder: 0200000005000000
-    videoAdsOrder: 05000000
-    bannerAdsOrder: 0200000005000000
-    adColonyConfigData:
-      _enableAd: 1
-      _androidInfos: []
-      _iosInfos: []
-    admobConfig:
-      _version: 
-      _isEnableAd: 1
-      _androidAppInfos:
-      - _appName: _appName
-        _appId: ca-app-pub-3940256099942544~3347511713
-        _bannerName: _bannerName
-        _bannerId: 
-        _interstitialName: _interstitialName
-        _interstitialId: ca-app-pub-3940256099942544/1033173712
-        _interstitialVideoName: _interstitialVideoName
-        _interstitialVideoId: ca-app-pub-3940256099942544/8691691433
-        _rewardName: _rewardName
-        _rewardId: ca-app-pub-3940256099942544/5224354917
-        _nativeAdvancedName: _nativeAdvancedName
-        _nativeAdvancedId: ca-app-pub-3940256099942544/2247696110
-        _nativeAdvancedVideoName: _nativeAdvancedVideoName
-        _nativeAdvancedVideoId: ca-app-pub-3940256099942544/1044960115
-      _iosAppInfos:
-      - _appName: _appName
-        _appId: ca-app-pub-3940256099942544~3347511713
-        _bannerName: _bannerName
-        _bannerId: 
-        _interstitialName: _interstitialName
-        _interstitialId: ca-app-pub-3940256099942544/1033173712
-        _interstitialVideoName: _interstitialVideoName
-        _interstitialVideoId: ca-app-pub-3940256099942544/8691691433
-        _rewardName: _rewardName
-        _rewardId: ca-app-pub-3940256099942544/5224354917
-        _nativeAdvancedName: _nativeAdvancedName
-        _nativeAdvancedId: ca-app-pub-3940256099942544/2247696110
-        _nativeAdvancedVideoName: _nativeAdvancedVideoName
-        _nativeAdvancedVideoId: ca-app-pub-3940256099942544/1044960115
-      _forChild: 0
-    unityAdConfig:
-      enableAd: 1
-      testMode: 0
-      _androidAppInfos: []
-      _iosAppInfos: []
-    vungleConfig:
-      enableAd: 0
-      androidApps: []
-      iosApps: []
-      winphoneApps: []
-    facebookAdConfig:
-      enableAd: 0
-      androidBannerIds: []
-      androidInterstitialIds: []
-      androidRewardIds: []
-      iosBannerIds: []
-      iosInterstitialIds: []
-      iosRewardIds: []
-    chartboostConfigData:
-      _enableAd: 1
-    mopubConfigComponent:
-      _androidComponent:
-        _appName: _appName
-        _appId: _appId
-        _bannerName: _bannerName
-        _bannerId: _bannerId
-        _interstitialName: _interstitialName
-        _interstitialId: _interstitialId
-        _rewardName: _rewardName
-        _rewardId: _rewardId
-        _nativeAdvancedName: _nativeAdvancedName
-        _nativeAdvancedId: _nativeAdvancedId
-      _iosComponent:
-        _appName: _appName
-        _appId: _appId
-        _bannerName: _bannerName
-        _bannerId: _bannerId
-        _interstitialName: _interstitialName
-        _interstitialId: _interstitialId
-        _rewardName: _rewardName
-        _rewardId: _rewardId
-        _nativeAdvancedName: _nativeAdvancedName
-        _nativeAdvancedId: _nativeAdvancedId
-    ironSourceComp:
-      enableAd: 0
-      _androidIds: []
-      _iosIds: []
-    counterIntervalShowInterstitial: 1
-    timeIntervalInterstitial: 15
-    isShowBannerAd: 0
-    timeDelayRequestAdReward: 10
-    timeDelayRequestAdBanner: 10
-    timeDelayRequestAdFull: 10
-  ironSourceComp:
-    enableAd: 0
-    _androidIds: []
-    _iosIds: []
-  urlWebViewConfig: 
-  webViewConfigAsset: {fileID: 0}
-  webViewRequestData:
-    useRequestData: 1
-    webViewConfigData:
-      linkRequestAndroid: 
-      linkRequestIos: 
-      random: 10
-      username: 
-      idfa: 
-      activeAds: 0
-    devicename: 
-    width: 375
-    height: 667
-    timezone: -8
-    cname: 
-    ccountry: US
-    ccountrycode: 310
-    cnetworkcode: 300
-    language: en-US
-    region: en-US
-    platform: 1
-  textWebViewDataDefault: {fileID: 0}
-  webViewRowDatas: []
-  webViewScrollController: {fileID: 0}
-  bannerWebViewTF: {fileID: 0}
-  scaleBannerWebView: 0.75
+  dontDestroyOnLoad: 0
+  ironSourceKeyAndroid: 1899b101d
+  ironSourceKeyIos: 
 --- !u!1 &1860468831630752990
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,6 +255,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 5
@@ -426,6 +300,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 1
@@ -512,6 +387,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 158743446321204784}
   m_RootOrder: 0
@@ -544,6 +420,8 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -589,6 +467,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 653244071850861600}
   m_RootOrder: 0
@@ -621,6 +500,8 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -667,6 +548,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 2
@@ -723,6 +605,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6750217556932867173}
   m_Father: {fileID: 158743446321204784}
@@ -756,6 +639,8 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 0.7058824}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -793,6 +678,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4958573966414330131}
   - {fileID: 620550050774350426}
@@ -832,7 +718,7 @@ MonoBehaviour:
   _defineFacebookSDK: 0
   _defineGameServices: 0
   _defineUnityAnalytic: 0
-  _defineFirebaseAnalytic: 1
+  _defineFirebaseAnalytic: 0
   _defineFirebaseCrashlytic: 0
   _defineFirebaseMessaging: 0
   _defineFirebaseAuth: 0
@@ -903,6 +789,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7433890291233849403}
   - {fileID: 653244071850861600}
@@ -932,6 +819,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 100
   m_TargetDisplay: 0
@@ -957,6 +845,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!114 &5834126103745918549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1001,6 +890,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 3
@@ -1052,6 +942,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8193558505214223756}
   m_RootOrder: 6

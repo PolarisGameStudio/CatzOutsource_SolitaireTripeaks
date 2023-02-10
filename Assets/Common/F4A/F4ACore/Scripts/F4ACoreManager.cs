@@ -502,12 +502,12 @@ namespace com.F4A.MobileThird
 #region Editor Methods
         public void AddAdsManager()
         {
-            AdsManager manager = transform.GetComponentInChildren<AdsManager>();
+            IronSourceManager manager = transform.GetComponentInChildren<IronSourceManager>();
             if (manager == null)
             {
                 GameObject component = new GameObject();
                 component.transform.SetParent(transform);
-                component.AddComponent<AdsManager>();
+                component.AddComponent<IronSourceManager>();
                 component.name = "AdsManager";
             }
         }

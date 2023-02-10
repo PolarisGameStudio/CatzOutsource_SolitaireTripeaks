@@ -1,4 +1,4 @@
-using Nightingale.Ads;
+
 using Nightingale.Localization;
 using Nightingale.ScenesManager;
 using Nightingale.Utilitys;
@@ -388,7 +388,7 @@ namespace SolitaireTripeaks
 				LoopAudioSource = AudioUtility.GetSound().PlayLoop("Audios/wheel_rotate.wav");
 				SlotsLightUI.StartLight();
 			};
-			if (SingletonBehaviour<ThirdPartyAdManager>.Get().IsRewardedVideoAvailable(AuxiliaryData.Get().WatchVideoCount) && AuxiliaryData.Get().GetDailyNumber("RewardOnceSlotsSpin") < ((!StatisticsData.Get().IsLowPlayer()) ? 1 : 2))
+			if (IronSourceManager.Instance.IsRewardedVideoAvailable() && AuxiliaryData.Get().GetDailyNumber("RewardOnceSlotsSpin") < ((!StatisticsData.Get().IsLowPlayer()) ? 1 : 2))
 			{
 				WatchVideoAdTipScene.ShowWatchAdRewardDoubleBooster(delegate(bool success)
 				{

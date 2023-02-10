@@ -160,10 +160,12 @@ namespace SolitaireTripeaks
             }
             else if (bonus)
             {
+                Debug.Log("login fb");
                 SingletonClass<MySceneManager>.Get().Popup<FacebookLoginBonusScene>("Scenes/FacebookLoginBonusScene", new JoinEffect()).OnStart(unityAction);
             }
             else
             {
+                Debug.Log("login fb");
                 SingletonBehaviour<FacebookMananger>.Get().Login(unityAction);
             }
         }

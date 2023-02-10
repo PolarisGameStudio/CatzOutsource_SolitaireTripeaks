@@ -26,15 +26,11 @@
 
         private void OnEnable()
         {
-            AdsManager.OnRewardedAdCompleted += AdsManager_OnRewardedAdCompleted;
-
             FirebaseManager.OnLoginFacebookCompleted += FirebaseManager_OnLoginFacebookCompleted;
         }
 
         private void OnDisable()
         {
-            AdsManager.OnRewardedAdCompleted -= AdsManager_OnRewardedAdCompleted;
-            
             FirebaseManager.OnLoginFacebookCompleted -= FirebaseManager_OnLoginFacebookCompleted;
         }
 

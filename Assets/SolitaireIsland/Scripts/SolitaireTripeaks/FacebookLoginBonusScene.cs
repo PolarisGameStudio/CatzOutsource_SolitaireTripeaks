@@ -1,6 +1,7 @@
 using Nightingale.ScenesManager;
 using Nightingale.Socials;
 using Nightingale.Utilitys;
+using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
@@ -18,6 +19,7 @@ namespace SolitaireTripeaks
 			SingletonBehaviour<FacebookMananger>.Get().LoginChanged.AddListener(UpdateLogin);
 			FacebookButton.onClick.AddListener(delegate
 			{
+				Debug.Log("login fb");
 				SingletonBehaviour<FacebookMananger>.Get().Login();
 			});
 		}

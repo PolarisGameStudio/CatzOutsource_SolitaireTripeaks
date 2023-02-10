@@ -1,5 +1,5 @@
 using com.F4A.MobileThird;
-using Nightingale.Ads;
+
 using Nightingale.Localization;
 using Nightingale.Notifications;
 using Nightingale.Socials;
@@ -121,7 +121,7 @@ namespace SolitaireTripeaks
 					});
 				}
 			}
-			if (AuxiliaryData.Get().IsDailyActive("InboxWatchVideoAd") && SingletonBehaviour<ThirdPartyAdManager>.Get().IsRewardedVideoAvailable(AuxiliaryData.Get().WatchVideoCount))
+			if (AuxiliaryData.Get().IsDailyActive("InboxWatchVideoAd") && IronSourceManager.Instance.IsRewardedVideoAvailable())
 			{
 				UnityAction<bool> unityAction = delegate
 				{
