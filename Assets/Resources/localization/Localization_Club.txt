@@ -1,0 +1,454 @@
+[
+    {
+        "key": "minutes_ago",
+        "English": "{0} minutes ago"
+    },
+    {
+        "key": "hours_ago",
+        "English": "{0} hours ago"
+    },
+    {
+        "key": "days_ago",
+        "English": "{0} days ago"
+    },
+    {
+        "key": "just_a_moment_ago",
+        "English": "A moment ago"
+    },
+    {
+        "key": "active",
+        "English": "Active"
+    },
+    {
+        "key": "loading_Club",
+        "English": "We are working hard to connect to the server, wait a moment please."
+    },
+    {
+        "key": "Loading_Creator_Clubing",
+        "English": "Creating Clan, wait a monment please."
+    },
+    {
+        "key": "Loading_ModifyClub_Clubing",
+        "English": "Submitting, wait a monment please."
+    },
+    {
+        "key": "ModifyClub_Success_Title",
+        "English": "CLAN MANAGEMENT"
+    },
+    {
+        "key": "ModifyClub_Success_Content",
+        "English": "Your clan information has been updated successfully!"
+    },
+    {
+        "key": "Loading_Invite_Join_Club",
+        "English": "Submitting, wait a monment please."
+    },
+    {
+        "key": "Loading_RequestJoinClub",
+        "English": "Submitting, wait a monment please."
+    },
+    {
+        "key": "Loading_Leave_Clubing",
+        "English": "Submitting, wait a monment please."
+    },
+    {
+        "key": "Club_Members_Item_Numbers",
+        "English": "Members: {0} / {1} - {2}"
+    },
+    {
+        "key": "Club_Level",
+        "English": "Lv.{0}"
+    },
+    {
+        "key": "UI_Club_Rank",
+        "English": "RANK:"
+    },
+    {
+        "key": "UI_Club_MemberCount",
+        "English": "MEMBERS:"
+    },
+    {
+        "key": "UI_Club_Score",
+        "English": "POINTS:"
+    },
+    {
+        "key": "UI_Club_Membership",
+        "English": "Clan Membership:"
+    },
+    {
+        "key": "Not_In_Club_Title",
+        "English": "Sorry"
+    },
+    {
+        "key": "Not_In_Club_Description",
+        "English": "You have been removed from the clan."
+    },
+    {
+        "key": "In_Club_Title",
+        "English": "Join"
+    },
+    {
+        "key": "In_Club_Description",
+        "English": "You have joined the clan."
+    },
+    {
+        "key": "Quit_Club_Title",
+        "English": "Leave Clan"
+    },
+    {
+        "key": "Quit_Club_Description",
+        "English": "You have leaved the clan."
+    },
+    {
+        "key": "Accept",
+        "English": "ACCEPT"
+    },
+    {
+        "key": "Reject",
+        "English": "REJECT"
+    },
+    {
+        "key": "removed_from_club_title",
+        "English": "SORRY"
+    },
+    {
+        "key": "removed_from_club",
+        "English": "You have been removed from the Clan '{0}'. You can join a new Clan now."
+    },
+    {
+        "key": "club_gift_to_you",
+        "English": "{0} sent you a {1}"
+    },
+    {
+        "key": "club_gift_to_you_title",
+        "English": "CLAN GIFT"
+    },
+    {
+        "key": "Accept_Thanks",
+        "English": "Thanks"
+    },
+    {
+        "key": "invitation_to_club_title",
+        "English": "CLAN INVITATION"
+    },
+    {
+        "key": "player1_invitation_to_club",
+        "English": "{0} invited you to join the Clan '{1}'."
+    },
+    {
+        "key": "player_request_to_club",
+        "English": "{0} requested to join Clan."
+    },
+    {
+        "key": "club_ship_public",
+        "English": "Public"
+    },
+    {
+        "key": "club_ship_private",
+        "English": "Private"
+    },
+    {
+        "key": "btn_ok",
+        "English": "OK"
+    },
+    {
+        "key": "club_Requesting",
+        "English": "Invite pending to the Clan '<color=green>{0}</color>'."
+    },
+    {
+        "key": "disapprove_join_club_title",
+        "English": "REFUSED"
+    },
+    {
+        "key": "disapprove_join_club_des",
+        "English": "The Clan '<color=green>{0}</color>' is not accepting new members now."
+    },
+    {
+        "key": "club_thanks_title",
+        "English": "THANKS"
+    },
+    {
+        "key": "club_thanks_from_player",
+        "English": "{0} sent thanks for the Clan Gift."
+    },
+    {
+        "key": "ClubStore_Gift_Title",
+        "English": "You Got"
+    },
+    {
+        "key": "ClubStore_Gift_Thanks",
+        "English": "Thanks"
+    },
+    {
+        "key": "Leader",
+        "English": "Leader"
+    },
+    {
+        "key": "Co-Leader",
+        "English": "Co-Leader"
+    },
+    {
+        "key": "Member",
+        "English": "Member"
+    },
+    {
+        "key": "Invite_To_Club_LongTitle",
+        "English": "Invite your Solitaire Friends to join your Clan."
+    },
+    {
+        "key": "Invite",
+        "English": "Invite"
+    },
+    {
+        "key": "Editor_To_Member",
+        "English": "Demote to\nMember"
+    },
+    {
+        "key": "Remove_Member",
+        "English": "Remove"
+    },
+    {
+        "key": "Editor_To_ViceChairman",
+        "English": "Promote to\nCo-Leader"
+    },
+    {
+        "key": "Total_Stars",
+        "English": "Total Stars: {0}"
+    },
+    {
+        "key": "Max_Levels",
+        "English": "Max Levels: {0}"
+    },
+    {
+        "key": "Master_Max_Levels",
+        "English": "Max Master Levels: {0}"
+    },
+    {
+        "key": "Club_IsFull_Title",
+        "English": "Clan Alert"
+    },
+    {
+        "key": "Club_IsFull_Description",
+        "English": "The Clan is full, choose a new one to join."
+    },
+    {
+        "key": "Other_In_Club_Now_Title",
+        "English": "Clan Alert"
+    },
+    {
+        "key": "Other_In_Club_Now_Description",
+        "English": "{0} has joined a Clan."
+    },
+    {
+        "key": "LeaveClub_Title",
+        "English": "LEAVE CLAN"
+    },
+    {
+        "key": "Leave_Club_only_you_description",
+        "English": "You are the last member in the Clan, leave the Clan means deleting the Clan!"
+    },
+    {
+        "key": "Leave_Club_description",
+        "English": "Are you sure to Leave the Clan to look for a new one?"
+    },
+    {
+        "key": "Btn_Leave",
+        "English": "Leave"
+    },
+    {
+        "key": "Btn_Cancel",
+        "English": "Cancel"
+    },
+    {
+        "key": "Remove_User_Title",
+        "English": "CLAN MANAGEMENT"
+    },
+    {
+        "key": "Remove_User_description",
+        "English": "Are you sure to remove the member from your Clan?"
+    },
+    {
+        "key": "Remove_User_Success_Title",
+        "English": "CLAN MANAGEMENT"
+    },
+    {
+        "key": "Remove_User_Success_description",
+        "English": "You successfully removed a member!"
+    },
+    {
+        "key": "Btn_Remove",
+        "English": "Remove"
+    },
+    {
+        "key": "Chat_User_Join",
+        "English": "just joined the Clan."
+    },
+    {
+        "key": "Chat_User_Leave",
+        "English": "has left the Clan."
+    },
+    {
+        "key": "Chat_User_Removed",
+        "English": "has been removed from the Clan."
+    },
+    {
+        "key": "Chat_Gift",
+        "English": "send all a <color=#79FFFE>{0}</color>"
+    },
+    {
+        "key": "InviteJoinClubCompleted_Title",
+        "English": "INVITATION SUCCESS!"
+    },
+    {
+        "key": "InviteJoinClubCompleted_Description",
+        "English": "Invitation sent successfully!"
+    },
+    {
+        "key": "Club_Name_Canot_Empty_Title",
+        "English": "Clan Alert!"
+    },
+    {
+        "key": "Club_Name_Canot_Empty_Description",
+        "English": "Please provide both a name and motto for your Clan!"
+    },
+    {
+        "key": "Request_Join_Club_Success_Title",
+        "English": "REQUEST SUCCESS!"
+    },
+    {
+        "key": "Request_Join_Club_Success_Description",
+        "English": "Request successed, waiting for review."
+    },
+    {
+        "key": "Editor_User_Title",
+        "English": "CLAN MANAGEMENT"
+    },
+    {
+        "key": "Editor_User_Demote_description",
+        "English": "Are you sure to Demote <color=green>{0}</color> from Co-Leader to Member?"
+    },
+    {
+        "key": "Editor_User_PromoteToCoLeader_description",
+        "English": "Are you sure to Promote <color=green>{0}</color> to Co-Leader?"
+    },
+    {
+        "key": "Demoted_Role_To",
+        "English": "has been demoted to {0}"
+    },
+    {
+        "key": "Promote_Role_To",
+        "English": "has been promoted to {0}"
+    },
+    {
+        "key": "Editor_Member_Completed_Title",
+        "English": "CLAN MANAGEMENT"
+    },
+    {
+        "key": "Editor_ToMember_Completed_description",
+        "English": "<color=green>{0}</color> has been demoted to Clan Member."
+    },
+    {
+        "key": "Editor_To_Leader_Completed_description",
+        "English": "<color=green>{0}</color> has been promoted to Co-Leader."
+    },
+    {
+        "key": "Watting_Leader_Accept_Title",
+        "English": "Success!"
+    },
+    {
+        "key": "Watting_Leader_Accept_Description",
+        "English": "Request to join the Clan - <color=green>{0}</color> sent"
+    },
+    {
+        "key": "Not_Found_Club_Title",
+        "English": "Clan Alert!"
+    },
+    {
+        "key": "Not_Found_Club_Content",
+        "English": "Sorry, the Clan you want to join no longer exists!"
+    },
+    {
+        "key": "Remove_Member_Completed_Title",
+        "English": "Clan MANAGEMENT"
+    },
+    {
+        "key": "Remove_ToMember_Completed_description",
+        "English": "You successfully removed a member!"
+    },
+    {
+        "key": "Operation_Faild_Title",
+        "English": "ERROR"
+    },
+    {
+        "key": "Operation_Faild_Description",
+        "English": "Sorry, operation failed! Please try again later!"
+    },
+    {
+        "key": "btn_Request",
+        "English": "Request"
+    },
+    {
+        "key": "btn_Join_Now",
+        "English": "Join Now"
+    },
+    {
+        "key": "btn_Invite",
+        "English": "Invite"
+    },
+    {
+        "key": "btn_Create",
+        "English": "Create"
+    },
+    {
+        "key": "btn_Modify",
+        "English": "Modify"
+    },
+    {
+        "key": "btn_Store",
+        "English": "Store"
+    },
+    {
+        "key": "ui_creator_cost_coins",
+        "English": "Cost:    5000"
+    },
+    {
+        "key": "Leave_Request_Join_Club_Title",
+        "English": "LEAVE CLAN"
+    },
+    {
+        "key": "Leave_Request_Join_Club_description",
+        "English": "Are you sure to Leave the Clan to look for a new one?"
+    },
+    {
+        "key": "Request_Join_Club_Success_And_Leave_Description",
+        "English": "Request successed, waiting for review.\nYou have been removed from the clan."
+    },
+    {
+        "key": "Request_Join_Club_IsFull_Description",
+        "English": "The Clan is full, are you sure to request to join?"
+    },
+    {
+        "key": "SuperTreasure_Tips_Title",
+        "English": "LOCKED!"
+    },
+    {
+        "key": "SuperTreasure_Tips_Lock_Description",
+        "English": "This is locked, upgrade clan to level 10 to unlock!"
+    },
+    {
+        "key": "SuperTreasure_Tips_Lock_ByScore_Description",
+        "English": "You must raise your club point to over {0:N0} to collect the Super Diamond Chest.\n\n <color=#2B7B00>Current: {1}</color>"
+    },
+    {
+        "key": "btn_collect",
+        "English": "Collect"
+    },
+    {
+        "key": "Chat_Get_SuperTreasure",
+        "English": "get <color=#79FFFE>{0}</color> by open the <color=#79FFFE>SUPER DIAMOND CHEST</color>!"
+    },
+    {
+        "key": "ui_Club_Detail",
+        "English": "POINTS: {0}    MEMBERS: {1}"
+    }
+]

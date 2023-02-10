@@ -1,0 +1,398 @@
+{
+    "Configs": [
+        {
+            "identifier": "Compeleted Master Level 50",
+            "achievementType": 11,
+            "scheduleData": {
+                "world": -1,
+                "chapter": 4,
+                "level": 9
+            },
+            "NeedCount": 1,
+            "AvaterFileName": "expert_1",
+            "Title": "JUNIOR MASTER",
+            "OrderIndex": -1
+        },
+        {
+            "identifier": "Compeleted Master Level 100",
+            "achievementType": 11,
+            "scheduleData": {
+                "world": -1,
+                "chapter": 9,
+                "level": 9
+            },
+            "NeedCount": 1,
+            "AvaterFileName": "expert_2",
+            "Title": "INTERMEDIATE MASTER",
+            "OrderIndex": -1
+        },
+        {
+            "identifier": "Compeleted Master Level 150",
+            "achievementType": 11,
+            "scheduleData": {
+                "world": -1,
+                "chapter": 14,
+                "level": 9
+            },
+            "NeedCount": 1,
+            "AvaterFileName": "expert_3",
+            "Title": "SENIOR MASTER",
+            "OrderIndex": -1
+        },
+        {
+            "Date": "2019-12-25",
+            "identifier": "Special Win 30",
+            "achievementType": 5,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 30,
+            "AvaterFileName": "2",
+            "Title": "Christmas Day",
+            "OrderIndex": 0
+        },
+        {
+            "Date": "2019-11-1",
+            "identifier": "Special Clear 200 club cards",
+            "achievementType": 3,
+            "scheduleData": {
+                "world": 2,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 200,
+            "AvaterFileName": "halloween",
+            "Title": "Halloween Day",
+            "OrderIndex": 0
+        },
+        {
+            "Date": "2019-11-22",
+            "identifier": "Special Clear 200 spade cards",
+            "achievementType": 3,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 200,
+            "AvaterFileName": "thanksgiving",
+            "Title": "Thanksgiving Day",
+            "OrderIndex": 0
+        },
+        {
+            "Date": "2019-2-14",
+            "identifier": "Special Clear 200 Heart cards",
+            "achievementType": 3,
+            "scheduleData": {
+                "world": 1,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 200,
+            "AvaterFileName": "1",
+            "Title": "Valentine's Day",
+            "OrderIndex": 1
+        },
+        {
+            "identifier": "Use 25 Snake",
+            "achievementType": 18,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 25,
+            "AvaterFileName": "102",
+            "Title": "Use_25_Snake_Title",
+            "OrderIndex": 2
+        },
+        {
+            "identifier": "Play Game Row 10 Day",
+            "achievementType": 10,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 10,
+            "AvaterFileName": "101",
+            "Title": "Row_10_Day_Title",
+            "OrderIndex": 3
+        },
+        {
+            "identifier": "Use 10 Rocket",
+            "achievementType": 17,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 10,
+            "AvaterFileName": "100",
+            "Title": "Use_10_Rocket_Title",
+            "OrderIndex": 4
+        },
+        {
+            "identifier": "Join Bella",
+            "achievementType": 16,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 0,
+            "AvaterFileName": "7",
+            "Title": "Bella",
+            "OrderIndex": 5
+        },
+        {
+            "identifier": "Compeleted Level 11",
+            "achievementType": 11,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 10
+            },
+            "NeedCount": 1,
+            "AvaterFileName": "8",
+            "Title": "Traveller",
+            "OrderIndex": 6
+        },
+        {
+            "identifier": "Use 10 Wild",
+            "achievementType": 9,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 10,
+            "AvaterFileName": "12",
+            "Title": "Wild Wild Wild",
+            "OrderIndex": 7
+        },
+        {
+            "identifier": "Win 30",
+            "achievementType": 5,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 30,
+            "AvaterFileName": "10",
+            "Title": "Winner",
+            "OrderIndex": 8
+        },
+        {
+            "identifier": "Use Booster 25",
+            "achievementType": 8,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 25,
+            "AvaterFileName": "11",
+            "Title": "Boost It!",
+            "OrderIndex": 9
+        },
+        {
+            "identifier": "Quest 15",
+            "achievementType": 7,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 15,
+            "AvaterFileName": "9",
+            "Title": "On a Quest",
+            "OrderIndex": 10
+        },
+        {
+            "identifier": "Play 3000 Games",
+            "achievementType": 4,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 3000,
+            "AvaterFileName": "22",
+            "Title": "Golden Bella",
+            "OrderIndex": 11
+        },
+        {
+            "identifier": "Play 1500 Games",
+            "achievementType": 4,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 1500,
+            "AvaterFileName": "23",
+            "Title": "Hopper",
+            "OrderIndex": 12
+        },
+        {
+            "identifier": "Use 100 Wild",
+            "achievementType": 9,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 100,
+            "AvaterFileName": "27",
+            "Title": "Wild Wild Wild Wild",
+            "OrderIndex": 13
+        },
+        {
+            "identifier": "Win 500",
+            "achievementType": 5,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 500,
+            "AvaterFileName": "25",
+            "Title": "Mega Winner",
+            "OrderIndex": 14
+        },
+        {
+            "identifier": "Use Booster 150",
+            "achievementType": 8,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 150,
+            "AvaterFileName": "26",
+            "Title": "Boost Boost Boost",
+            "OrderIndex": 15
+        },
+        {
+            "identifier": "Quest 500",
+            "achievementType": 7,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 500,
+            "AvaterFileName": "24",
+            "Title": "Quest Master",
+            "OrderIndex": 16
+        },
+        {
+            "identifier": "Login Facebook",
+            "achievementType": 14,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 1,
+            "AvaterFileName": "5",
+            "Title": "Facebook Login",
+            "OrderIndex": 17
+        },
+        {
+            "identifier": "Invite 10 Friend",
+            "achievementType": 0,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 10,
+            "AvaterFileName": "3",
+            "Title": "Invite Friends",
+            "OrderIndex": 18
+        },
+        {
+            "identifier": "Help Friend 50 times",
+            "achievementType": 1,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 50,
+            "AvaterFileName": "6",
+            "Title": "Help Friends",
+            "OrderIndex": 19
+        },
+        {
+            "identifier": "Ask Friend 15 times",
+            "achievementType": 2,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 15,
+            "AvaterFileName": "4",
+            "Title": "Ask for Help",
+            "OrderIndex": 20
+        },
+        {
+            "identifier": "Invite 150 Friend",
+            "achievementType": 0,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 150,
+            "AvaterFileName": "20",
+            "Title": "Facebook Master",
+            "OrderIndex": 21
+        },
+        {
+            "identifier": "Invite 25 Friend",
+            "achievementType": 0,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 25,
+            "AvaterFileName": "18",
+            "Title": "Invite the Town",
+            "OrderIndex": 22
+        },
+        {
+            "identifier": "Help Friend 300 times",
+            "achievementType": 1,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 300,
+            "AvaterFileName": "21",
+            "Title": "Helping Master",
+            "OrderIndex": 23
+        },
+        {
+            "identifier": "Ask Friend 300 times",
+            "achievementType": 2,
+            "scheduleData": {
+                "world": 0,
+                "chapter": 0,
+                "level": 0
+            },
+            "NeedCount": 300,
+            "AvaterFileName": "19",
+            "Title": "Friendly",
+            "OrderIndex": 24
+        }
+    ]
+}

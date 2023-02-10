@@ -1,0 +1,98 @@
+[
+{
+"enable": true,
+"country": 0,
+"url": "http://www.yourdomain.com/receive.asp?-1",
+"network_configs": [
+{
+"network": 0,
+"phone_service": "0000",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 1,
+"phone_service": "0001",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 2,
+"phone_service": "0002",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 3,
+"phone_service": "0003",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 4,
+"phone_service": "0004",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+}
+]
+},
+{
+"enable": true,
+"country": 1,
+"url": "http://www.yourdomain.com/receive.asp?-1",
+"network_configs": [
+{
+"network": 0,
+"phone_service": "0000",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 1,
+"phone_service": "0001",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 2,
+"phone_service": "0002",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 3,
+"phone_service": "0003",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 4,
+"phone_service": "0004",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+}
+]
+},
+{
+"enable": true,
+"country": 2,
+"url": "http://www.yourdomain.com/receive.asp?-1",
+"network_configs": [
+{
+"network": 0,
+"phone_service": "0000",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 1,
+"phone_service": "0001",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 2,
+"phone_service": "0002",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 3,
+"phone_service": "0003",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+},
+{
+"network": 4,
+"phone_service": "0004",
+"url": "http://www.yourdomain.com/receive.asp?-1"
+}
+]
+}
+]

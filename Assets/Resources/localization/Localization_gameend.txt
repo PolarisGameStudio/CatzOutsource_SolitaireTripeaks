@@ -1,0 +1,80 @@
+[
+    {
+        "key": "level_num",
+        "English": "LEVEL {0}",
+        "German": "LEVEL {0}",
+        "Spanish": "NIVEL {0}",
+        "French": "NIVEAU {0}"
+    },
+    {
+        "key": "completion",
+        "English": "LEVEL BONUS",
+        "German": "LEVELBONUS",
+        "Spanish": "BONIFICACIÓN DE NIVEL",
+        "French": "BONUS DE NIVEAU"
+    },
+    {
+        "key": "speed",
+        "English": "TIME BONUS",
+        "German": "ZEITBONUS",
+        "Spanish": "BONIFICACIÓN DE TIEMPO",
+        "French": "BONUS DE TEMPS"
+    },
+    {
+        "key": "streaks",
+        "English": "COMBO BONUS",
+        "German": "KOMBOBONUS",
+        "Spanish": "BONIFICACIÓN DE COMBINACIÓN",
+        "French": "BONUS DE COMBO"
+    },
+    {
+        "key": "won",
+        "English": "TOTAL",
+        "German": "GESAMT",
+        "Spanish": "TOTAL",
+        "French": "TOTAL"
+    },
+    {
+        "key": "btn_replay",
+        "English": "REPLAY",
+        "German": "WIEDERHOLUNG",
+        "Spanish": "VOLVER A JUGAR",
+        "French": "REJOUER"
+    },
+    {
+        "key": "btn_next",
+        "English": "NEXT",
+        "German": "WEITER",
+        "Spanish": "SIGUIENTE",
+        "French": "SUIVANT"
+    },
+    {
+        "key": "invite",
+        "English": "Get 15k Coins when enters!",
+        "German": "Erhalte 15k Münzen, wenn ein Spieler dem Spiel beitritt.",
+        "Spanish": "Consigue 15 000 monedas al entrar",
+        "French": "Obtenez 15 000 pièces en cas de participation"
+    },
+    {
+        "key": "btn_login",
+        "English": "LOGIN",
+        "German": "ANMELDUNG",
+        "Spanish": "INICIAR SESIÓN",
+        "French": "CONNEXION"
+    },
+    {
+        "key": "btn_invite",
+        "English": "INVITE",
+        "German": "Einladen",
+        "Spanish": "Invitar",
+        "French": "Inviter"
+    },
+    {
+        "key": "clan_points",
+        "English": "CLAN POINTS +{0}"
+    },
+    {
+        "key": "clan_bonus",
+        "English": "CLAN BONUS +{0}"
+    }
+]

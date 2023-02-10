@@ -1,0 +1,79 @@
+[
+    {
+        "key": "btn_login",
+        "English": "LOGIN",
+        "German": "ANMELDUNG",
+        "Spanish": "INICIAR SESIÓN",
+        "French": "CONNEXION"
+    },
+    {
+        "key": "btn_logout",
+        "English": "LOGOUT",
+        "German": "ABMELDEN",
+        "Spanish": "CERRAR SESIÓN",
+        "French": "DÉCONNEXION"
+    },
+    {
+        "key": "btn_quit",
+        "English": "QUIT",
+        "German": "BEENDEN",
+        "Spanish": "SALIR",
+        "French": "QUITTER"
+    },
+    {
+        "key": "btn_contact",
+        "English": "SUPPORT",
+        "German": "SUPPORT",
+        "Spanish": "ASISTENCIA",
+        "French": "ASSISTANCE"
+    },
+    {
+        "key": "btn_help",
+        "English": "HELP",
+        "German": "Hilfe",
+        "Spanish": "Ayuda",
+        "French": "Aide"
+    },
+    {
+        "key": "btn_privacy",
+        "English": "PRIVACY",
+        "German": "DATENSCHUTZ",
+        "Spanish": "PRIVACIDAD",
+        "French": "CONFIDENTIALITÉ"
+    },
+    {
+        "key": "label_sound",
+        "English": "SOUND",
+        "German": "SOUND",
+        "Spanish": "SONIDO",
+        "French": "SON"
+    },
+    {
+        "key": "label_music",
+        "English": "MUSIC",
+        "German": "MUSIK",
+        "Spanish": "MÚSICA",
+        "French": "MUSIQUE"
+    },
+    {
+        "key": "label_stars",
+        "English": "{0} Stars",
+        "German": "{0} Sterne",
+        "Spanish": "{0} estrellas",
+        "French": "{0} étoiles"
+    },
+    {
+        "key": "label_level",
+        "English": "Level {0}",
+        "German": "LEVEL {0}",
+        "Spanish": "NIVEL {0}",
+        "French": "NIVEAU {0}"
+    },
+    {
+        "key": "label_change_portrait",
+        "English": "Change\nAVATAR",
+        "German": "Avatar ändern",
+        "Spanish": "Cambiar avatar",
+        "French": "Modifier l'avatar"
+    }
+]

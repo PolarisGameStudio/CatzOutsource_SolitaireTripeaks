@@ -1,0 +1,159 @@
+{
+    "playWorld": 0,
+    "worlds": [
+      {
+        "chapters": [
+          {
+            "lvs": [
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              }
+            ],
+            "playLevel": 19
+          },
+          {
+            "lvs": [
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              },
+              {
+                "StarComplete": true,
+                "StarTime": true,
+                "StarSteaks": true,
+                "WonCoins": 0
+              }
+            ],
+            "playLevel": 0
+          }
+        ],
+        "world": 0,
+        "playChapter": 1
+      }
+    ]
+  }

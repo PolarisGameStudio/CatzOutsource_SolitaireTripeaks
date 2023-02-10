@@ -1,0 +1,32 @@
+[
+    {
+        "key": "bank_title",
+        "English": "Gold Reserve!"
+    },
+    {
+        "key": "bank_btn_OK",
+        "English": "OK"
+    },
+    {
+        "key": "Full_Bank",
+        "English": "The safe is full! Hurry to buy it at a great price!"
+    },
+    {
+        "key": "Lower_Bank",
+        "English": "Collect {0} coins to buy the contents of the safe at a great price!"
+    },
+    {
+        "key": "Collect_Bank",
+        "English": "Great job! Now you can buy the safe or keep collecting coins!"
+    },
+    {
+        "key": "Got_A_Bank",
+        "English": "Congratulations! You got a new safe. Beat levels to save up coins and you'll be able to buy them at a special price!"
+        
+    }
+    ,
+    {
+        "key": "Full",
+        "English": "Full"
+    }
+]

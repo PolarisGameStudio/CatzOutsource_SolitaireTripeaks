@@ -1,0 +1,152 @@
+{
+  "rewardAdOrder": [
+    {
+      "name": "UnityAds",
+      "priority": 1,
+      "enable": true
+    },
+    {
+      "name": "AdMob",
+      "priority": 2,
+      "enable": true
+    },
+    {
+      "name": "Vungle",
+      "priority": 3,
+      "enable": false
+    }
+  ],
+  "interstitialAdOrder": [
+    {
+      "name": "AdMob",
+      "priority": 1,
+      "enable": true
+    },
+    {
+      "name": "UnityAds",
+      "priority": 2,
+      "enable": true
+    }
+  ],
+  "bannerAdOrder": [
+    {
+      "name": "AdMob",
+      "priority": 1,
+      "enable": true
+    }
+  ],
+  "admob_config": {
+    "appIdAdmobAndroid": "ca-app-pub-9655538822838046~7195118494",
+    "android_name": [
+      "Christmas Blast Legend Free | Android",
+      "Jelly Blast Legend 2 Free | Android",
+      "Jelly Dark Legend Free | Android",
+      "Jelly Dark Legend Free | Android",
+      "9x9 Block! Free | Android"
+    ],
+    "android_banner_ids": [
+      "ca-app-pub-9655538822838046/6577941985",
+      "ca-app-pub-9655538822838046/4630421215",
+      "ca-app-pub-9655538822838046/7435267669",
+      "ca-app-pub-9655538822838046/4658673811",
+      "ca-app-pub-9655538822838046/9929093040"
+    ],
+    "android_interstitial_ids": [
+      "ca-app-pub-9655538822838046/1325615308",
+      "ca-app-pub-9655538822838046/8103753673",
+      "ca-app-pub-9655538822838046/8442470846",
+      "ca-app-pub-9655538822838046/1809149194",
+      "ca-app-pub-9655538822838046/3740278584"
+    ],
+    "android_reward_ids": [
+      "ca-app-pub-9655538822838046/1381100408",
+      "ca-app-pub-9655538822838046/9826907576",
+      "ca-app-pub-9655538822838046/1142565329",
+      "ca-app-pub-9655538822838046/2739087486",
+      "ca-app-pub-9655538822838046/5679792627"
+    ],
+    "appIdAdmobIos": "ca-app-pub-9655538822838046~7195118494",
+    "ios_name": [
+      "Christmas Blast Legend Free | Android",
+      "Jelly Blast Legend 2 Free | Android",
+      "Jelly Dark Legend Free | Android",
+      "Jelly Dark Legend Free | Android",
+      "9x9 Block! Free | Android"
+    ],
+    "ios_banner_ids": [
+      "ca-app-pub-9655538822838046/6577941985",
+      "ca-app-pub-9655538822838046/4630421215",
+      "ca-app-pub-9655538822838046/7435267669",
+      "ca-app-pub-9655538822838046/4658673811",
+      "ca-app-pub-9655538822838046/9929093040"
+    ],
+    "ios_interstitial_ids": [
+      "ca-app-pub-9655538822838046/1325615308",
+      "ca-app-pub-9655538822838046/8103753673",
+      "ca-app-pub-9655538822838046/8442470846",
+      "ca-app-pub-9655538822838046/1809149194",
+      "ca-app-pub-9655538822838046/3740278584"
+    ],
+    "ios_reward_ids": [
+      "ca-app-pub-9655538822838046/1381100408",
+      "ca-app-pub-9655538822838046/9826907576",
+      "ca-app-pub-9655538822838046/1142565329",
+      "ca-app-pub-9655538822838046/2739087486",
+      "ca-app-pub-9655538822838046/5679792627"
+    ],
+    "enable_ad": true,
+    "id_device_tests": [
+      "2102b0fb0917d4440228a5c9d0755ae1",
+      "290c09d5ae851578f13d25fb25645a3d"
+    ]
+  },
+  "unity_ads_config": {
+    "enable_ad":true,
+    "project_ids": [
+      "a5a18be7-9e51-4d31-b798-2e8c763edf1f",
+      "c4eb7d1f-d0c6-421c-a77c-a156c1c34a20",
+      "e8b0e474-9007-4adb-89a2-5507df721c84",
+      "d5f88bf5-f31f-4398-bafa-d8f677116e33"
+    ],
+    "android_names": [
+      "Strike Chicken Shooter",
+      "25 Squares - Tap Tap",
+      "9x9 Block!",
+      "aa Knife Legend"
+    ],
+    "android_ids": [
+      "2980202",
+      "1612217",
+      "1665942",
+      "1727475"
+    ],
+    "ios_names": [
+      "Strike Chicken Shooter",
+      "25 Squares - Tap Tap",
+      "9x9 Block!",
+      "aa Knife Legend"
+    ],
+    "ios_ids": [
+      "2980203",
+      "1612218",
+      "1665943",
+      "1727476"
+    ]
+  },
+  "vungle_config": {
+	"enable_ad":false,
+    "android_ids": [
+      "id_01",
+      "id_02"
+    ],
+    "ios_ids": [
+      "id_01",
+      "id_02"
+    ],
+    "winphone_ids": [
+      "id_01",
+      "id_02"
+    ]
+  },
+  "times_event_show_interstitial": 3
+}

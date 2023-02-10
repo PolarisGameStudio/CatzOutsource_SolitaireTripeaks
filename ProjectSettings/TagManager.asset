@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - IslandLayer
+  - 
+  - 
+  - UILayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - AchievementLayer
+  - 
+  - QuestLayer
+  - 
+  - 
+  - GuideLayer
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "PlayUILayer"
+    uniqueID: 2003429697
+    locked: 0
+  - name: "PopBackgroundLayer"
+    uniqueID: 1841715651
+    locked: 0
+  - name: "PopUILayer"
+    uniqueID: 2745720155
+    locked: 0
+  - name: "TopLayer"
+    uniqueID: 2440015533
+    locked: 0

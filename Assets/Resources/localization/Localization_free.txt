@@ -1,0 +1,79 @@
+[
+    {
+        "key": "btn_collect",
+        "English": "COLLECT",
+        "German": "Einsammeln",
+        "Spanish": "Reunir",
+        "French": "Récupérer"
+    },
+    {
+        "key": "btn_invite",
+        "English": "INVITE",
+        "German": "Einladen",
+        "Spanish": "Invitar",
+        "French": "Inviter"
+    },
+    {
+        "key": "btn_login",
+        "English": "LOGIN",
+        "German": "ANMELDUNG",
+        "Spanish": "INICIAR SESIÓN",
+        "French": "CONNEXION"
+    },
+    {
+        "key": "btn_play",
+        "English": "SPIN",
+        "German": "DREHEN",
+        "Spanish": "GIRAR",
+        "French": "JOUER"
+    },
+    {
+        "key": "btn_watch",
+        "English": "WATCH",
+        "German": "ZUSEHEN",
+        "Spanish": "VER",
+        "French": "REGARDER"
+    },
+    {
+        "key": "label_coming_soon",
+        "English": "COMING\nSOON",
+        "German": "Bald verfügbar",
+        "Spanish": "Próximamente",
+        "French": "Bientôt disponible"
+    },
+    {
+        "key": "btn_slot",
+        "English": "SLOTS",
+        "German": "SLOTS",
+        "Spanish": "SLOTS",
+        "French": "SLOTS"
+    },
+    {
+        "key": "btn_WHELL",
+        "English": "LUCKY\nWHEEL",
+        "German": "LUCKY\nWHEEL",
+        "Spanish": "LUCKY\nWHEEL",
+        "French": "LUCKY\nWHEEL"
+    },
+    {
+        "key": "ui_up_to_coins",
+        "English": "UP TO     {0:N0}",
+        "German": "BIS ZU {0:N0}",
+        "Spanish": "HASTA {0:N0}",
+        "French": "JUSQU'À {0:N0}"
+    },
+    {
+        "key": "ui_LimitCoins",
+        "English": "Max {0}",
+        "German": "Max. {0}",
+        "Spanish": "Máx. {0}",
+        "French": "Max {0}"
+    },
+    {
+        "key": "ui_Slots_Coins",
+        "English": "win\n1,000,000 Coins",
+        "German": "Gewinne\n1,000,000 Münzen.",
+        "Spanish": "Gana\n1,000,000 monedas",
+        "French": "Gagnez\n1,000,000 pièces"
+    }
+]

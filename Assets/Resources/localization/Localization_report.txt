@@ -1,0 +1,60 @@
+[
+    {
+        "key": "Restore_description",
+        "English": "Lost Game Data"
+    },
+    {
+        "key": "PurchaseFailed_description",
+        "English": "Purchase Failed"
+    },
+    {
+        "key": "ReportBug_description",
+        "English": "Report Bug"
+    },
+	
+	,
+    {
+        "key": "btn_reply",
+        "English": "Reply"
+    }
+	,
+    {
+        "key": "btn_collect",
+        "English": "Collect"
+    }
+	,
+    {
+        "key": "btn_ok",
+        "English": "OK"
+    }
+	,
+    {
+        "key": "btn_details",
+        "English": "Details"
+    }
+	,
+    {
+        "key": "btn_load_game_data",
+        "English": "LOAD GAME"
+    }
+	,
+    {
+        "key": "desc_report_completed",
+        "English": "We have received your questions/suggestions, you will receive our reply in 'INBOX'."
+    }
+	,
+    {
+        "key": "title_report_completed",
+        "English": "Thank You"
+    }
+	,
+    {
+        "key": "title_report_faild",
+        "English": "Sorry"
+    }
+	,
+    {
+        "key": "desc_report_faild",
+        "English": "Submit failed, please check your network before trying."
+    }
+]

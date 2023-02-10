@@ -1,0 +1,271 @@
+[
+    {
+        "key": "btn_rewards",
+        "English": "Gift",
+        "German": "Geschenk",
+        "Spanish": "Regalo",
+        "French": "Cadeau"
+    },
+    {
+        "key": "btn_messages",
+        "English": "Messages",
+        "German": "Nachrichten",
+        "Spanish": "Mensajes",
+        "French": "Messages"
+    },
+    {
+        "key": "btn_collect",
+        "English": "COLLECT",
+        "German": "Einsammeln",
+        "Spanish": "Reunir",
+        "French": "Récupérer"
+    },
+    {
+        "key": "btn_view",
+        "English": "VIEW",
+        "German": "Ansehen",
+        "Spanish": "Ver",
+        "French": "Voir"
+    },
+    {
+        "key": "btn_watch",
+        "English": "WATCH"
+    },
+    {
+        "key": "btn_NO_WATCH",
+        "English": "NEXT TIME"
+    },
+    {
+        "key": "btn_enable",
+        "English": "ENABLE",
+        "German": "Aktivieren",
+        "Spanish": "Habilitar",
+        "French": "Activer"
+    },
+    {
+        "key": "rewards_daily_bonus_title",
+        "English": "DAILY BONUS",
+        "German": "TAGESBONUS",
+        "Spanish": "BONIFICACIÓN DIARIA",
+        "French": "BONUS QUOTIDIEN"
+    },
+    {
+        "key": "rewards_VIDEO_bonus_title",
+        "English": "VIDEO BONUS"
+    },
+    {
+        "key": "rewards_daily_bonus_desc",
+        "English": "Come back every day for daily bonus!",
+        "German": "Komm morgen wieder, um Tagesbelohnungen zu erhalten.",
+        "Spanish": "Vuelve mañana para recibir recompensas diarias",
+        "French": "Veuillez revenir demain pour recevoir vos récompenses quotidiennes"
+    },
+    {
+        "key": "rewards_VIDEO_bonus_desc",
+        "English": "Watch a brief video to get reward coins."
+    },
+    {
+        "key": "news_facebook_invite_title",
+        "English": "15k BONUS COINS",
+        "German": "15k BONUSMÜNZEN",
+        "Spanish": "15 000 MONEDAS DE BONIFICACIÓN",
+        "French": "BONUS DE 15 000 PIÈCES"
+    },
+    {
+        "key": "news_facebook_invite_desc",
+        "English": "Invite friends to play Pyramid Solitaire and get 15k Coins each time.",
+        "German": "Lade Freunde zu Pyramid Solitaire ein, und du erhältst jedesmal 15k Münzen.",
+        "Spanish": "Invita a amigos a jugar al solitario Pyramid y recibe 15 000 monedas cada vez",
+        "French": "Invitez des amis à jouer au Pyramid Solitaire et recevez 15 000 pièces à chaque fois."
+    },
+    {
+        "key": "news_notifications_title",
+        "English": "NOTIFICATIONS",
+        "German": "BENACHRICHTIGUNGEN",
+        "Spanish": "NOTIFICACIONES",
+        "French": "NOTIFICATIONS"
+    },
+    {
+        "key": "news_notifications_desc",
+        "English": "Enable notifications and be the first to know about new events and bonus coins!",
+        "German": "Aktiviere Benachrichtigungen und erfahre direkt von neuen Events und Bonusmünzen!",
+        "Spanish": "Habilita las notificaciones y sé el primero en conocer los nuevos eventos y las monedas de bonificación",
+        "French": "Activez les notifications pour tout savoir des nouveaux événements et des pièces bonus"
+    },
+    {
+        "key": "rewards_friend_gift_desc",
+        "English": "{0} sent you gift!",
+        "German": "{0} hat dir ein Geschenk gesendet.",
+        "Spanish": "{0} te ha enviado un regalo",
+        "French": "{0} vous a envoyé un cadeau"
+    },
+    {
+        "key": "rewards_friends_gift_desc",
+        "English": "{0} and {1} other person sent you gift!",
+        "German": "{0} und {1} andere Person haben dir ein Geschenk gesendet.",
+        "Spanish": "{0} y {1} otra persona te han enviado un regalo",
+        "French": "{0} et {1} autre(s) personne(s) vous ont envoyé un cadeau"
+    },
+    {
+        "key": "messages_friend_ask_help_desc",
+        "English": "{0} asked for help!",
+        "German": "{0} hat um Hilfe gebeten.",
+        "Spanish": "{0} ha pedido ayuda",
+        "French": "{0} a réclamé votre aide"
+    },
+    {
+        "key": "messages_friends_ask_help_desc",
+        "English": "{0} and {1} other person asked for help!",
+        "German": "{0} und {1} andere Person haben um Hilfe gebeten.",
+        "Spanish": "{0} y {1} otra persona han pedido ayuda",
+        "French": "{0} et {1} autre(s) personne(s) ont réclamé votre aide"
+    },
+    {
+        "key": "messages_invite_you_desc",
+        "English": "invited you, send a gift back!",
+        "German": "hat dich eingeladen, sende ein Geschenk zurück.",
+        "Spanish": "te ha invitado, envíale un regalo",
+        "French": "vous a invité(e), envoyez-lui un cadeau"
+    },
+    {
+        "key": "messages_btn_help",
+        "English": "HELP",
+        "German": "Hilfe",
+        "Spanish": "Ayuda",
+        "French": "Aide"
+    },
+    {
+        "key": "rewards_invited_friend_gift_desc",
+        "English": "{0} played Pyramid Solitaire, here is your gift!",
+        "German": "{0} hat Pyramid Solitaire gespielt. Hier ist dein Geschenk!",
+        "Spanish": "{0} ha jugado al solitario Pyramid, aquí tienes tu regalo",
+        "French": "{0} a joué au Pyramid Solitaire, voici votre cadeau"
+    },
+    {
+        "key": "invite_you_button",
+        "English": "Help",
+        "German": "Hilfe",
+        "Spanish": "Ayuda",
+        "French": "Aide"
+    },
+    {
+        "key": "Send coins in facebook",
+        "English": "Here is your gift",
+        "German": "Hier ist dein Geschenk.",
+        "Spanish": "Aquí tienes tu regalo",
+        "French": "Voici votre cadeau"
+    },
+    {
+        "key": "thank invite in facebook",
+        "English": "Thank you for the invite, here's your gift",
+        "German": "Danke für die Einladung! Hier ist dein Geschenk.",
+        "Spanish": "Gracias por la invitación, aquí tienes tu regalo",
+        "French": "Merci pour l'invitation, voici votre cadeau"
+    },
+    {
+        "key": "No_New_Messages_Available",
+        "English": "No New Messages",
+        "German": "Keine neuen Nachrichten",
+        "Spanish": "No hay mensajes nuevos",
+        "French": "Pas de nouveaux messages"
+    },
+    {
+        "key": "JOIN_THE_FUN",
+        "English": "HAVE NEW FUN",
+        "German": "NEUER SPASS",
+        "Spanish": "DIVIÉRTETE",
+        "French": "AMUSEZ-VOUS BIEN"
+    },
+    {
+        "key": "Quest_New_Desc",
+        "English": "ON {0}:\nWIN {1}",
+        "German": "GEWINNE {1} BEI {0}",
+        "Spanish": "EN {0}:\nGANA {1}",
+        "French": "SUR {0}:\nGAGNEZ {1}"
+    },
+    {
+        "key": "news_facebook_login_title",
+        "English": "FACEBOOK!",
+        "German": "FACEBOOK",
+        "Spanish": "FACEBOOK",
+        "French": "FACEBOOK"
+    },
+    {
+        "key": "news_facebook_login_desc",
+        "English": "Login with Facebook for free wilds, bonus coins and friends gifts.",
+        "German": "Melde dich mit Facebook an, um kostenlos Joker, Bonusmünzen und Freundegeschenke zu erhalten.",
+        "Spanish": "Inicia sesión en Facebook para ganar increíbles bonificaciones de monedas y regalos de tus amigos.",
+        "French": "Connectez-vous via Facebook pour obtenir des Jokers gratuits, des pièces bonus et des cadeaux de la part de vos amis."
+    },
+    {
+        "key": "Gift_Title",
+        "English": "Gift",
+        "German": "Geschenk",
+        "Spanish": "Regalo",
+        "French": "Cadeau"
+    },
+    {
+        "key": "Gift_desc",
+        "English": "Here is your gift: {0} {1}",
+        "German": "Hier ist dein Geschenk: {0} {1}",
+        "Spanish": "Aquí tienes tu regalo: {0} {1}",
+        "French": "Voici votre cadeau : {0} {1}"
+    },
+    {
+        "key": "ui_rewards",
+        "English": "Rewards",
+        "German": "Belohnungen",
+        "Spanish": "Recompensas",
+        "French": "Récompenses"
+    },
+    {
+        "key": "ui_messages",
+        "English": "Messages",
+        "German": "Nachrichten",
+        "Spanish": "Mensajes",
+        "French": "Messages"
+    },
+    {
+        "key": "DayActivity_New_Desc",
+        "English": "ON {0}:\n{1}"
+    },
+    {
+        "key": "news_facebook_page_title",
+        "English": "BE MY FRIEND"
+    },
+    {
+        "key": "news_facebook_page_desc",
+        "English": "Like us on Facebook to get the latest game update information."
+    }
+
+    ,
+    {
+        "key": "Inbox_join_club_title",
+        "English": "JOIN CLAN"
+    }
+    ,
+    {
+        "key": "Inbox_join_club_description",
+        "English": "Join a clan, chat with game friends and get free Coins and Boosters every day!"
+    }
+    ,
+    {
+        "key": "btn_Join",
+        "English": "JOIN"
+    }
+    ,
+    {
+        "key": "btn_NextTime",
+        "English": "NEXT TIME"
+    }
+    ,
+    {
+        "key": "Inbox_club_daily_bonus_title",
+        "English": "CLAN DAILY BONUS"
+    }
+    ,
+    {
+        "key": "Inbox_club_daily_bonus_description",
+        "English": "Come back every day for free Coins and Boosters."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "key": "btn_ok",
+        "English": "OK",
+        "German": "OK",
+        "Spanish": "ACEPTAR",
+        "French": "OK"
+    },
+    {
+        "key": "btn_find",
+        "English": "FIND",
+        "German": "Suchen",
+        "Spanish": "Buscar",
+        "French": "Trouver"
+    },
+    {
+        "key": "out_of_Special_Activity_Numbers_title",
+        "English": "Oops",
+        "German": "Huch",
+        "Spanish": "Ups",
+        "French": "Oups"
+    },
+    {
+        "key": "out_of_Special_Activity_Numbers_desc",
+        "English": "<color=#CB0000>{0}</color> is not enough!",
+        "German": "<color=#CB0000>{0}</color> ist nicht genug.",
+        "Spanish": "<color=#CB0000>{0}</color> no es suficiente!",
+        "French": "<color=#CB0000>{0}</color> n\\'est pas suffisant"
+    },
+    {
+        "key": "SpecialActivity_Des",
+        "English": "Collect <color=#FBFF00FF>{0}</color> across the islands to exchange bigger rewards!",
+        "German": "Sammle <color=#FBFF00FF>{0}</color> auf den Inseln ein und tausche sie gegen größere Belohnungen ein.",
+        "Spanish": "¡Consigue <color=#FBFF00FF>{0}</color> en las islas para intercambiar por recompensas mayores!",
+        "French": "Collectionnez<color=#FBFF00FF> {0}</color> sur les îles pour échanger de plus grosses récompenses !"
+    },
+    {
+        "key": "Exchange_Remain_Number",
+        "English": "Remain: {0}",
+        "German": "Übrig: {0}",
+        "Spanish": "Restante: {0}",
+        "French": "Reste: {0}"
+    },
+    {
+        "key": "x3 hours",
+        "English": "x3 hours",
+        "German": "x3 Stunden",
+        "Spanish": "x3 HORAS",
+        "French": "x3 heures"
+    },
+    {
+        "key": "Poker",
+        "English": "POKER",
+        "German": "POKER",
+        "Spanish": "PÓKER",
+        "French": "POKER"
+    },
+    {
+        "key": "BTN_SAVE_NOW",
+        "English": "SAVE NOW"
+    }
+]

@@ -1,0 +1,273 @@
+[
+    {
+        "key": "help_first_tap",
+        "English": "Welcome! Now, you have a <color=#FFC300FF>'6'</color>. Tap cards on the desk that are 1 above or 1 below your <color=#FFC300FF>'6'</color> Card to collect them!",
+        "German": "Willkommen! Du hast ein '6'. Tippe auf Karten auf dem Tisch, die 1 über oder 1 unter deiner '6'-Karte sind, um sie einzusammeln.",
+        "Spanish": "Bienvenido, tienes una '6'. Toca las cartas de la baraja que son superiores o inferiores en 1 a tu carta '6' para reunirlas.",
+        "French": "Bienvenue, vous avez un 6. Touchez les cartes immédiatement supérieures ou inférieures à votre 6 pour les collectionner"
+    },
+    {
+        "key": "help_first_tap_good",
+        "English": "Good! You will win Coins each time when you collect a card.\nGo on, do it again.",
+        "German": "Gut! Wenn du eine Karte einsammelst, bekommst du Münzen.\nNur zu, noch mal.",
+        "Spanish": "Bien, ganarás monedas cada vez que reúnas una carta. \nAdelante, vuelve a hacerlo.",
+        "French": "Vous gagnez des Pièces à chaque fois que vous \ncollectionnez une carte.Allez, continuez."
+    },
+    {
+        "key": "help_tap_stock",
+        "English": "Tap your Deck to get new cards if none can be collected from the desk.",
+        "German": "Tippe auf dein Deck, um neue Karten zu erhalten, \nwenn sich auf dem Tisch keine einsammeln lässt.",
+        "Spanish": "Toca la baraja para obtener cartas nuevas si no puedes robar ninguna de la baraja.",
+        "French": "Touchez votre deck s'il n'y a plus aucune carte à collectionner sur le plateau."
+    },
+    {
+        "key": "help_got_it",
+        "English": "You got it! Now try to collect all cards on the desk!\nGood Luck! See you later.",
+        "German": "Du hast es verstanden! Sammle alle Karten auf dem Tisch ein.\nViel Glück, bis später!",
+        "Spanish": "Lo has entendido. Ahora intenta reunir todas las cartas de la baraja.\nBuena suerte. Nos vemos.",
+        "French": "Vous avez compris. Maintenant, essayez de collectionner toutes les cartes \nsur le plateau.Bonne chance et à bientôt !"
+    },
+    {
+        "key": "help_play_multiple",
+        "English": "Now, let's practice.\nCollect cards in a row to get Combo Bonus!",
+        "German": "Üben wir ein wenig. \nSammle Karten hintereinander ein, um den Kombobonus zu erhalten.",
+        "Spanish": "Ahora, practiquemos. \nReúne cartas seguidas para obtener una bonificación de combinación.",
+        "French": "Bien, commençons l'entraînement. \nCollectionnez plusieurs cartes d'affilée pour obtenir un Bonus de combo"
+    },
+    {
+        "key": "help_play_multiple_continue",
+        "English": "You're doing great! Continue the combo!",
+        "German": "Super! Setze die Kombo fort.",
+        "Spanish": "Lo estás haciendo genial. Continuemos con la combinación.",
+        "French": "Vous vous en sortez à merveille, continuez le combo !"
+    },
+    {
+        "key": "help_play_multiple_bonus",
+        "English": "Collect 5 cards in a row will win Combo Bonus Coins each time!",
+        "German": "Sammle 5 Karten hintereinander ein, um Kombobonus-Münzen zu gewinnen.",
+        "Spanish": "Cada vez que reúnas 5 cartas seguidas obtendrás monedas de la bonificación de combinación.",
+        "French": "Collectionnez 5 cartes d'affilée pour gagner des Pièces bonus de combo à chaque fois"
+    },
+    {
+        "key": "help_play_multiple_got_star",
+        "English": "You got the Combo Star!\nCollect 5 cards in a row reach 3 times will get the Combo Star!!!",
+        "German": "Du hast den Kombostern!\nSammle 3-mal 5 Karten hintereinander ein, um den Kombostern zu erhalten.",
+        "Spanish": "Has conseguido la estrella de combinación.\nReúne 5 cartas seguidas 3 veces y recibirás la estrella de combinación.",
+        "French": "Vous avez obtenu une Étoile combo.\nCollectionnez 5 cartes d'affilée à 3 reprises pour obtenir l'Étoile combo"
+    },
+    {
+        "key": "tap_continue",
+        "English": "Tap anywhere on the screen to continue.",
+        "German": "Tippe beliebig auf den Bildschirm, um fortzufahren.",
+        "Spanish": "Toca la pantalla para continuar.",
+        "French": "Touchez l'écran pour continuer."
+    },
+    {
+        "key": "help_rope",
+        "English": "Play 2 cards to collect this card.",
+        "German": "Spiele 2 Karten aus, um diese Karte einzusammeln.",
+        "Spanish": "Juega 2 cartas para reunir esta carta.",
+        "French": "Jouez 2 cartes pour collectionner cette carte."
+    },
+    {
+        "key": "help_bomb",
+        "English": "Collect the card before the bomb exploding.",
+        "German": "Sammle die Karte ein, bevor die Bombe hochgeht.",
+        "Spanish": "Reúne la carta antes de que explote la bomba",
+        "French": "Collectionnez la carte avant que la bombe explose."
+    },
+    {
+        "key": "help_up",
+        "English": "Collect the card to stop it from increase.",
+        "German": "Sammle die Karte ein, damit sie sich nicht erhöht.",
+        "Spanish": "Reúne la carta para evitar que aumente.",
+        "French": "Collectionnez la carte pour l'empêcher d'augmenter."
+    },
+    {
+        "key": "help_down",
+        "English": "Collect the card to stop it from decrease.",
+        "German": "Sammle die Karte ein, damit sie sich nicht verringert.",
+        "Spanish": "Reúne la carta para evitar que disminuya.",
+        "French": "Collectionnez la carte pour l'empêcher de diminuer."
+    },
+    {
+        "key": "help_rocket",
+        "English": "A Rocket Card collect 7 random cards!\nTap the <color=#FFC300FF>Rocket Card</color> now!",
+        "German": "Raketenkarte: Sammle 7 zufällig ausgewählte Karten ein.\nTippe jetzt auf die Raketenkarte.",
+        "Spanish": "Una carta misil reúne 7 cartas aleatorias.\nToca la carta misil.",
+        "French": "La carte Fusée permet de collectionner 7 cartes aléatoires. Touchez-la."
+    },
+    {
+        "key": "help_rocket_2",
+        "English": "The power of the rocket has improved. Now you can use him to collect 7 cards."
+    },
+    {
+        "key": "help_click_map",
+        "English": "Congratulations! You have completed this island. Tap the <color=#FFC300FF>'ISLANDS'</color> button to go to the next island!",
+        "German": "Gratulation, du hast diese Insel abgeschlossen! Tippe auf die INSELN-Schaltfläche, um zur nächsten Insel zu gelangen.",
+        "Spanish": "Enhorabuena. Has completado esta isla. Toca el botón 'ISLAS' para ir a la siguiente isla.",
+        "French": "Félicitations ! Vous avez terminé cette île. Touchez le bouton « ÎLES » pour aller à l'île suivante"
+    },
+    {
+        "key": "help_click_freeCoins",
+        "English": "Hi, nice to see you again, you can get free coins here!\nTap the <color=#FFC300FF>'BONUS'</color> button.",
+        "German": "Schön, dich wiederzusehen! Hier bekommst du kostenlose Münzen.\nTippe auf die BONUS-Schaltfläche.",
+        "Spanish": "Hola, me alegro de volver a verte.\nPuedes conseguir monedas gratis al tocar el botón 'BONIFICACIÓN'.",
+        "French": "Bonjour, heureux de vous revoir.\nVous pouvez obtenir des pièces gratuites ici. Touchez le bouton « BONUS »."
+    },
+    {
+        "key": "help_click_freeCoins_collect",
+        "English": "Every 20 minutes, you can get 1000 free coins here!\nTap the <color=#FFC300FF>'COLLECT'</color> button to get it.",
+        "German": "Alle 20 Minuten kannst du hier 1.000 kostenlose Münzen erhalten.\nTippe dazu auf die EINSAMMELN-Schaltfläche.",
+        "Spanish": "Cada 20 minutos puedes conseguir 1000 monedas gratis.\nToca el botón 'OBTENER' para recibirlas.",
+        "French": "Toutes les 20 minutes, vous pouvez obtenir 1000 pièces gratuites ici.\nTouchez le bouton « RÉCUPÉRER » pour les obtenir."
+    },
+    {
+        "key": "help_FreeHand",
+        "English": "Oops! out of hand cards?\nLet's try to add 5 more cards.",
+        "German": "Keine Handkarten mehr?\nFüge 5 weitere Karten hinzu.",
+        "Spanish": "Ups, ¿te has quedado sin cartas?\nAñade 5 más.",
+        "French": "Oups, plus de cartes en main ?\nAjoutons 5 cartes supplémentaires."
+    },
+    {
+        "key": "help_FreeUndo",
+        "English": "Hey! You missed a playable card!\nTap the <color=#FFC300FF>'UNDO'</color> button to undo!",
+        "German": "Du hast eine spielbare Karte verpasst!\nTippe auf die RÜCKGÄNGIG-Schaltfläche, um den Schritt rückgängig zu machen.",
+        "Spanish": "Eh, has dejado pasar una carta jugable.\nToca el botón 'DESHACER' para deshacer.",
+        "French": "Hé, vous avez loupé une carte jouable.\nTouchez « ANNULATION » pour annuler le coup"
+    },
+    {
+        "key": "help_treasure_open",
+        "English": "Zoe is looking for treasure!\nCatch Zoe before she run away!",
+        "German": "Zoe ist auf Schatzsuche.\nFang sie, ehe sie wegläuft.",
+        "Spanish": "Zoe está buscando un tesoro Atrapa a Zoe antes de que escape",
+        "French": "Zoé cherche un trésor.\nAttrapez-la avant qu'elle ne s'enfuie !"
+    },
+    {
+        "key": "help_full_scene_tap_continue",
+        "English": "Tap to Continue",
+        "German": "Tippen zum Fortfahren",
+        "Spanish": "Toca para continuar",
+        "French": "Touchez pour Continuer"
+    },
+    {
+        "key": "PokerTreasure_Desc",
+        "English": "Congratulations! Poker Treasures unlocked!\nComplete island levels to unlock new poker themes!",
+        "German": "Gratulation, Pokerschätze freigeschaltet!\nSchließe Insel-Levels ab, um neue Pokermotive freizuschalten.",
+        "Spanish": "Enhorabuena, has desbloqueado tesoros de póker.\nCompleta los niveles de la isla para desbloquear nuevos temas de póker.",
+        "French": "Félicitations ! Trésors de poker débloqués.\nTerminez les niveaux de l'île pour débloquer de nouveaux thèmes de poker"
+    },
+    {
+        "key": "QuestOpen_Desc",
+        "English": "Congratulations! Daily Quest unlocked!\nComplete quests to earn bigger rewards every day!",
+        "German": "Gratulation, Tagesmission freigeschaltet!\nSchließe Missionen ab, um täglich größere Belohnungen zu erhalten.",
+        "Spanish": "Enhorabuena, has desbloqueado la misión diaria.\nCompleta misiones para ganar mayores recompensas cada día.",
+        "French": "Félicitations ! Quête quotidienne débloquée.\nTerminez des quêtes pour gagner des récompenses intéressantes chaque jour"
+    },
+    {
+        "key": "InboxOpen_Desc",
+        "English": "You have Daily Bonuses in the Inbox!\nCollect it in the <color=#FFC300FF>'INBOX'</color> every day!",
+        "German": "Du hast Tagesboni im Posteingang!\nSammle sie täglich im Posteingang ein.",
+        "Spanish": "Tienes bonificaciones diarias en el buzón.\nObtenlas cada día en el 'BUZÓN'.",
+        "French": "Vous avez des Bonus quotidiens dans votre Boîte de réception.\nAllez les récupérer chaque jour dans votre « BOÎTE DE RÉCEPTION »"
+    },
+    {
+        "key": "help_snake",
+        "English": "Find the <color=#FFC300FF>Trident Card</color>      to clear the <color=#FFC300FF>Snake Card</color>       ",
+        "German": "Finde die Dreizack-Karte, um die Schlangenkarte abzuräumen.",
+        "Spanish": "Busca la carta tridente para despejar la carta serpiente",
+        "French": "Trouvez la carte Trident pour retirer la carte Serpent."
+    },
+    {
+        "key": "LeaderBoard_Desc",
+        "English": "Congratulations! Leaderboard unlocked!\nTop rankings win bigger rewards!",
+        "German": "Gratulation! Bestenliste freigeschaltet!\nJe höher der Rang, desto besser die Belohnungen!",
+        "Spanish": "¡Enhorabuena! ¡Clasificación desbloqueada!\n¡Los primeros puestos ganan mejores recompensas!",
+        "French": "Félicitations ! Classement débloqué !\nLes meilleurs rangs gagnent des plus grosses récompenses !"
+    },
+    {
+        "key": "unlockWorld_Tip",
+        "English": "Congratulations! New world unlocked!\nTap the <color=#FFC300FF>'HOME'</color> button to go to the new world!",
+    },
+    {
+        "key": "help_swallowed",
+        "English": "Hurry up! Collect the <color=#FFC300FF>Mouse Cards</color> as normal.\nHe'll keep stealing your card until you collect him!",
+        "German": "Schnell! Sammle die Mauskarten normal ein.\nMauskarten stehlen dir eine Karte, bis du sie einsammelst!",
+        "Spanish": "¡Date prisa! Consigue las cartas de ratón como normal.\n¡Te seguirá robando cartas hasta que la consigas!",
+        "French": "Dépêchez-vous ! Collectionnez les Cartes Souris normalement. Elle continuera de voler votre carte jusqu\\'à ce que vous la collectiez !"
+    },
+    {
+        "key": "NoRope_Desc",
+        "English": "A Candle booster clears Cobweb from all cards!\nTap the <color=#FFC300FF>Candle</color> now!",
+        "German": "Fackel-Booster entfernen das Seil von allen Karten!\nTippe auf die Fackel!",
+        "Spanish": "¡Un potenciador de antorcha despeja cuerda de todas las cartas!\n¡Toca la <color=#FFC300FF>antorcha</color>!",
+        "French": "Un booster Torche supprime les Cordes de toutes les cartes !\nTouchez la Torche maintenant !"
+    },
+    {
+        "key": "help_vine",
+        "English": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again.",
+        "German": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again.",
+        "Spanish": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again.",
+        "French": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again."
+    },
+    {
+        "key": "help_batter",
+        "English": "Collect cards in a row to uncover the Mapleaf Card."
+    },
+    {
+        "key": "help_lock",
+        "English": "Oh,a card is locked! Use the Key Card to unlock it."
+    },
+    {
+        "key": "help_click_club",
+        "English": "Congratulations! Clan unlocked!\nJoin now to get Free Coins and Boosters every day!"
+    },
+    {
+        "key": "Expert_UnLock_desc",
+        "English": "You have unlocked Master Levels, Click 'MASTER' to have fun."
+    },
+    {
+        "key": "help_seagull",
+        "English": "Collect this card and grab those Albatross by click them, you will get Hand Cards or Bonus Coins."
+    },
+    {
+        "key": "help_contagion",
+        "English": "Hurry up! Collect the Chameleon Cards as normal.\nHe'll keep changing your card until you collect him!"
+    },
+    {
+        "key": "TotemHelper",
+        "English": "Use the same suit card to active the jewel."
+    },
+    {
+        "key": "TotemCompleted",
+        "English": "You have activated all jewels, after you beat the level you can get extra bonus coins."
+    },
+    {
+        "key": "help_samlecolor",
+        "English": "Use Heart/Diamond 'A' to collect this card. You will lose your hand card if you use Spade/Club 'A'."
+    },
+    {
+        "key": "SameColor_Tips2",
+        "English": "Use Spade/Club 'K' to collect this card. You will lose your hand card if you use Heart/Diamond 'K'."
+    },
+    {
+        "key": "ScarecrowCardHelper",
+        "English": "Find and collect this card, \nyou can go through this level directly!"
+    },
+    {
+        "key": "help_skeleton",
+        "English": "You must remove this card within 5 steps or the game will end!!"
+    },
+    {
+        "key": "Storage_helper",
+        "English": "Click here to save a hand card, you can click again to switch hand card."
+    },
+    {
+        "key": "Number_up_Storage_helper_1",
+        "English": "Click here to save a hand card."
+    },
+    {
+        "key": "Number_up_Storage_helper_2",
+        "English": "The card in the frame will +1 when you pull out a new hand card."
+    }
+]

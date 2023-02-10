@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 932e54f08cb3f80a05003fce936092e7, type: 3}
+  m_Name: "ClubBonusConfig"
+  m_EditorClassIdentifier: 
+  configs:
+  - Name: "Coins+Free"
+    commoditys:
+    - boosterType: 1
+      count: 1100
+    - boosterType: 7
+      count: 1
+    Skill: 0
+    SkillNumber: 0
+    SkillRatio: 0
+  - Name: "DoubleStar+FreePlay"
+    commoditys:
+    - boosterType: 7
+      count: 1
+    - boosterType: 121
+      count: 10
+    Skill: 0
+    SkillNumber: 0
+    SkillRatio: 0
+  - Name: "DoubleStar+Free"
+    commoditys:
+    - boosterType: 7
+      count: 1
+    - boosterType: 121
+      count: 10
+    Skill: 0
+    SkillNumber: 0
+    SkillRatio: 0
+  - Name: "Clan_Member_Limit"
+    commoditys: []
+    Skill: 3
+    SkillNumber: 5
+    SkillRatio: 0
+  - Name: "Daily_Limit"
+    commoditys: []
+    Skill: 2
+    SkillNumber: 5
+    SkillRatio: 0
+  - Name: "Clan_Member_Limit"
+    commoditys: []
+    Skill: 3
+    SkillNumber: 5
+    SkillRatio: 0
+  - Name: "Daily_Hand"
+    commoditys: []
+    Skill: 1
+    SkillNumber: 3
+    SkillRatio: 0.25
+  - Name: "Daily_Hand"
+    commoditys: []
+    Skill: 1
+    SkillNumber: 3
+    SkillRatio: 0.25
+  - Name: "Level_Completed"
+    commoditys: []
+    Skill: 4
+    SkillNumber: 3
+    SkillRatio: 0.4
+  - Name: "Suuuuper_Treasure"
+    commoditys: []
+    Skill: 5
+    SkillNumber: 0
+    SkillRatio: 0

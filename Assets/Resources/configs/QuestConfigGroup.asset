@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0a63ffc74bfbfe150550fb4e218ad8, type: 3}
+  m_Name: "QuestConfigGroup"
+  m_EditorClassIdentifier: 
+  QuestSingleWeek:
+  - DayOfWeek: 1
+    QuestType: 0
+    ScheduleData:
+      world: 10
+      chapter: 10
+      level: 10
+    Items:
+    - NeedCount: 69
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 99
+      RewardCount: 6
+      BoosterType: 2
+    - NeedCount: 159
+      RewardCount: 10
+      BoosterType: 2
+  - DayOfWeek: 3
+    QuestType: 0
+    ScheduleData:
+      world: 12
+      chapter: 12
+      level: 12
+    Items:
+    - NeedCount: 69
+      RewardCount: 35000
+      BoosterType: 1
+    - NeedCount: 69
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 69
+      RewardCount: 2
+      BoosterType: 3
+  - DayOfWeek: 6
+    QuestType: 2
+    ScheduleData:
+      world: 1
+      chapter: 1
+      level: 1
+    Items:
+    - NeedCount: 239
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 349
+      RewardCount: 6
+      BoosterType: 2
+    - NeedCount: 569
+      RewardCount: 10
+      BoosterType: 2
+  - DayOfWeek: 0
+    QuestType: 2
+    ScheduleData:
+      world: 2
+      chapter: 2
+      level: 2
+    Items:
+    - NeedCount: 239
+      RewardCount: 2
+      BoosterType: 3
+    - NeedCount: 239
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 239
+      RewardCount: 35000
+      BoosterType: 1
+  QuestDoubleWeek:
+  - DayOfWeek: 1
+    QuestType: 2
+    ScheduleData:
+      world: 3
+      chapter: 3
+      level: 3
+    Items:
+    - NeedCount: 239
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 349
+      RewardCount: 6
+      BoosterType: 2
+    - NeedCount: 569
+      RewardCount: 10
+      BoosterType: 2
+  - DayOfWeek: 2
+    QuestType: 0
+    ScheduleData:
+      world: 10
+      chapter: 10
+      level: 10
+    Items:
+    - NeedCount: 69
+      RewardCount: 35000
+      BoosterType: 1
+    - NeedCount: 69
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 69
+      RewardCount: 2
+      BoosterType: 3
+  - DayOfWeek: 4
+    QuestType: 0
+    ScheduleData:
+      world: 12
+      chapter: 12
+      level: 12
+    Items:
+    - NeedCount: 69
+      RewardCount: 4
+      BoosterType: 2
+    - NeedCount: 99
+      RewardCount: 6
+      BoosterType: 2
+    - NeedCount: 159
+      RewardCount: 10
+      BoosterType: 2
+  - DayOfWeek: 0
+    QuestType: 2
+    ScheduleData:
+      world: 0
+      chapter: 0
+      level: 0
+    Items:
+    - NeedCount: 239
+      RewardCount: 2
+      BoosterType: 3
+    - NeedCount: 239
+      RewardCount: 35000
+      BoosterType: 1
+    - NeedCount: 239
+      RewardCount: 4
+      BoosterType: 2

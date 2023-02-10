@@ -1,0 +1,219 @@
+[
+    {
+        "key": "Stage_1",
+        "English": "Bronze",
+        "German": "BRONZE",
+        "Spanish": "BRONCE",
+        "French": "BRONZE"
+    },
+    {
+        "key": "Stage_2",
+        "English": "Silver",
+        "German": "SILBER",
+        "Spanish": "PLATA",
+        "French": "ARGENT"
+    },
+    {
+        "key": "Stage_3",
+        "English": "Gold",
+        "German": "GOLD",
+        "Spanish": "ORO",
+        "French": "OR"
+    },
+    {
+        "key": "Stage_4",
+        "English": "Platinum",
+        "German": "PLATIN",
+        "Spanish": "PLATINO",
+        "French": "PLATINE"
+    },
+    {
+        "key": "Stage_5",
+        "English": "Diamond",
+        "German": "DIAMANT",
+        "Spanish": "DIAMANTE",
+        "French": "DIAMANT"
+    },
+    {
+        "key": "Stage_6",
+        "English": "Master",
+        "German": "MEISTER",
+        "Spanish": "MAESTRO",
+        "French": "MAÎTRE"
+    },
+    {
+        "key": "Stage_7",
+        "English": "King",
+        "German": "KÖNIG",
+        "Spanish": "REY",
+        "French": "ROI"
+    },
+    {
+        "key": "{0} to {1}",
+        "English": "{0} to {1}",
+        "German": "{0} bis {1}",
+        "Spanish": "{0} a {1}",
+        "French": "{0} à {1}"
+    },
+    {
+        "key": "Stage_Up_Des",
+        "English": "Above this for upgrade",
+        "German": "Darüber: Aufwertung",
+        "Spanish": "Por encima de esto subes de categoría",
+        "French": "Au-dessus de ça pour améliorer"
+    },
+    {
+        "key": "Stage_Down_Des",
+        "English": "Below this for downgrade",
+        "German": "Darunter: Abwertung",
+        "Spanish": "Por debajo de esto bajas de categoría",
+        "French": "En-dessous de ça pour rétrograder"
+    },
+    {
+        "key": "Out_of_rank",
+        "English": "OUT OF RANK",
+        "German": "KEIN RANG",
+        "Spanish": "FUERA DEL PUESTO",
+        "French": "HORS CLASSEMENT"
+    },
+    {
+        "key": "Congratulations",
+        "English": "Congratulations",
+        "German": "Gratulation",
+        "Spanish": "Enhorabuena",
+        "French": "Félicitations"
+    },
+    {
+        "key": "Oops",
+        "English": "Oops",
+        "German": "Huch!",
+        "Spanish": "Ups",
+        "French": "Oups"
+    },
+    {
+        "key": "btn_Continue",
+        "English": "Continue",
+        "German": "Weiter",
+        "Spanish": "Continuar",
+        "French": "Continuer"
+    },
+    {
+        "key": "loading_leaderboard_rewards",
+        "English": "We are working hard to connect to the server, wait a moment please.",
+        "German": "Der Server wird gerade gewartet. Bitte gedulde dich eine Weile.",
+        "Spanish": "Estamos esforzándonos para conectar con el servidor, espera un momento",
+        "French": "Nous nous efforçons de nous connecter au serveur, veuillez patienter"
+    },
+    {
+        "key": "ui_setter_content",
+        "English": "This event is over.\n<size=120>{0}</size>\nWe are calculating rewards\nthat based on the rankings",
+        "German": "Dieses Event ist vorbei.\n<size=120>{0}</size>\nDie Belohnungen werden\nauf Rangbasis ermittelt.",
+        "Spanish": "El evento ha acabado.\n<size=120>{0}</size>\nEstamos calculando las recompensas\nsegún la clasificación",
+        "French": "Cet événement est terminé.\n<size=120>{0}</size>\nNous calculons les récompenses\nbasées sur le classement"
+    },
+    {
+        "key": "ui_cd_content",
+        "English": "Next Leaderboard event \nwill be opened at\n\n<size=120>{0}</size>",
+        "German": "Beginn des nächsten Bestenlisten-Events:\n\n<size=120>{0}</size>",
+        "Spanish": "El siguiente evento de clasificación \nse abrirá a las\n\n<size=120>{0}</size>",
+        "French": "Le prochain événement de classement ouvrira à\n\n<size=120>{0}</size>"
+    },
+    {
+        "key": "ui_Rank",
+        "English": "RANK",
+        "German": "RANG",
+        "Spanish": "PUESTO",
+        "French": "RANG"
+    },
+    {
+        "key": "ui_Player",
+        "English": "PLAYER",
+        "German": "SPIELER",
+        "Spanish": "JUGADOR",
+        "French": "JOUEUR"
+    },
+    {
+        "key": "ui_Score",
+        "English": "SCORE",
+        "German": "PUNKTE",
+        "Spanish": "PUNTUACIÓN",
+        "French": "SCORE"
+    },
+    {
+        "key": "ui_Rewards",
+        "English": "REWARD",
+        "German": "BELOHNUNG",
+        "Spanish": "RECOMPENSA",
+        "French": "RÉCOMPENSE"
+    },
+    {
+        "key": "ui_BlueStar_info",  
+        "English": "Earn 2x Blue Star\nFOR 3 Hours",
+        "German": "X2 BLAUER STERN\nFÜR 3 STUNDEN",
+        "Spanish": "X2 ESTRELLA AZUL\n DURANTE 3 HORAS",
+        "French": "X2 ÉTOILE BLEUE\nPENDANT 3 HEURES"
+    },
+    {
+        "key": "ui_BlueStar_des",
+        "English": "Get Blue Star from Level Complete.\nLow ranking may cause you to downgrade.\nRaise your rankings as much as possible to get upgrade opportunities.",
+        "German": "Schließe den Level ab, um einen blauen Stern zu erhalten.\nBei niedrigen Rängen ist eine Abwertung möglich.\nStrebe hohe Ränge an, um Aufwertungen zu erhalten.",
+        "Spanish": "Completa el nivel de estrella azul.\nPuedes bajar de categoría si quedas abajo en la clasificación.\nSube en los puestos tanto como puedas para tener la oportunidad de subir de categoría.",
+        "French": "Recevez l\\'Étoile bleue en terminant un niveau.\nUn classement bas peut vous rétrograder.\nÉlevez votre rang le plus haut possible pour recevoir des opportunités d\\'améliorations."
+    },
+    {
+        "key": "ui_New",
+        "English": "NEW",
+        "German": "NEU",
+        "Spanish": "NUEVO",
+        "French": "NOUVEAU"
+    },
+    {
+        "key": "ui_BlueStar_Title",
+        "English": "BULE STAR LEADERBOARD",
+        "German": "BLAUER-STERN-BESTENLISTE",
+        "Spanish": "CLASIFICACIÓN DE ESTRELLA AZUL",
+        "French": "CLASSEMENT ÉTOILES BLEUE"
+    },
+    {
+        "key": "ui_BlueStar_Title_2",
+        "English": "HIGHER SEGMENT FOR MORE REWARDS!!\nUP TO 1000K COINS!!!",
+        "German": "MEHR BELOHNUNGEN IN HÖHEREN SEGMENTEN!!\nBIS ZU 1.000K MÜNZEN!!!",
+        "Spanish": "¡MAYOR SEGMENTO PARA MÁS RECOMPENSAS!!\nHASTA 1 000 000 DE MONEDAS!!!",
+        "French": "LE PLUS HAUT SEGMENT POUR PLUS DE RÉCOMPENSES!\nJUSQU\\'À 1000K PIÈCES!"
+    },
+    {
+        "key": "ui_CoinReward",
+        "English": "Reward",
+        "German": "Belohnungen",
+        "Spanish": "Recompensa",
+        "French": "Récompense"
+    },
+    {
+        "key": "ui_Room",
+        "English": "RANKING"
+    },
+    {
+        "key": "ui_Top",
+        "English": "HALL OF FAME"
+    },
+    {
+        "key": "LeaderBoard_Tips_Title",
+        "English": "Leaderboard Info"
+    },
+    {
+        "key": "Top_reward_title",
+        "English": "Top 1 reward:"
+    },
+    {
+        "key": "Current_reward_title",
+        "English": "Your rank reward: "
+    },
+    {
+        "key": "come_on_reward_title",
+        "English": "Come On! Be the top 1."
+    },
+    {
+        "key": "info_des_content",
+        "English": "reward will be get after the leaderboard event completed!"
+    }
+]

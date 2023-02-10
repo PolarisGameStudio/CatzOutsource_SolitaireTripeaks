@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1789967546481357340
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789967546481357339}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1789967546481357339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1789967546481357340}
+  - component: {fileID: 1789967546481357341}
+  m_Layer: 0
+  m_Name: "NormalPoker_3"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1789967546481357341
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789967546481357339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9a0d9b1e842ca2a9910f9dc915e93c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300000, guid: c2c5dbaf9abf4a3badee739a4c753908, type: 3}
+  - {fileID: 21300000, guid: 9c1da2035aa041338697aee372ad3af0, type: 3}
+  - {fileID: 21300000, guid: 39c702e568cc496f9a57391f5aa51338, type: 3}
+  - {fileID: 21300000, guid: 8c4f5c524f724b1aae72f370d97f98e3, type: 3}
+  - {fileID: 21300000, guid: 38d54d90b1e843019190d2ae9c0d0a8a, type: 3}
+  - {fileID: 21300000, guid: fadf6c04ae6c498bbd6f1bbb8ca9ba77, type: 3}
+  - {fileID: 21300000, guid: 95250dc3758d4fd6a4c62472533d0363, type: 3}
+  - {fileID: 21300000, guid: c1959c5ded4f42f182302940cca40f1f, type: 3}
+  - {fileID: 21300000, guid: 5e2beaf9ca184b52b348c827f92d7133, type: 3}
+  - {fileID: 21300000, guid: c0eae16b0d2c40cb8b20abb6a7d00d68, type: 3}
+  - {fileID: 21300000, guid: 064b032182d5422c861e6fa4bc2c65a8, type: 3}
+  - {fileID: 21300000, guid: fefce21aa34a4b49aaea0a82d88fdf13, type: 3}
+  - {fileID: 21300000, guid: 48e69beb65a74353bf7cbd81307c4e9f, type: 3}
+  - {fileID: 21300000, guid: dffeee8908d54437ba372b2d28d3ce22, type: 3}
+  - {fileID: 21300000, guid: 598f71582a09409c864e5579753e5f5a, type: 3}
+  - {fileID: 21300000, guid: 70cc27f2cc144ddeaa694aa583e9d0b6, type: 3}
+  - {fileID: 21300000, guid: aa0f27706ade489dbd8e49084726b996, type: 3}
+  - {fileID: 21300000, guid: 4d3517a7cdeb4fe3b59c6026712d157b, type: 3}
+  - {fileID: 21300000, guid: dd770212327643dbb62808751ee5ee1f, type: 3}
+  - {fileID: 21300000, guid: b8cf07d4b2654038a3a61eb7f6d98d46, type: 3}
+  - {fileID: 21300000, guid: 1fcc08aa883b4123abfe4a413e164bf3, type: 3}
+  - {fileID: 21300000, guid: 563b3f49029242adb1306537ac680079, type: 3}
+  - {fileID: 21300000, guid: 1f9e8c17e96c4ca49172ce9acc9ca6fe, type: 3}
+  - {fileID: 21300000, guid: 0feb3e627be64933a84e1c50814eb284, type: 3}
+  - {fileID: 21300000, guid: 8e7a561e6e7e4799a2a6b2fe17f84835, type: 3}
+  - {fileID: 21300000, guid: 2c237998e6414228b828801eed21294a, type: 3}
+  - {fileID: 21300000, guid: ee229efd3b38465ab63f211c7078026a, type: 3}
+  - {fileID: 21300000, guid: e20dc5a936fd4a42a3997265346e1519, type: 3}
+  - {fileID: 21300000, guid: 73ce84ba672448c684552ea4ad6e718e, type: 3}
+  - {fileID: 21300000, guid: 4fef3faaa68241088415d4015ca44fa6, type: 3}
+  - {fileID: 21300000, guid: 3fe624a7b31b47a8af3ef64369e87449, type: 3}
+  - {fileID: 21300000, guid: 1d23fd2bcfbc436eb193b3f1a16c13e9, type: 3}

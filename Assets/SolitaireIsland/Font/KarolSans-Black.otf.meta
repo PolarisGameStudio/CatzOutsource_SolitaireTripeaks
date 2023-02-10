@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b19b5d7e8334860afadde5b575e8b83
+timeCreated: 1569012138
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "KarolSans-Black"
+  fontNames:
+  - KarolSans-Black
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

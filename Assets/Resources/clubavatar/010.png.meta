@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 1af5634bd174404594a06df201c2343c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 010
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -88.0117, y: -45}
+      - {x: -88.0117, y: 52}
+      - {x: -83.0117, y: -56}
+    - - {x: -5.011696, y: 100}
+      - {x: -83.0117, y: -56}
+      - {x: -88.0117, y: 52}
+    - - {x: -47.0117, y: -96}
+      - {x: -83.0117, y: -56}
+      - {x: -5.011696, y: 100}
+    - - {x: -12.0117, y: -100}
+      - {x: -47.0117, y: -96}
+      - {x: -5.011696, y: 100}
+    - - {x: 12.9883, y: -100}
+      - {x: -12.0117, y: -100}
+      - {x: -5.011696, y: 100}
+    - - {x: 14.9883, y: 100}
+      - {x: 12.9883, y: -100}
+      - {x: -5.011696, y: 100}
+    - - {x: 45.9883, y: -90}
+      - {x: 12.9883, y: -100}
+      - {x: 14.9883, y: 100}
+    - - {x: 87.9883, y: 51}
+      - {x: 45.9883, y: -90}
+      - {x: 14.9883, y: 100}
+    - - {x: 87.9883, y: -50}
+      - {x: 45.9883, y: -90}
+      - {x: 87.9883, y: 51}
+    physicsShape:
+    - - {x: 48.9883, y: -81}
+      - {x: 48.9883, y: -70}
+      - {x: 81.9883, y: -54}
+      - {x: 85.9883, y: -47}
+      - {x: 86.9883, y: -33}
+      - {x: 86.9883, y: 24}
+      - {x: 85.9883, y: 46}
+      - {x: 81.9883, y: 53}
+      - {x: 74.9883, y: 55}
+      - {x: 30.9883, y: 78}
+      - {x: 3.988304, y: 100}
+      - {x: -4.011696, y: 100}
+      - {x: -14.0117, y: 91.99999}
+      - {x: -42.0117, y: 72.99999}
+      - {x: -81.0117, y: 52}
+      - {x: -85.0117, y: 48}
+      - {x: -87.0117, y: 35}
+      - {x: -87.0117, y: -33}
+      - {x: -85.0117, y: -48}
+      - {x: -81.0117, y: -53}
+      - {x: -50.0117, y: -69}
+      - {x: -49.01169, y: -79.99999}
+      - {x: -44.0117, y: -88}
+      - {x: -33.0117, y: -82}
+      - {x: -5.011695, y: -100}
+      - {x: 5.988304, y: -100}
+      - {x: 33.9883, y: -78}
+      - {x: 39.9883, y: -85.99999}
+      - {x: 44.9883, y: -87}
+    bones: []
+    spriteID: 9d55411c46b163d439ac9c2a2709739f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

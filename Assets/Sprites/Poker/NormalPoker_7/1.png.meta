@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 41075d49b89243048eb11ed218b2f825
+TextureImporter:
+  fileIDToRecycleName:
+    21300046: 1
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -64.00988, y: -64.49999}
+      - {x: -64.00988, y: -15.49999}
+      - {x: -52.00988, y: -69.49999}
+    - - {x: -44.00988, y: 69.50001}
+      - {x: -52.00988, y: -69.49999}
+      - {x: -64.00988, y: -15.49999}
+    - - {x: 63.99012, y: -69.49999}
+      - {x: -52.00988, y: -69.49999}
+      - {x: -44.00988, y: 69.50001}
+    - - {x: 29.99012, y: 69.50001}
+      - {x: 63.99012, y: -69.49999}
+      - {x: -44.00988, y: 69.50001}
+    - - {x: 40.99012, y: 51.50001}
+      - {x: 63.99012, y: -69.49999}
+      - {x: 29.99012, y: 69.50001}
+    - - {x: 63.99012, y: -36.49999}
+      - {x: 63.99012, y: -69.49999}
+      - {x: 40.99012, y: 51.50001}
+    physicsShape:
+    - - {x: 21.99012, y: -62.49999}
+      - {x: 26.99012, y: -64.49999}
+      - {x: 41.99012, y: -64.49999}
+      - {x: 48.99012, y: -63.49999}
+      - {x: 55.99012, y: -57.49999}
+      - {x: 58.99012, y: -49.49999}
+      - {x: 58.99012, y: -36.49999}
+      - {x: 54.99012, y: -20.49999}
+      - {x: 33.99012, y: 36.50001}
+      - {x: 26.99012, y: 54.50001}
+      - {x: 23.99012, y: 60.50001}
+      - {x: 12.99012, y: 67.50001}
+      - {x: -14.00988, y: 67.50001}
+      - {x: -25.00988, y: 60.50001}
+      - {x: -32.00988, y: 46.50001}
+      - {x: -46.00988, y: 4.500007}
+      - {x: -60.00988, y: -34.49999}
+      - {x: -60.00988, y: -50.49999}
+      - {x: -53.00988, y: -61.49999}
+      - {x: -48.00988, y: -64.49999}
+      - {x: -31.00988, y: -64.49999}
+      - {x: -22.00988, y: -63.49999}
+      - {x: -13.00988, y: -49.49999}
+      - {x: 13.99012, y: -48.49999}
+      - {x: 17.99012, y: -57.49999}
+      - {x: -1.00988, y: -3.499992}
+      - {x: -0.009880066, y: -2.499992}
+      - {x: 1.99012, y: -9.499992}
+      - {x: -3.00988, y: -9.499992}
+    bones: []
+    spriteID: f899882d0b6a21a41be5026aa60e101a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

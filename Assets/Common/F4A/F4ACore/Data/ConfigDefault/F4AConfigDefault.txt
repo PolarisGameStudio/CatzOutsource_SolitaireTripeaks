@@ -1,0 +1,5 @@
+{
+"url_asset_bundle":"https://docs.google.com/uc?export=download&id=1UQ75sVJwqRxh-Pt5_ORJCGadZXebTOm8",
+"url_config_ads":"https://docs.google.com/uc?export=download&id=1hO5GRjxIIG65XurFuEtP2tMw1s7N2bis",
+"url_config_sms":"https://docs.google.com/uc?export=download&id=1FFGMWWUp4-pBLu5uLI1ZKRzlIsRBbc3a"
+}

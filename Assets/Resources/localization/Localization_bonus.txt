@@ -1,0 +1,41 @@
+[
+    {
+        "key": "Title_Day",
+        "English": "DAY {0}",
+        "German": "TAG {0}",
+        "Spanish": "DÍA {0}",
+        "French": "JOURNÉE {0}"
+    },
+    {
+        "key": "Reward_Coins",
+        "English": "Coins",
+        "German": "Münzen",
+        "Spanish": "Monedas",
+        "French": "Pièces"
+    },
+    {
+        "key": "Reward_FreePlay",
+        "English": "FREE\nPLAY",
+        "German": "Kostenlose\nSpiele",
+        "Spanish": "Juega\ngratis",
+        "French": "Jeu\nlibre"
+    },
+    {
+        "key": "Reward_TORCH",
+        "English": "CANDLE",
+        "German": "Fackel",
+        "Spanish": "Antorcha",
+        "French": "Torche"
+    },
+    {
+        "key": "Title_Bonus_Des",
+        "English": "COME BACK TOMORROW FOR A BIGGER BONUS!",
+        "German": "KOMMEN SIE ZURÜCK MORGEN FÜR EINEN GRÖSSEREN BONUS!",
+        "Spanish": "¡VUELVAN MAÑANA PARA UNA BONIFICACIÓN MÁS GRANDE!",
+        "French": "REVENEZ DEMAIN POUR UN PLUS GRAND BONUS!"
+    },
+    {
+        "key": "Reward_CHEST",
+        "English": "MYSTERY\nCHEST"
+    }
+]

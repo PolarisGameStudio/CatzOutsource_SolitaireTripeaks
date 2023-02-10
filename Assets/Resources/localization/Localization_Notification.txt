@@ -1,0 +1,58 @@
+[
+    {
+        "key": "EventQuest_Notification_Title",
+        "English": "JOIN THE FUN",
+        "German": "AUF INS VERGNÜGEN",
+        "Spanish": "ÚNETE A LA DIVERSIÓN",
+        "French": "VENEZ VOUS ÉCLATER"
+    },
+    {
+        "key": "EventQuest_Notification_Message",
+        "English": "The new Event Quest is on! Complete it to WIN {0}",
+        "German": "Die neue Event-Mission ist verfügbar! Schließe sie ab, um {0} zu gewinnen.",
+        "Spanish": "La nueva misión de evento está disponible Complétala para GANAR {0}",
+        "French": "La nouvelle quête d'événement est disponible. Terminez-la pour GAGNER {0}"
+    },
+    {
+        "key": "Default_Notification_Title",
+        "English": "DAILY BONUS!",
+        "German": "TAGESBONUS",
+        "Spanish": "BONIFICACIÓN DIARIA",
+        "French": "BONUS QUOTIDIEN"
+    },
+    {
+        "key": "Default_Notification_Message",
+        "English": "Come back now,the new daily bonus is waiting for you.",
+        "German": "Komm zurück, der Tagesbonus wartet!",
+        "Spanish": "Vuelve, te espera la nueva bonificación diaria.",
+        "French": "Revenez, votre nouveau bonus quotidien vous attend."
+    },
+    {
+        "key": "FREE_COINS_Notification_Title",
+        "English": "FREE COINS!",
+        "German": "KOSTENLOSE MÜNZEN",
+        "Spanish": "MONEDAS GRATIS",
+        "French": "PIÈCES GRATUITES"
+    },
+    {
+        "key": "FREE_COINS_Notification_Message",
+        "English": "Uh oh! Don't leave your bonus waiting - get free Coins now.",
+        "German": "Lass deinen Bonus nicht warten ... Hol dir jetzt kostenlose Münzen.",
+        "Spanish": "Oh, oh, no dejes esperando a tu bonificación: consigue monedas gratis ya.",
+        "French": "Heu, n'oubliez pas votre bonus, récupérez vos Pièces gratuites."
+    },
+    {
+        "key": "Special_Activity_Notification_Title",
+        "English": "Activity",
+        "German": "AKTIVITÄT",
+        "Spanish": "ACTIVIDAD",
+        "French": "ACTIVITÉ"
+    },
+    {
+        "key": "Special_Activity_Notification_Message",
+        "English": "Refreshed a lot of {0}, collect them to exchange bigger rewards!",
+        "German": "Viele {0} aktualisiert. Sammle sie ein und tausche sie gegen größere Belohnungen ein.",
+        "Spanish": "¡Se han actualizado un montón de {0}, consigue para intercambiarlos por recompensas mayores!",
+        "French": "Beaucoup de {0} actualisés, collectionnez-les pour échanger de plus grosses récompenses !"
+    }
+]

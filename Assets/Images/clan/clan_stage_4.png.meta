@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: c6b3e0db61d04256ab021808b3b4d1f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clan_stage_4
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 19, y: -110.5}
+      - {x: 65, y: 95.5}
+      - {x: 75, y: -86.5}
+    - - {x: 75, y: 54.5}
+      - {x: 75, y: -86.5}
+      - {x: 65, y: 95.5}
+    - - {x: -75, y: -87.5}
+      - {x: -75, y: 108.5}
+      - {x: -31, y: -110.5}
+    - - {x: -72, y: 110.5}
+      - {x: -31, y: -110.5}
+      - {x: -75, y: 108.5}
+    - - {x: 65, y: 110.5}
+      - {x: -31, y: -110.5}
+      - {x: -72, y: 110.5}
+    - - {x: 19, y: -110.5}
+      - {x: -31, y: -110.5}
+      - {x: 65, y: 110.5}
+    - - {x: 65, y: 95.5}
+      - {x: 19, y: -110.5}
+      - {x: 65, y: 110.5}
+    physicsShape:
+    - - {x: 69, y: -61.5}
+      - {x: 72, y: -55.5}
+      - {x: 72, y: -49.5}
+      - {x: 62, y: -24.5}
+      - {x: 62, y: -3.5}
+      - {x: 68, y: 6.5}
+      - {x: 72, y: 20.5}
+      - {x: 72, y: 26.5}
+      - {x: 66, y: 28.5}
+      - {x: 42, y: 31.5}
+      - {x: 15, y: 53.5}
+      - {x: 16, y: 58.5}
+      - {x: 31, y: 63.5}
+      - {x: 40, y: 68.5}
+      - {x: 37, y: 80.5}
+      - {x: 45, y: 92.49999}
+      - {x: 54, y: 105.5}
+      - {x: 56, y: 110.5}
+      - {x: -59, y: 110.5}
+      - {x: -59, y: 108.5}
+      - {x: -52, y: 96.5}
+      - {x: -41, y: 70.5}
+      - {x: -36, y: 64.5}
+      - {x: -16, y: 57.5}
+      - {x: -24, y: 43.5}
+      - {x: -50, y: 30.5}
+      - {x: -70, y: 28.5}
+      - {x: -72, y: 24.5}
+      - {x: -72, y: 17.5}
+      - {x: -66.99999, y: 4.5}
+      - {x: -63, y: -11.5}
+      - {x: -65, y: -27.5}
+      - {x: -72, y: -52.5}
+      - {x: -72, y: -57.5}
+      - {x: -69, y: -60.5}
+      - {x: -33, y: -71.5}
+      - {x: -21, y: -76.5}
+      - {x: -1, y: -98.49999}
+      - {x: 3, y: -98.49999}
+      - {x: 16, y: -84.5}
+      - {x: 33, y: -69.5}
+      - {x: 51, y: -63.5}
+    bones: []
+    spriteID: ab91517d4734b36489767e1ed1191246
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

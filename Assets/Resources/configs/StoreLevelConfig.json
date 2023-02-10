@@ -1,0 +1,33 @@
+{
+    "Sales": [
+        "Package_1",
+        "Package_2",
+        "Package_3",
+        "Package_4",
+        "Package_5",
+        "Package_6",
+        "Package_7",
+        "Package_8",
+        "Package_9",
+        "Package_10",
+        "Package_11",
+        "Package_12",
+        "Package_13",
+        "Package_14"
+    ],
+    "Stores": [
+        "Package_2",
+        "Package_4",
+        "Package_6",
+        "Package_7",
+        "Package_8",
+        "Package_10",
+        "Package_14"
+    ],
+    "Wilds": [
+        "Package_1"
+    ],
+    "Rockets": [
+        "Package_2"
+    ]
+}

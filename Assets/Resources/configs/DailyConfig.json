@@ -1,0 +1,1569 @@
+{
+    "dailyConfigs": [
+        {
+            "Type": "CollectNumberCard",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 7,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 7,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 7,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 7,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 14,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 15,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 16,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 14,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 15,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 16,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 14,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 15,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 16,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 14,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 15,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 16,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 45,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 45,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 45,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 45,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 65,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 70,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 75,
+                            "scheduleData": {
+                                "world": 10,
+                                "chapter": 10,
+                                "level": 10
+                            }
+                        },
+                        {
+                            "NeedCount": 65,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 70,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 75,
+                            "scheduleData": {
+                                "world": 11,
+                                "chapter": 11,
+                                "level": 11
+                            }
+                        },
+                        {
+                            "NeedCount": 65,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 70,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 75,
+                            "scheduleData": {
+                                "world": 12,
+                                "chapter": 12,
+                                "level": 12
+                            }
+                        },
+                        {
+                            "NeedCount": 65,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 70,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 75,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "CollectSuitCard",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 10,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 10,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 10,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 10,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 35,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 40,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 50,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 55,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 60,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 50,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 55,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 60,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 50,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 55,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 60,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 50,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 55,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 60,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 80,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 85,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 90,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 80,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 85,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 90,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 80,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 85,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 90,
+                            "scheduleData": {
+                                "world": 2,
+                                "chapter": 2,
+                                "level": 2
+                            }
+                        },
+                        {
+                            "NeedCount": 80,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 85,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        },
+                        {
+                            "NeedCount": 90,
+                            "scheduleData": {
+                                "world": 3,
+                                "chapter": 3,
+                                "level": 3
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "Play",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 2,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 7,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 10,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 11,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 12,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 16,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 17,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 18,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "WinCoins",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 2000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 2500,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 3000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 10000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 11000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 12000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 16000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 17000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 18000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 24000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 26000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 27000,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "WinGame",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 4,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "WinGameInScene",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 1,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 3,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 4,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 4,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 4,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 4,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 4,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 6,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 8,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 1,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 2,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 3,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 9,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 4,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dailyRewardLevels": [
+        {
+            "dailyRewards": [
+                {
+                    "boosterType": "Coins",
+                    "count": 500,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 1000,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "dailyRewards": [
+                {
+                    "boosterType": "Coins",
+                    "count": 3000,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 3500,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 4000,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 1,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 2,
+                    "weight": 4
+                }
+            ]
+        },
+        {
+            "dailyRewards": [
+                {
+                    "boosterType": "Coins",
+                    "count": 5000,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 5500,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 6000,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 3,
+                    "weight": 4
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 2,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "RandomBooster",
+                    "count": 1,
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "dailyRewards": [
+                {
+                    "boosterType": "Coins",
+                    "count": 8000,
+                    "weight": 20
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 8500,
+                    "weight": 20
+                },
+                {
+                    "boosterType": "Coins",
+                    "count": 9000,
+                    "weight": 20
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 4,
+                    "weight": 8
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 3,
+                    "weight": 20
+                },
+                {
+                    "boosterType": "RandomBooster",
+                    "count": 2,
+                    "weight": 5
+                }
+            ]
+        }
+    ],
+    "dailyTimeLevels": [
+        {
+            "dailyTimes": [
+                {
+                    "hours": 12
+                }
+            ]
+        },
+        {
+            "dailyTimes": [
+                {
+                    "hours": 3
+                }
+            ]
+        },
+        {
+            "dailyTimes": [
+                {
+                    "hours": 1
+                }
+            ]
+        },
+        {
+            "dailyTimes": [
+                {
+                    "hours": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,794 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1b42bb8e16ca261bf2756e417981e9, type: 3}
+  m_Name: "SaleConfig"
+  m_EditorClassIdentifier: 
+  saleConfigs:
+  - sceneName: "remote\x2fsale\x2fwilds.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_wild_online_sale_1_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 8000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+    - id: "yy_wild_online_sale_1_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+    - id: "yy_wild_online_sale_1_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 15000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 8
+    Type: "SaleWild"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fwilds.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_wild_online_sale_2_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3
+    - id: "yy_wild_online_sale_2_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6
+    - id: "yy_wild_online_sale_2_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 8000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 14
+    Type: "SaleWild"
+    level: "yy_store_package_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fwilds.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_wild_online_sale_3_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 7
+    - id: "yy_wild_online_sale_3_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 11
+    - id: "yy_wild_online_sale_3_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 28
+    Type: "SaleWild"
+    level: "yy_store_coin_4"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fwilds.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_wild_online_sale_4_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 35000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+    - id: "yy_wild_online_sale_4_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 42500
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 53
+    - id: "yy_wild_online_sale_4_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 70000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 100
+    Type: "SaleWild"
+    level: "yy_store_coin_6"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fwilds.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_wild_online_sale_5_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 50
+    - id: "yy_wild_online_sale_5_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 58000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 86
+    - id: "yy_wild_online_sale_5_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 118000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 130
+    Type: "SaleWild"
+    level: "yy_store_coin_7"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2frockets.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_rocket_online_sale_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 142
+        saleCount: 1
+    Type: "SaleRocket"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2frockets.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_rocket_online_sale_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 8000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 70
+        saleCount: 8
+    Type: "SaleRocket"
+    level: "yy_store_coin_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2frockets.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_rocket_online_sale_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 16000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 80
+        saleCount: 26
+    Type: "SaleRocket"
+    level: "yy_coin_local_sale_4_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2frockets.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_rocket_online_sale_4"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 25000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 54
+        saleCount: 37
+    Type: "SaleRocket"
+    level: "yy_coin_local_sale_5_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2frockets.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_rocket_online_sale_5"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 35000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 56
+        saleCount: 76
+    Type: "SaleRocket"
+    level: "yy_store_coin_7"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fspring.asset"
+    prefabName: "SaleSceneOne"
+    purchasingPackages:
+    - id: "yy_season_online_sale_1_1"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3000
+    - id: "yy_season_online_sale_1_2"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 9000
+    Type: "SaleMegaPackage"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fspring.asset"
+    prefabName: "SaleSceneTwo"
+    purchasingPackages:
+    - id: "yy_season_online_sale_2_1"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3500
+    - id: "yy_season_online_sale_2_2"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 4
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10000
+    Type: "SaleMegaPackage"
+    level: "yy_store_package_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fspring.asset"
+    prefabName: "SaleSceneThree"
+    purchasingPackages:
+    - id: "yy_season_online_sale_3_1"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 8000
+    - id: "yy_season_online_sale_3_2"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 6
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 25000
+    Type: "SaleMegaPackage"
+    level: "yy_carb_online_sale_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fspring.asset"
+    prefabName: "SaleSceneFour"
+    purchasingPackages:
+    - id: "yy_season_online_sale_4_1"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 35000
+    - id: "yy_season_online_sale_4_2"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 90000
+    Type: "SaleMegaPackage"
+    level: "yy_season_online_sale_4_2"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fspring.asset"
+    prefabName: "SaleSceneFive"
+    purchasingPackages:
+    - id: "yy_season_online_sale_5_1"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 60
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 60
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 100000
+    - id: "yy_season_online_sale_5_2"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 80
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 80
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 5
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 40
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 200000
+    Type: "SaleMegaPackage"
+    level: "yy_store_coin_7"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fcrab.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_carb_online_sale_1"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+    Type: "SaleAssignPackage"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fcrab.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_carb_online_sale_2"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 12
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 4
+    Type: "SaleAssignPackage"
+    level: "yy_store_package_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fcrab.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_carb_online_sale_3"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 28
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 4
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10
+    Type: "SaleAssignPackage"
+    level: "yy_carb_online_sale_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fcrab.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_carb_online_sale_4"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 110
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 20
+    Type: "SaleAssignPackage"
+    level: "yy_season_online_sale_4_2"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fcrab.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_carb_online_sale_5"
+      commoditys:
+      - boosterType: 599
+        normalCount: 0
+        moreValue: 0
+        saleCount: 200
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 50
+      - boosterType: 0
+        normalCount: 0
+        moreValue: 0
+        saleCount: 70
+    Type: "SaleAssignPackage"
+    level: "yy_store_coin_7"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fhighscore.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_leaderboard_online_sale"
+      commoditys:
+      - boosterType: 6
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+      - boosterType: 103
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+    Type: "HightScoreSale"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fstoreoff.asset"
+    prefabName: 
+    purchasingPackages: []
+    Type: "SaleSpecialStore"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fdoublecoins.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_online_sale_1_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 7500
+        moreValue: 200
+        saleCount: 22500
+    - id: "yy_coin_online_sale_1_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 15000
+        moreValue: 0
+        saleCount: 90000
+    Type: "SaleCoins2"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fdoublecoins.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_online_sale_2_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 22500
+        moreValue: 100
+        saleCount: 45000
+    - id: "yy_coin_online_sale_2_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 75000
+        moreValue: 200
+        saleCount: 225000
+    Type: "SaleCoins2"
+    level: "yy_store_coin_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fdoublecoins.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_online_sale_3_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 120000
+        moreValue: 100
+        saleCount: 240000
+    - id: "yy_coin_online_sale_3_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 225000
+        moreValue: 220
+        saleCount: 720000
+    Type: "SaleCoins2"
+    level: "yy_coin_local_sale_4_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fdoublecoins.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_online_sale_4_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 240000
+        moreValue: 70
+        saleCount: 400000
+    - id: "yy_coin_online_sale_4_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 375000
+        moreValue: 0
+        saleCount: 880000
+    Type: "SaleCoins2"
+    level: "yy_coin_local_sale_5_3"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12
+  - sceneName: "remote\x2fsale\x2fdoublecoins.asset"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_online_sale_5_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 675000
+        moreValue: 50
+        saleCount: 1000000
+    - id: "yy_coin_online_sale_5_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 750000
+        moreValue: 0
+        saleCount: 1500000
+    Type: "SaleCoins2"
+    level: "yy_store_coin_7"
+    minutes: 20
+    startMonth: 1
+    endMonth: 12

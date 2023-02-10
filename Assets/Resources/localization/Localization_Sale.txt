@@ -1,0 +1,51 @@
+[
+    {
+        "key": "Title_Wilds",
+        "English": "Need a quick win ? This is what's you need!",
+        "German": "Schneller Sieg gefällig? Dies ist, was du brauchst!",
+        "Spanish": "¿Necesitas una victoria rápida? ¡Esto es lo que necesitas!",
+        "French": "Besoin d\\'une victoire rapide ? Voici ce dont vous avez besoin !"
+    },
+    {
+        "key": "Title_Boosters",
+        "English": "CLEAR TRAPS and WIN MORE GAMES",
+        "German": "ZERSTÖRE FALLEN und GEWINNE MEHR SPIELE",
+        "Spanish": "ELIMINA LAS TRAMPAS y GANA MÁS PARTIDAS",
+        "French": "SUPPRIMEZ LES PIÈGES et GAGNEZ PLUS DE PARTIES"
+    },
+    {
+        "key": "Title_Coins",
+        "English": "KEEP HAVING FUN, LIMITED TIME OFFER!",
+        "German": "AMÜSIERE DICH WEITER, NUR FÜR KURZE ZEIT!",
+        "Spanish": "SIGUE DIVIRTIÉNDOTE, OFERTA POR TIEMPO LIMITADO!",
+        "French": "CONTINUEZ DE VOUS AMUSER, OFFRE À DURÉE LIMITÉE"
+    },
+    {
+        "key": "ui_RandomBoosters",
+        "English": "Random\nBoosters",
+        "German": "Zufalls\nBooster",
+        "Spanish": "Potenciadores\naleatorios",
+        "French": "Bonus\naléatoires"
+    },
+    {
+        "key": "ui_Coins",
+        "English": "Coins",
+        "German": "Münzen",
+        "Spanish": "Monedas",
+        "French": "Pièces"
+    },
+    {
+        "key": "ui_was",
+        "English": "WAS",
+        "German": "FRÜHER",
+        "Spanish": "FUE",
+        "French": "ÉTAIT"
+    },
+    {
+        "key": "ui_now",
+        "English": "NOW",
+        "German": "JETZT",
+        "Spanish": "AHORA",
+        "French": "MAINTENANT"
+    }
+]

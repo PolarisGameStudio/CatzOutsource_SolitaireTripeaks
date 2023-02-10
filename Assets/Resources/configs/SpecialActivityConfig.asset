@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ba61d6c440c40b4c4a4baee81de4b54, type: 3}
+  m_Name: "SpecialActivityConfig"
+  m_EditorClassIdentifier: 
+  StartTime: "2019-3-14"
+  EndTime: "2019-3-21"
+  Name: "Clovers"
+  SpecialId: "PatricksDay_20190312"
+  Configs:
+  - boosterType: 102
+    count: 9
+    need: 40
+    limit: 1
+  - boosterType: 2
+    count: 1
+    need: 20
+    limit: 10
+  - boosterType: 3
+    count: 1
+    need: 30
+    limit: 5
+  - boosterType: 103
+    count: 1
+    need: 5
+    limit: 10
+  - boosterType: 1
+    count: 7000
+    need: 10
+    limit: -1
+  - boosterType: 601
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 604
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 612
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 605
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 603
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 606
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 608
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 607
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 609
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 611
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 613
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 610
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 600
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 602
+    count: 1
+    need: 8
+    limit: -1
+  - boosterType: 614
+    count: 1
+    need: 8
+    limit: -1

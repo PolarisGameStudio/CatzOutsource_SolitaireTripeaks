@@ -1,0 +1,1 @@
+[{"TypePlatform":0,"ProductName":"Solitaire Island","CompanyName":"Game 2019","GameName":"Solitaire Island","BundleIdentifier":"com.youngstars.runtheline ","Version":"1.0.0","BundleVersionCode":1,"scriptingImplementation":1,"minSdkVersion":0,"iOSSdkVersion":988,"androidBuildSystem":1}]

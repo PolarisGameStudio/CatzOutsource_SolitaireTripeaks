@@ -1,0 +1,385 @@
+{
+    "dailyConfigs": [
+        {
+            "Type": "ClearRope",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 25,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 26,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 27,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 28,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 29,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "ClearBomb",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 25,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 26,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 27,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 28,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 29,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "ClearSanke",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 12,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 13,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 14,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 15,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 16,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "ClearNumberUpDown",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 25,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 26,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 27,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 28,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 29,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 25,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 26,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 27,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 28,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 29,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        },
+                        {
+                            "NeedCount": 30,
+                            "scheduleData": {
+                                "world": 1,
+                                "chapter": 1,
+                                "level": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "GetNewStar",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 18,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 19,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 20,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 21,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        },
+                        {
+                            "NeedCount": 22,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "GetStreak",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Type": "WinRow",
+            "dailyLevels": [
+                {
+                    "dailyInfos": [
+                        {
+                            "NeedCount": 5,
+                            "scheduleData": {
+                                "world": 0,
+                                "chapter": 0,
+                                "level": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dailyRewardLevels": [
+        {
+            "dailyRewards": [
+                {
+                    "boosterType": "FreeSlotsPlay",
+                    "count": 2,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "FreeWheelPlay",
+                    "count": 2,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "FreePlay",
+                    "count": 2,
+                    "weight": 10
+                },
+                {
+                    "boosterType": "RandomBooster",
+                    "count": 1,
+                    "weight": 10
+                }
+            ]
+        }
+    ],
+    "dailyTimeLevels": [
+        {
+            "dailyTimes": [
+                {
+                    "hours": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fb0b6978050867301da387dee4ebb95, type: 3}
+  m_Name: "NightingaleConfig"
+  m_EditorClassIdentifier: 
+  AppId: "tripeaks"
+  FacebookAppId: "1459076770879972"
+  AppleAppId: "1362998719"
+  StorageBlobAddress: "https:\x2f\x2fassetsgateway.azurewebsites.net\x2f"
+  StorageAccount: "ntgmstorage"
+  StorageKey: "vL6\x2fG8KN8Ji2z56bC1aQ9Ul0FgNvlr36YgTVuabBe9kk7n55v8DOk1cWSgOZdAgVWUdTx8vUumDxDWRMWfX2GA=="
+  NewStorageAccount: "ntgtripeaksanalysis"
+  NewStorageKey: "sxFk\x2fVYFyt+k+\x2flBk9sOioV57tyhFzyLcYrouumUPGJKzkiHzG4z13CZ7dC+Glmrqh2QhMTQNWwtkEEOO\x2fDMnw=="
+  LeaderBoardApi: "http:\x2f\x2ftripeakslb.azurewebsites.net"
+  MessageApi: "http:\x2f\x2ftripeakslb.azurewebsites.net"
+  FacebookApi: "https:\x2f\x2fntg-homepage.azurewebsites.net"
+  ClubApi: "https:\x2f\x2ftripeakslb.azurewebsites.net"
+  ThirdPartyAdDatas:
+  - type: 0
+    platform: 0
+    app_id: "59f17664aa6916b548004c68"
+    placement_id: "5OYUCHY45813"
+  - type: 1
+    platform: 0
+    app_id: 
+    placement_id: "ca-app-pub-6973121517777121\x2f9577149615"
+  - type: 2
+    platform: 0
+    app_id: "1655304"
+    placement_id: "rewardedVideo"
+  - type: 0
+    platform: 2
+    app_id: "5bbeb0f217c37a7955b74cc0"
+    placement_id: "DEFAULT-5492143"
+  - type: 1
+    platform: 1
+    app_id: "ca-app-pub-2314844261530297~8915591941"
+    placement_id: "ca-app-pub-2314844261530297\x2f6664122682"
+  - type: 4
+    platform: 2
+    app_id: "9phrs0ljhdh6"
+    placement_id: "1100043263"

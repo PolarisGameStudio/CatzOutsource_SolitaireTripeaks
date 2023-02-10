@@ -1,0 +1,184 @@
+[
+    {
+        "key": "friend_select_count",
+        "English": "{0} Friends Selected",
+        "German": "{0} Freunde ausgewählt",
+        "Spanish": "{0} amigos seleccionados",
+        "French": "{0} amis sélectionnés"
+    },
+    {
+        "key": "all_friends_invite_rewards",
+        "English": "Each friend you invite can gift you 15k coins for showing appreciation."
+    },
+    {
+        "key": "tripeaks_friends_ask_help_rewards",
+        "English": "Ask your friends to send you 3000 free coins to keep playing.",
+        "German": "Bitte Freunde um Hilfe. Sie können dir täglich 3.000 \nMünzen senden.",
+        "Spanish": "Pide ayuda a tus amigos. Pueden enviarte hasta 3000 \nmonedas al día.",
+        "French": "Demandez de l'aide à vos amis, ils peuvent vous envoyer \n3000 pièces par jour."
+    },
+    {
+        "key": "btn_all_friends",
+        "English": "Friends",
+        "German": "FREUNDE",
+        "Spanish": "AMIGOS",
+        "French": "AMIS"
+    },
+    {
+        "key": "btn_tripeaks_friends",
+        "English": "Solitaire Friends",
+        "German": "Solitaire-Freunde",
+        "Spanish": "Amigos de solitario",
+        "French": "Amis Solitaire"
+    },
+    {
+        "key": "btn_select_all",
+        "English": "Select All",
+        "German": "Alles auswählen",
+        "Spanish": "Seleccionar todo",
+        "French": "Tout sélectionner"
+    },
+    {
+        "key": "btn_invite_to_game",
+        "English": "Invite",
+        "German": "Einladen",
+        "Spanish": "Invitar",
+        "French": "Inviter"
+    },
+    {
+        "key": "btn_ask_for_help",
+        "English": "Send",
+        "German": "Um Hilfe bitten",
+        "Spanish": "Pedir ayuda",
+        "French": "Demander de l'aide"
+    },
+    {
+        "key": "btn_collect",
+        "English": "Collect",
+        "German": "Einsammeln",
+        "Spanish": "Reunir",
+        "French": "Récupérer"
+    },
+    {
+        "key": "btn_enable",
+        "English": "Enable",
+        "German": "Aktivieren",
+        "Spanish": "Habilitar",
+        "French": "Activer"
+    },
+    {
+        "key": "btn_help",
+        "English": "Help",
+        "German": "Hilfe",
+        "Spanish": "Ayuda",
+        "French": "Aide"
+    },
+    {
+        "key": "btn_view",
+        "English": "View",
+        "German": "Ansehen",
+        "Spanish": "Ver",
+        "French": "Voir"
+    },
+    {
+        "key": "fb_ask_for_help",
+        "English": "Help me please!",
+        "German": "Hilf mir bitte",
+        "Spanish": "Ayúdame",
+        "French": "Aidez-moi, s'il vous plaît"
+    },
+    {
+        "key": "fb_invite_friend",
+        "English": "This game is very good, come and play together!",
+        "German": "Dieses Spiel ist super, lass uns zusammen spielen!",
+        "Spanish": "Este juego es muy bueno, ven y juguemos juntos",
+        "French": "Ce jeu est vraiment excellent, venez jouer avec moi"
+    },
+    {
+        "key": "fb_respone_invite",
+        "English": "Thanks for the invite,here's your reward!",
+        "German": "Danke für die Einladung, hier ist deine Belohnung.",
+        "Spanish": "Gracias por la invitación, aquí tienes tu recompensa",
+        "French": "Merci pour l'invitation, voici votre récompense"
+    },
+    {
+        "key": "fb_respone_help",
+        "English": "Here is your gift!",
+        "German": "Hier ist dein Geschenk.",
+        "Spanish": "Aquí tienes tu regalo",
+        "French": "Voici votre cadeau"
+    },
+    {
+        "key": "fb_bonus_SaveProgress_top",
+        "English": "DATA SYNC\nBETWEEN DEVICES!",
+        "German": "SPIELE AUF ALL\nDEINEN GERÄTEN!",
+        "Spanish": "¡JUEGA EN TODOS\nLOS DISPOSITIVOS!",
+        "French": "JOUEZ SUR TOUS\nVOS APPAREILS !"
+    },
+    {
+        "key": "fb_bonus_SaveProgress_bottom",
+        "English": "SYNC\nPROGRESS",
+        "German": "FORTSCHRITT\nSPEICHERN",
+        "Spanish": "GUARDAR\nPROGRESO",
+        "French": "ENREGISTRER LA\nPROGRESSION"
+    },
+    {
+        "key": "fb_bonus_ShareCoins_top",
+        "English": "GET GIFTS\nFROM FRIENDS!",
+        "German": "ERHALTE KOSTENLOS\nMÜNZEN VON\nFREUNDEN!",
+        "Spanish": "¡CONSIGUE MONEDAS\nGRATIS DE TUS AMIGOS!",
+        "French": "RECEVEZ DES PIÈCES\nGRATUITES DE LA \nPART DE VOS AMIS !"
+    },
+    {
+        "key": "fb_bonus_ShareCoins_bottom",
+        "English": "SEND\nGIFTS",
+        "German": "MÜNZEN\nTEILEN",
+        "Spanish": "COMPARTIR\nMONEDAS",
+        "French": "PARTAGER LES\nPIÈCES"
+    },
+    {
+        "key": "fb_bonus_Wild",
+        "English": "GET 3 FREE WILD\nLOGIN NOW",
+        "German": "TIPPE AUF\n\"ANMELDEN\" UND \nERHALTE 3 JOKER!",
+        "Spanish": "¡CONSIGUE 3 \nCOMODINES AL TOCAR\n\"INICIAR SESIÓN\"!",
+        "French": "RECEVEZ 3 JOKERS \nMAINTENANT TOUCHEZ\n« CONNEXION » !"
+    },
+    {
+        "key": "no_tripeaks_friends",
+        "English": "No friends are playing. Invite them to play!",
+        "German": "Es spielen keine Freunde. Lade sie ein!",
+        "Spanish": "No tienes amigos jugando. ¡Invítalos a jugar!",
+        "French": "Aucun ami ne joue. Invitez-les à jouer !"
+    },
+    {
+        "key": "no_facebook_friends",
+        "English": "No friends are playing. Invite them to play!",
+        "German": "Es spielen keine Freunde. Lade sie ein!",
+        "Spanish": "No tienes amigos jugando. ¡Invítalos a jugar!",
+        "French": "Aucun ami ne joue. Invitez-les à jouer !"
+    },
+    {
+        "key": "Synchronize_Level",
+        "English": "Level: {0}"
+    },
+    {
+        "key": "Synchronize_Star",
+        "English": "Stars: {0}"
+    },
+    {
+        "key": "Synchronize_Coins",
+        "English": "Coins: {0}"
+    },
+    {
+        "key": "Synchronize_Title",
+        "English": "Sync your game"
+    },
+    {
+        "key": "Synchronize_Select_device",
+        "English": "KEEP CURRENT GAME"
+    },
+    {
+        "key": "Synchronize_Select_cloud",
+        "English": "LOAD GAME"
+    }
+]

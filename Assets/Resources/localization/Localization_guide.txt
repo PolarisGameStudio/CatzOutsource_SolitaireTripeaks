@@ -1,0 +1,379 @@
+[
+    {
+        "key": "rule_basic_title",
+        "English": "Basics",
+        "German": "Grundlagen",
+        "Spanish": "Fundamentos",
+        "French": "Bases"
+    },
+    {
+        "key": "rule_basic_title_desc",
+        "English": "Collect cards 1 higher or lower than your hand card. Win Coins for collect each card!",
+        "German": "Sammle Karten ein, die um 1 höher oder niedriger als deine Handkarte sind. Erhalte Münzen für jede eingesammelte Karte.",
+        "Spanish": "Reúne cartas superiores o inferiores en 1 a la carta de tu mano. Gana monedas por cada carta.",
+        "French": "Collectionnez les cartes immédiatement supérieures ou inférieures à celle dans votre main. Gagnez des pièces pour chaque carte collectionnée"
+    },
+    {
+        "key": "rule_star_title",
+        "English": "Star",
+        "German": "Stern",
+        "Spanish": "Estrella",
+        "French": "Étoile"
+    },
+    {
+        "key": "rule_star_desc",
+        "English": "Collect 5 cards in a row to get the first Combo Star. Then collect 5 cards in a row for 2 times to get the Second Combo Star."
+    },
+    {
+        "key": "rule_undo_title",
+        "English": "Undo, Rocket & Wild Card",
+        "German": "Rückgängig, Rakete & Joker",
+        "Spanish": "Deshacer, Misil & Comodín",
+        "French": "Annulation, Fusée et Joker"
+    },
+    {
+        "key": "rule_undo_desc",
+        "English": "Use Undo when you missed a playable card. Wild and Rocket Card can collect any available card!",
+        "German": "Verwende die Rückgängig-Funktion, wenn du eine spielbare Karte verpasst hast. Mit Jokern und Raketenkarten kann jede verfügbare Karte eingesammelt werden.",
+        "Spanish": "Usa Deshacer cuando te hayas saltado una carta jugable. El comodín y la carta misil pueden reunir cualquier carta disponible",
+        "French": "Utilisez l'Annulation lorsque vous loupez une carte jouable. Les cartes Fusée et Joker permettent de collectionner n'importe quelle carte disponible"
+    },
+    {
+        "key": "cards_golden_title",
+        "English": "Golden Card",
+        "German": "Goldene Karte",
+        "Spanish": "Carta dorada",
+        "French": "Carte dorée"
+    },
+    {
+        "key": "cards_golden_desc",
+        "English": "Collect any available card from the desk including Hazard Card!",
+        "German": "Sammle jede verfügbare Karte auf dem Tisch einschließlich Risiko-Karte ein.",
+        "Spanish": "Roba cualquier carta disponible de la baraja, incluidas las cartas peligrosas",
+        "French": "Permet de collectionner n'importe quelle carte sur le plateau, même les cartes Danger"
+    },
+    {
+        "key": "cards_rocket_title",
+        "English": "Rocket Card",
+        "German": "Raketenkarte",
+        "Spanish": "Carta misil",
+        "French": "Carte Fusée"
+    },
+    {
+        "key": "cards_rocket_desc",
+        "English": "Collect 7 random cards from the desk.",
+        "German": "Sammle 7 zufällig ausgewählte Karten vom Tisch ein.",
+        "Spanish": "Robe 7 cartas aleatorias de la baraja.",
+        "French": "Collectionnez 7 cartes aléatoires sur le plateau."
+    },
+    {
+        "key": "cards_fox_title",
+        "English": "Fox Card",
+        "German": "Fuchskarte",
+        "Spanish": "Carta zorro",
+        "French": "Carte Renard"
+    },
+    {
+        "key": "cards_fox_desc",
+        "English": "Add 3 more cards to the Hand Card.",
+        "German": "Füge der Handkarte 3 weitere Karten hinzu.",
+        "Spanish": "Añade 3 cartas más a la mano.",
+        "French": "Ajoutez 3 cartes supplémentaires à la Carte de main."
+    },
+    {
+        "key": "cards_red_title",
+        "English": "Red",
+        "German": "Rot",
+        "Spanish": "Rojo",
+        "French": "Rouge"
+    },
+    {
+        "key": "cards_red_desc",
+        "English": "Collect all of the available same color cards",
+        "German": "Sammle alle verfügbaren Karten derselben Farbe ein.",
+        "Spanish": "Reúne todas las cartas del mismo color disponibles",
+        "French": "Collectionnez toutes les cartes disponibles de la même couleur"
+    },
+    {
+        "key": "cards_black_title",
+        "English": "Black",
+        "German": "Schwarz",
+        "Spanish": "Negro",
+        "French": "Noir"
+    },
+    {
+        "key": "cards_black_desc",
+        "English": "Collect all of the available same color cards",
+        "German": "Sammle alle verfügbaren Karten derselben Farbe ein.",
+        "Spanish": "Reúne todas las cartas del mismo color disponibles",
+        "French": "Collectionnez toutes les cartes disponibles de la même couleur"
+    },
+    {
+        "key": "hazards_rope_title",
+        "English": "Cobweb",
+        "German": "Seil",
+        "Spanish": "Cuerda",
+        "French": "Corde"
+    },
+    {
+        "key": "hazards_rope_desc",
+        "English": "Remove Cobweb Cards by clear them twice.",
+        "German": "Entferne Seilkarten, indem du sie zweimal abräumst.",
+        "Spanish": "Elimina las cartas cuerda al despejarlas dos veces.",
+        "French": "Retirez les cartes Cordes en les supprimant deux fois."
+    },
+    {
+        "key": "hazards_snake_fork_title",
+        "English": "Trident & Snake",
+        "German": "Dreizack, Schlange",
+        "Spanish": "Tridente & Serpiente",
+        "French": "Trident et Serpent"
+    },
+    {
+        "key": "hazards_snake_fork_desc",
+        "English": "Find the Trident Card to clear the Snake Card.",
+        "German": "Finde die Dreizack-Karte, um die Schlangenkarte abzuräumen.",
+        "Spanish": "Busca la carta tridente para despejar la carta serpiente.",
+        "French": "Trouvez la carte Trident pour retirer la carte Serpent."
+    },
+    {
+        "key": "hazards_bomb_title",
+        "English": "Bomb",
+        "German": "Bombe",
+        "Spanish": "Bomba",
+        "French": "Bombe"
+    },
+    {
+        "key": "hazards_bomb_desc",
+        "English": "Collect the card before the bomb exploding.",
+        "German": "Sammle die Karte ein, bevor die Bombe hochgeht.",
+        "Spanish": "Reúne la carta antes de que explote la bomba",
+        "French": "Collectionnez la carte avant que la bombe explose."
+    },
+    {
+        "key": "hazards_up_title",
+        "English": "Up",
+        "German": "Rauf",
+        "Spanish": "Arriba",
+        "French": "Haut"
+    },
+    {
+        "key": "hazards_up_desc",
+        "English": "One Up Card value increases by 1 every time you flip a new hand card.",
+        "German": "Der Eins-rauf-Kartenwert erhöht sich bei jedem Umdrehen einer neuen Handkarte um 1.",
+        "Spanish": "Una carta de arriba aumenta en 1 cada vez que das la vuelta a una carta de la mano.",
+        "French": "La valeur d'une carte Haut augmente à chaque fois que vous retournez une nouvelle carte de votre main."
+    },
+    {
+        "key": "hazards_down_title",
+        "English": "Down",
+        "German": "Runter",
+        "Spanish": "Abajo",
+        "French": "Bas"
+    },
+    {
+        "key": "hazards_down_desc",
+        "English": "One Down Card value decreases by 1 every time you flip a new hand card.",
+        "German": "Der Eins-runter-Kartenwert verringert sich bei jedem Umdrehen einer neuen Handkarte um 1.",
+        "Spanish": "Una carta de abajo disminuye en 1 cada vez que das la vuelta a una carta de la mano.",
+        "French": "La valeur d'une carte Bas diminue à chaque fois que vous retournez une nouvelle carte de votre main."
+    },
+    {
+        "key": "booster_streak_doubler_title",
+        "English": "Combo Doubler",
+        "German": "Komboverdoppler",
+        "Spanish": "Duplicador de combinación",
+        "French": "Combo doublé"
+    },
+    {
+        "key": "booster_streak_doubler_desc",
+        "English": "Combo x2 for every collected card.",
+        "German": "Kombo x2 bei jeder eingesammelten Karte.",
+        "Spanish": "Combinación x2 por cada carta reunida.",
+        "French": "Combo x2 pour toutes les cartes collectionnées."
+    },
+    {
+        "key": "booster_tongyong_title",
+        "English": "Shell"
+    },
+    {
+        "key": "booster_tongyong_desc",
+        "English": "You can use him to exchange any booster."
+    },
+    {
+        "key": "booster_magic_eye_title",
+        "English": "Bella's Wish"
+    },
+    {
+        "key": "booster_magic_eye_desc",
+        "English": "Get at least one random BELLA CARD in the game."
+    },
+    {
+        "key": "booster_full_flip_title",
+        "English": "Full Flip"
+    },
+    {
+        "key": "booster_full_flip_desc",
+        "English": "Flips all cards face up."
+    },
+    {
+        "key": "booster_bomb_defender_title",
+        "English": "Bomb Defender",
+        "German": "Bombenabwehr",
+        "Spanish": "Defensor de bomba",
+        "French": "Démineur"
+    },
+    {
+        "key": "booster_bomb_defender_desc",
+        "English": "Clear all Bomb Cards.",
+        "German": "Räume alle Bombenkarten ab.",
+        "Spanish": "Despeja todas las cartas de bomba.",
+        "French": "Retire toutes les cartes Bombes."
+    },
+    {
+        "key": "booster_torch_title",
+        "English": "Candle",
+        "German": "Fackel",
+        "Spanish": "Antorcha",
+        "French": "Torche"
+    },
+    {
+        "key": "booster_torch_desc",
+        "English": "Clear Cobweb from all cards.",
+        "German": "Entferne das Seil von allen Karten.",
+        "Spanish": "Despeja cuerda de todas las cartas.",
+        "French": "Retire toutes les cartes Cordes."
+    },
+    {
+        "key": "booster_fork_title",
+        "English": "Trident",
+        "German": "Dreizack",
+        "Spanish": "Tridente",
+        "French": "Trident"
+    },
+    {
+        "key": "booster_fork_desc",
+        "English": "Clear all Snake Cards.",
+        "German": "Räume alle Schlangenkarten ab.",
+        "Spanish": "Despeja todas las cartas serpiente.",
+        "French": "Retire toutes les cartes Serpents."
+    },
+    {
+        "key": "booster_up_down_defender_title",
+        "English": "NO Up&Down",
+        "German": "Kein Rauf/Runter",
+        "Spanish": "Sin arriba, abajo",
+        "French": "Ni haut ni bas"
+    },
+    {
+        "key": "booster_up_down_defender_desc",
+        "English": "Clear Up&Down from all Cards.",
+        "German": "Entferne Rauf/Runter von allen Karten.",
+        "Spanish": "Despeja todos los arriba,abajo de las cartas",
+        "French": "Retire toutes les cartes Haut et Bas."
+    },
+    {
+        "key": "hazards_mouse_title",
+        "English": "Mouse",
+        "German": "Maus",
+        "Spanish": "Ratón",
+        "French": "Souris"
+    },
+    {
+        "key": "hazards_mouse_desc",
+        "English": "Keep stealing your hand card every 14 seconds.",
+        "German": "Stiehlt alle 14 Sekunden deine Handkarte.",
+        "Spanish": "Te sigue robando la carta de tu mano cada 14 segundos.",
+        "French": "Vole votre carte en main toutes les 14 secondes."
+    },
+    {
+        "key": "booster_swallowed_defender_title",
+        "English": "Cheese Tactics",
+        "German": "Käsetaktik",
+        "Spanish": "Tácticas de queso",
+        "French": "Stratégie de fromage"
+    },
+    {
+        "key": "booster_swallowed_defender_desc",
+        "English": "Clear all Mouse Cards.",
+        "German": "Räume alle Mauskarten ab.",
+        "Spanish": "Despeja las cartas de ratón.",
+        "French": "Retire toutes les cartes Souris"
+    },
+    {
+        "key": "hazards_vine_title",
+        "English": "Vine",
+        "German": "Vine",
+        "Spanish": "Vine",
+        "French": "Vine"
+    },
+    {
+        "key": "hazards_vine_desc",
+        "English": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again.",
+        "German": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again.",
+        "Spanish": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again.",
+        "French": "Slice the vines, then collect the Card quick!\nAfter few seconds the vines will grow again."
+    },
+    {
+        "key": "booster_vine_defender_title",
+        "English": "Hatchet",
+        "German": "Hatchet",
+        "Spanish": "Hatchet",
+        "French": "Hatchet"
+    },
+    {
+        "key": "booster_vine_defender_desc",
+        "English": "Clear Vines from all cards.",
+        "German": "Clear Vines from all cards.",
+        "Spanish": "Clear Vines from all cards.",
+        "French": "Clear Vines from all cards."
+    },
+    {
+        "key": "booster_batter_defender_title",
+        "English": "Magic Broom"
+    },
+    {
+        "key": "booster_batter_defender_desc",
+        "English": "Clear Maple Leaf from all Mapleaf Card"
+    },
+    {
+        "key": "booster_lock_defender_title",
+        "English": "Master Key"
+    },
+    {
+        "key": "booster_lock_defender_desc",
+        "English": "Clear Lock from all cards."
+    },
+    {
+        "key": "booster_double_seagull_title",
+        "English": "Calling Albatross"
+    },
+    {
+        "key": "booster_double_seagull_desc",
+        "English": "When you collect a Albatross Card, there will fly more albatrosses."
+    },
+    {
+        "key": "booster_no_contagion_title",
+        "English": "Insecticide"
+    },
+    {
+        "key": "booster_no_contagion_desc",
+        "English": "Clear Chameleon from all cards."
+    },
+    {
+        "key": "booster_color_defender_title",
+        "English": "Magnet"
+    },
+    {
+        "key": "booster_color_defender_desc",
+        "English": "Clear all trap on Spalub/Heamond Card."
+    },
+    {
+        "key": "rewards_no_skeleton_title",
+        "English": "No Skull"
+    },
+    {
+        "key": "rewards_no_skeleton_desc",
+        "English": "Clear all Skull Cards"
+    }
+]

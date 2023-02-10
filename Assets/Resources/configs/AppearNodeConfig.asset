@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3df9095a6075dc6c9f09e4c29429993, type: 3}
+  m_Name: "AppearNodeConfig"
+  m_EditorClassIdentifier: 
+  CardTypeNodeConfigs:
+  - guide: "help_snake"
+    cardType: 5
+    booster: 604
+    scheduleData:
+      world: 0
+      chapter: 1
+      level: 0
+  - guide: "help_seagull"
+    cardType: 16
+    booster: 612
+    scheduleData:
+      world: 1
+      chapter: 2
+      level: 0
+  ExtraTypeNodeConfigs:
+  - guide: "help_bomb"
+    extraType: 3
+    Index: 0
+    booster: 605
+    scheduleData:
+      world: 0
+      chapter: 1
+      level: 9
+  - guide: "help_rope"
+    extraType: 7
+    Index: 0
+    booster: 603
+    scheduleData:
+      world: 0
+      chapter: 0
+      level: 9
+  - guide: "help_up"
+    extraType: 14
+    Index: 0
+    booster: 606
+    scheduleData:
+      world: 0
+      chapter: 4
+      level: 0
+  - guide: "help_down"
+    extraType: 14
+    Index: 1
+    booster: 606
+    scheduleData:
+      world: 0
+      chapter: 4
+      level: 1
+  - guide: "help_vine"
+    extraType: 13
+    Index: 1
+    booster: 608
+    scheduleData:
+      world: 0
+      chapter: 6
+      level: 0
+  - guide: "help_swallowed"
+    extraType: 16
+    Index: 1
+    booster: 607
+    scheduleData:
+      world: 0
+      chapter: 7
+      level: 0
+  - guide: "help_batter"
+    extraType: 1
+    Index: 1
+    booster: 609
+    scheduleData:
+      world: 0
+      chapter: 9
+      level: 0
+  - guide: "help_lock"
+    extraType: 9
+    Index: 1
+    booster: 611
+    scheduleData:
+      world: 1
+      chapter: 0
+      level: 0
+  - guide: "help_contagion"
+    extraType: 5
+    Index: 1
+    booster: 613
+    scheduleData:
+      world: 1
+      chapter: 3
+      level: 0
+  - guide: "help_samlecolor"
+    extraType: 4
+    Index: 1
+    booster: 610
+    scheduleData:
+      world: 1
+      chapter: 7
+      level: 0
+  - guide: "help_skeleton"
+    extraType: 22
+    Index: 1
+    booster: 614
+    scheduleData:
+      world: 2
+      chapter: 1
+      level: 0
+  BoosterTypeConfigs:
+  - QuestTitle: "rewards_coins"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: 4ff6f26b11284c049de9fea5745b9245, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: db5a7cb64a094e5fb1fad44d16fd8f79, type: 3}
+    Type: 1
+  - QuestTitle: "rewards_freeplay"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: 3aa6fda590744313adc7b8f9bce3a968, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: d00c7582d6e6425da368d9b74c012196, type: 3}
+    Type: 0
+  - QuestTitle: "rewards_wild"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: 1dc4be7d54814cd184c983c842d59107, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: d29d921b2292424f8f69d676a23f9168, type: 3}
+    Type: 2
+  - QuestTitle: "rewards_rocket"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: 07c4782aba4e4dd28ca22dd8db2e06ca, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 395d8e8dec8f4b0393983a56c7ced3a1, type: 3}
+    Type: 3
+  - QuestTitle: "rewards_slots"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: bece8fb8bbbb40a9b3ed8911fdb5ec2a, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 1ec17da45ad0439ca7ad95964f864783, type: 3}
+    Type: 5
+  - QuestTitle: "rewards_wheel"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: da7563a59aec41158fd0bed81546a58e, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 3c1999d0263b420fa810136de998f2f3, type: 3}
+    Type: 4
+  - QuestTitle: "rewards_double_star"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: 535118a09d294e11af3e4973b56689d6, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 24d1f6ca17114698874a42edda9ff8c2, type: 3}
+    Type: 103
+  - QuestTitle: "rewards_double_star"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: 535118a09d294e11af3e4973b56689d6, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 24d1f6ca17114698874a42edda9ff8c2, type: 3}
+    Type: 121
+  - QuestTitle: "rewards_streak_doubler"
+    GuidTitle: "booster_streak_doubler_title"
+    GuidDescription: "booster_streak_doubler_desc"
+    BoosterSprite: {fileID: 21300000, guid: 929c120f0843453eb9bc5ff270f4e2d6, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: d9166f72771d4748a52812c43993e354, type: 3}
+    Type: 601
+  - QuestTitle: "rewards_magic_eye"
+    GuidTitle: "booster_magic_eye_title"
+    GuidDescription: "booster_magic_eye_desc"
+    BoosterSprite: {fileID: 21300000, guid: cc596450cd9d4a10acc1753137cfcf26, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: f0ad8e7833f34576aa9208e5b5f6b22a, type: 3}
+    Type: 602
+  - QuestTitle: "rewards_full_flip"
+    GuidTitle: "booster_full_flip_title"
+    GuidDescription: "booster_full_flip_desc"
+    BoosterSprite: {fileID: 21300000, guid: 494de744da5f4c5686622fb46f4ed8c6, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: d101b91300dd47f5b7657eaa1443bca8, type: 3}
+    Type: 600
+  - QuestTitle: "rewards_torch"
+    GuidTitle: "booster_torch_title"
+    GuidDescription: "booster_torch_desc"
+    BoosterSprite: {fileID: 21300000, guid: 1ab1147f12854587be31b2812b816ab9, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: b3317bddeb3b45f2ad4b16f84f815a86, type: 3}
+    Type: 603
+  - QuestTitle: "rewards_trident"
+    GuidTitle: "booster_fork_title"
+    GuidDescription: "booster_fork_desc"
+    BoosterSprite: {fileID: 21300000, guid: c818140f1d0c4f78a30a6b6e34362895, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: c24937d50cbc4981839ea5df09359829, type: 3}
+    Type: 604
+  - QuestTitle: "rewards_bomb_defender"
+    GuidTitle: "booster_bomb_defender_title"
+    GuidDescription: "booster_bomb_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: fd90967863484acebc935f885547558d, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 9ce209ad557e457da11792fce9df5398, type: 3}
+    Type: 605
+  - QuestTitle: "rewards_up_down_defender"
+    GuidTitle: "booster_up_down_defender_title"
+    GuidDescription: "booster_up_down_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: 65c2f6c9b0d74e418f7c1ab2c1baee7f, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 703d8889b43d4cef92db6971be97b3cb, type: 3}
+    Type: 606
+  - QuestTitle: "rewards_swallowed_defender"
+    GuidTitle: "booster_swallowed_defender_title"
+    GuidDescription: "booster_swallowed_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: 6dfa7671991142158060881f7f0fb98b, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: c90e48b29ecc4051a9a76eb5a4b9b348, type: 3}
+    Type: 607
+  - QuestTitle: "rewards_vine_defender"
+    GuidTitle: "booster_vine_defender_title"
+    GuidDescription: "booster_vine_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: efc3a35833c646c4a5259ffe1b264220, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 02196f17624e4d27b19fa1bf96db462e, type: 3}
+    Type: 608
+  - QuestTitle: "rewards_color_defender"
+    GuidTitle: "booster_color_defender_title"
+    GuidDescription: "booster_color_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: 4ad76245b3964a639af33a3c2a86330d, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 2e07f50345ef4b7593886382213301cd, type: 3}
+    Type: 610
+  - QuestTitle: "rewards_batter_defender"
+    GuidTitle: "booster_batter_defender_title"
+    GuidDescription: "booster_batter_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: 59ac511b397840eab34dc126816d9244, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: a162b52dbd4f494f9d81faaf85cfdcad, type: 3}
+    Type: 609
+  - QuestTitle: "rewards_lock_defender"
+    GuidTitle: "booster_lock_defender_title"
+    GuidDescription: "booster_lock_defender_desc"
+    BoosterSprite: {fileID: 21300000, guid: 9b7fbd7b5bf64a41b13c4966bdd06658, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 28c28d329e724b2582c04a2248517b51, type: 3}
+    Type: 611
+  - QuestTitle: "rewards_double_seagull"
+    GuidTitle: "booster_double_seagull_title"
+    GuidDescription: "booster_double_seagull_desc"
+    BoosterSprite: {fileID: 21300000, guid: 05dcb3d8d5584f84be938b148c026167, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 65ff6b3d7f6041ea91b67f96f7daa621, type: 3}
+    Type: 612
+  - QuestTitle: "rewards_no_contagion"
+    GuidTitle: "booster_no_contagion_title"
+    GuidDescription: "booster_no_contagion_desc"
+    BoosterSprite: {fileID: 21300000, guid: 856003ff1f894ce08bdda6e78e3629e9, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 20f6e51962c34c9b8cc0885a95eed6f3, type: 3}
+    Type: 613
+  - QuestTitle: "random_Booster"
+    GuidTitle: "random_Booster"
+    GuidDescription: "random_Booster"
+    BoosterSprite: {fileID: 21300000, guid: 1e960e7bdd3d4f51a65c4528bbdfdc78, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: c55484762a4d4e67ae512b60be5fac72, type: 3}
+    Type: 599
+  - QuestTitle: "Unlimited Play"
+    GuidTitle: "Unlimited Play"
+    GuidDescription: "Unlimited Play"
+    BoosterSprite: {fileID: 21300000, guid: 8b2844a87d864c0684145f1df87fe20e, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 8b2844a87d864c0684145f1df87fe20e, type: 3}
+    Type: 6
+  - QuestTitle: "rewards_freeplay"
+    GuidTitle: 
+    GuidDescription: 
+    BoosterSprite: {fileID: 21300000, guid: ac1e0d2308a04e3bbd3e5f3a66784f1b, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: 7ce28eb96a3d4b959eec65914e32e194, type: 3}
+    Type: 7
+  - QuestTitle: "rewards_no_skeleton"
+    GuidTitle: "rewards_no_skeleton_title"
+    GuidDescription: "rewards_no_skeleton_desc"
+    BoosterSprite: {fileID: 21300000, guid: 36ecbbfb85f84a11a9f4134f9fb3d3a8, type: 3}
+    BoosterMiniSprite: {fileID: 21300000, guid: badfc2e553c547cd83919698eb92e897, type: 3}
+    Type: 614

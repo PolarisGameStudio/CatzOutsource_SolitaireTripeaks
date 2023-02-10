@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11226f8a14d294d03a907f60e8e14fe9, type: 3}
+  m_Name: "BankConfig"
+  m_EditorClassIdentifier: 
+  Banks:
+  - Id: "yy_gold_reserve_1"
+    MinCoins: 17500
+    MaxCoins: 30000
+  - Id: "yy_gold_reserve_2"
+    MinCoins: 35000
+    MaxCoins: 60000
+  - Id: "yy_gold_reserve_3"
+    MinCoins: 52500
+    MaxCoins: 90000
+  OnceGameCoins: 0.8

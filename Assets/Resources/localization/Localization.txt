@@ -1,0 +1,306 @@
+[
+    {
+        "key": "btn_menu",
+        "English": "SETTING",
+        "German": "EINSTELLUNG",
+        "Spanish": "AJUSTES",
+        "French": "PARAMÈTRES"
+    },
+    {
+        "key": "btn_avatar",
+        "English": "AVATAR",
+        "German": "Benutzerbild",
+        "Spanish": "AVATAR",
+        "French": "AVATAR"
+    },
+    {
+        "key": "btn_facebook_login",
+        "English": "LOGIN",
+        "German": "ANMELDUNG",
+        "Spanish": "INICIAR SESIÓN",
+        "French": "CONNEXION"
+    },
+    {
+        "key": "btn_expert_levels",
+        "English": "MASTER"
+    },
+    {
+        "key": "btn_facebook_friends",
+        "English": "GIFTS",
+        "German": "FREUNDE",
+        "Spanish": "AMIGOS",
+        "French": "AMIS"
+    },
+    {
+        "key": "btn_world",
+        "English": "HOME",
+        "German": "STARTSEITE",
+        "Spanish": "INICIO",
+        "French": "ACCUEIL"
+    },
+    {
+        "key": "btn_inbox",
+        "English": "INBOX",
+        "German": "POSTEINGANG",
+        "Spanish": "BUZÓN",
+        "French": "BOÎTE DE RÉCEPTION"
+    },
+    {
+        "key": "btn_home",
+        "English": "HOME",
+        "German": "STARTSEITE",
+        "Spanish": "INICIO",
+        "French": "ACCUEIL"
+    },
+    {
+        "key": "btn_free",
+        "English": "BONUS",
+        "German": "BONUS",
+        "Spanish": "BONIFICACIÓN",
+        "French": "BONUS"
+    },
+    {
+        "key": "btn_poker",
+        "English": "POKER",
+        "German": "POKER",
+        "Spanish": "PÓKER",
+        "French": "POKER"
+    },
+    {
+        "key": "btn_quest",
+        "English": "QUEST",
+        "German": "MISSION",
+        "Spanish": "MISIÓN",
+        "French": "QUÊTE"
+    },
+    {
+        "key": "btn_package",
+        "English": "BAG"
+    },
+    {
+        "key": "btn_map",
+        "English": "ISLANDS",
+        "German": "INSELN",
+        "Spanish": "ISLAS",
+        "French": "ÎLES"
+    },
+    {
+        "key": "btn_exit",
+        "English": "EXIT",
+        "German": "VERLASSEN",
+        "Spanish": "SALIR",
+        "French": "QUITTER"
+    },
+    {
+        "key": "btn_end",
+        "English": "END\nGAME",
+        "German": "SPIEL\nBEENDEN",
+        "Spanish": "TERMINAR\nPARTIDA",
+        "French": "TERMINER \nLA PARTIE"
+    },
+    {
+        "key": "btn_more_cards",
+        "English": "ADD CARDS",
+        "German": "KARTEN HINZUFÜGEN",
+        "Spanish": "AÑADIR CARTAS",
+        "French": "AJOUTER DES CARTES"
+    },
+    {
+        "key": "btn_leaderboard",
+        "English": "LEADER\nBOARD",
+        "German": "BESTENLISTE",
+        "Spanish": "CLASIFICACIÓN",
+        "French": "CLASSEMENT"
+    },
+    {
+        "key": "btn_buy",
+        "English": "BUY",
+        "German": "KAUFEN",
+        "Spanish": "COMPRAR",
+        "French": "ACHETER"
+    },
+    {
+        "key": "COMPLETION",
+        "English": "COMPLETION!!"
+    },
+    {
+        "key": "TIMEBONUS",
+        "English": "SPEED BONUS!!"
+    },
+    {
+        "key": "TOTEMCOINS",
+        "English": "TOTEM COINS!!"
+    },
+    {
+        "key": "TreasureUnlocked",
+        "English": "Treasure Unlocked!!"
+    },
+    {
+        "key": "CLANBONUS",
+        "English": "CLAN BONUS!!"
+    },
+    {
+        "key": "COMPLETION_BONUS",
+        "English": "COMBO BONUS!!"
+    },
+    {
+        "key": "{0} Streaks",
+        "English": "{0} COMBO!",
+        "German": "{0}-KOMBO",
+        "Spanish": "COMBINACIÓN DE {0}",
+        "French": "COMBO {0}"
+    },
+    {
+        "key": "Streak Bonus!",
+        "English": "COMBO BONUS!",
+        "German": "KOMBOBONUS",
+        "Spanish": "BONIFICACIÓN DE COMBINACIÓN",
+        "French": "BONUS DE COMBO"
+    },
+    {
+        "key": "Golden Tips",
+        "English": "Golden Bella!!!",
+        "German": "Goldene Bella",
+        "Spanish": "Bella dorada",
+        "French": "Bella dorée"
+    },
+    {
+        "key": "Red Tips",
+        "English": "No Red!!!",
+        "German": "Kein Rot",
+        "Spanish": "Sin rojo",
+        "French": "Pas de rouge"
+    },
+    {
+        "key": "Black Tips",
+        "English": "No Black!!!",
+        "German": "Kein Schwarz",
+        "Spanish": "Sin negro",
+        "French": "Pas de noir"
+    },
+    {
+        "key": "Fox Tips",
+        "English": "Fox Blessing!!!",
+        "German": "Fuchs-Segen",
+        "Spanish": "Bendición de zorro",
+        "French": "Bénédiction du renard"
+    },
+    {
+        "key": "Rocket Tips",
+        "English": "Bella Rocket!!!",
+        "German": "Bella-Rakete",
+        "Spanish": "Misil de Bella",
+        "French": "Fusée Bella"
+    },
+    {
+        "key": "Streak Star Tips",
+        "English": "Smart!!!",
+        "German": "Clever",
+        "Spanish": "Inteligente",
+        "French": "Malin"
+    },
+    {
+        "key": "Free",
+        "English": "FREE",
+        "German": "KOSTENLOS",
+        "Spanish": "GRATIS",
+        "French": "GRATUIT"
+    },
+    {
+        "key": "YOUR",
+        "English": "YOUR",
+        "German": "DEIN",
+        "Spanish": "TU",
+        "French": "VOS"
+    },
+    {
+        "key": "Won: {0} Coins",
+        "English": "Win\n{0} Coins",
+        "German": "Gewinne\n{0} Münzen.",
+        "Spanish": "Gana\n{0} monedas",
+        "French": "Gagnez\n{0} pièces"
+    },
+    {
+        "key": "UI_WHEEL_FREE",
+        "English": "FREE",
+        "German": "FREE",
+        "Spanish": "gratis",
+        "French": "libre"
+    },
+    {
+        "key": "UI_WHEEL_COINS",
+        "English": "2500\nCoins",
+        "German": "2500\nCoins",
+        "Spanish": "2500\nCoins",
+        "French": "2500\nCoins"
+    },
+    {
+        "key": "previous_winner",
+        "English": "lastest winner",
+        "German": "Voriger Sieger",
+        "Spanish": "ganador anterior",
+        "French": "gagnant précédent"
+    },
+    {
+        "key": "Congratulate_this_winner",
+        "English": "Congratulate him",
+        "German": "Diesem Sieger gratulieren",
+        "Spanish": "Da la enhorabuena al ganador",
+        "French": "Féliciter ce gagnant"
+    },
+    {
+        "key": "store_best_value",
+        "English": "Best\nValue",
+        "German": "Bester\nWert",
+        "Spanish": "Mejor\nvalor",
+        "French": "Meilleur\nprix"
+    },
+    {
+        "key": "store_most_popular",
+        "English": "Most\nPopular",
+        "German": "Besonders\nbeliebt",
+        "Spanish": "Más\npopular",
+        "French": "Plus\npopulaire"
+    },
+    {
+        "key": "please_enter_code",
+        "English": "Please enter the code...",
+        "German": "Bitte Code eingeben...",
+        "Spanish": "Introduce el código...",
+        "French": "Veuillez saisir le code..."
+    },
+    {
+        "key": "{0} hours ago",
+        "English": "{0} hours ago",
+        "German": "Vor {0} Stunden",
+        "Spanish": "Hace {0} horas",
+        "French": "Il y a {0} heures"
+    },
+    {
+        "key": "{0} min ago",
+        "English": "{0} min ago",
+        "German": "Vor {0} Minute",
+        "Spanish": "Hace {0} minutos",
+        "French": "Il y a {0} minute"
+    },
+    {
+        "key": "Completed Sche",
+        "English": "Completed {0}/{1}"
+    },
+    {
+        "key": "btn_club",
+        "English": "CLAN"
+    },
+    {
+        "key": "Buy_More_Card_Clan",
+        "English": "{0:0%} OFF BY CLAN"
+    },
+    {
+        "key": "Seagull_Poker_Tips",
+        "English": "More Cards"
+    },
+    {
+        "key": "+N Cards",
+        "English": "+{0} CARD(S)"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "key": "label_level_num",
+        "English": "LEVEL {0}",
+        "German": "LEVEL {0}",
+        "Spanish": "NIVEL {0}",
+        "French": "NIVEAU {0}"
+    },
+    {
+        "key": "expert_label_level_num",
+        "English": "MASTER {0}"
+    },
+    {
+        "key": "label_select_boosters",
+        "English": "Add Boosters:",
+        "German": "Booster hinzufügen:",
+        "Spanish": "Añadir potenciadores:",
+        "French": "Ajouter des bonus :"
+    },
+    {
+        "key": "btn_play",
+        "English": "PLAY",
+        "German": "SPIELEN",
+        "Spanish": "JUGAR",
+        "French": "JOUER"
+    },
+    {
+        "key": "label_cost",
+        "English": "COST: ",
+        "German": "Kosten: ",
+        "Spanish": "costo: ",
+        "French": "Coût: "
+    }
+]

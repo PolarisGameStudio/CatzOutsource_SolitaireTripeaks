@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1b42bb8e16ca261bf2756e417981e9, type: 3}
+  m_Name: "StoreSaleConfig"
+  m_EditorClassIdentifier: 
+  saleConfigs:
+  - sceneName: "coins\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_local_sale_1_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 7500
+    - id: "yy_coin_local_sale_1_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 19500
+    - id: "yy_coin_local_sale_1_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 60000
+    Type: "StoreSaleCoins"
+    level: "yy_store_coin_1"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "coins\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_local_sale_2_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 15000
+    - id: "yy_coin_local_sale_2_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 48800
+    - id: "yy_coin_local_sale_2_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 120000
+    Type: "StoreSaleCoins"
+    level: "yy_store_coin_2"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "coins\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_local_sale_3_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 37500
+    - id: "yy_coin_local_sale_3_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 97500
+    - id: "yy_coin_local_sale_3_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 264000
+    Type: "StoreSaleCoins"
+    level: "yy_store_coin_3"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "coins\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_local_sale_4_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 75000
+    - id: "yy_coin_local_sale_4_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 214500
+    - id: "yy_coin_local_sale_4_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 400000
+    Type: "StoreSaleCoins"
+    level: "yy_store_coin_4"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "coins\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_local_sale_5_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 165000
+    - id: "yy_coin_local_sale_5_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 325000
+    - id: "yy_coin_local_sale_5_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 680000
+    Type: "StoreSaleCoins"
+    level: "yy_store_coin_5"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "coins\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_coin_local_sale_6_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 250000
+    - id: "yy_coin_local_sale_6_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 552500
+    - id: "yy_coin_local_sale_6_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1600000
+    Type: "StoreSaleCoins"
+    level: "yy_coin_local_sale_5_3"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "wilds\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_wild_local_sale_1_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+    - id: "yy_wild_local_sale_1_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+    - id: "yy_wild_local_sale_1_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 25000
+      - boosterType: 2
+        normalCount: 0
+        moreValue: 0
+        saleCount: 5
+    Type: "StoreSaleWild"
+    level: "yy_coin_local_sale_1_1"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0
+  - sceneName: "rockets\x2fSaleScene"
+    prefabName: 
+    purchasingPackages:
+    - id: "yy_rocket_local_sale_1_1"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 10000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 1
+    - id: "yy_rocket_local_sale_1_2"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 25000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 2
+    - id: "yy_rocket_local_sale_1_3"
+      commoditys:
+      - boosterType: 1
+        normalCount: 0
+        moreValue: 0
+        saleCount: 60000
+      - boosterType: 3
+        normalCount: 0
+        moreValue: 0
+        saleCount: 3
+    Type: "StoreSaleRocket"
+    level: "yy_store_coin_1"
+    minutes: 20
+    startMonth: 0
+    endMonth: 0

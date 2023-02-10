@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414e1b13b45b8110a9a973aa539a88f, type: 3}
+  m_Name: "ClubStoreConfig"
+  m_EditorClassIdentifier: 
+  configs:
+  - title: "Small Gift Chest"
+    icon: "club_gift"
+    id: "yy_clan_market_package_1"
+    commoditys:
+    - boosterType: 0
+      count: 2
+    - boosterType: 5
+      count: 1
+    - boosterType: 599
+      count: 1
+    receives:
+    - boosterType: 1
+      count: 2000
+  - title: "Medium Gift Chest"
+    icon: "club_gift"
+    id: "yy_clan_market_package_2"
+    commoditys:
+    - boosterType: 0
+      count: 4
+    - boosterType: 5
+      count: 2
+    - boosterType: 599
+      count: 2
+    receives:
+    - boosterType: 1
+      count: 4000
+  - title: "Large Gift Chest"
+    icon: "club_gift"
+    id: "yy_clan_market_package_3"
+    commoditys:
+    - boosterType: 2
+      count: 2
+    - boosterType: 5
+      count: 4
+    - boosterType: 599
+      count: 4
+    receives:
+    - boosterType: 1
+      count: 8000

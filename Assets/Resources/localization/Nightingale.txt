@@ -1,0 +1,74 @@
+[
+    {
+        "key": "RateDes",
+        "English": "We are working hard for a better user experience.\nWe\u2019d greatly appreciate if you can rate us."
+    },
+    {
+        "key": "Rate 1",
+        "English": "Hated it"
+    },
+    {
+        "key": "Rate 2",
+        "English": "Disliked it"
+    },
+    {
+        "key": "Rate 3",
+        "English": "It's ok"
+    },
+    {
+        "key": "Rate 4",
+        "English": "Liked it"
+    },
+    {
+        "key": "Rate 5",
+        "English": "Loved it"
+    },
+    {
+        "key": "RateBest",
+        "English": "The best we can get :)"
+    },
+    {
+        "key": "CloseButton",
+        "English": "CLOSE"
+    },
+    {
+        "key": "RateButton",
+        "English": "Rate"
+    },
+    {
+        "key": "Feedback",
+        "English": "Your feedback is useful."
+    },
+    {
+        "key": "CancelButton",
+        "English": "Cancel"
+    },
+    {
+        "key": "SumbitButton",
+        "English": "Submit"
+    },
+    {
+        "key": "FeedbackItem 1",
+        "English": "I don\u2019t like the design"
+    },
+    {
+        "key": "FeedbackItem 2",
+        "English": "Game features are not rich"
+    },
+    {
+        "key": "FeedbackItem 3",
+        "English": "Game control is not smooth"
+    },
+    {
+        "key": "FeedbackItem 4",
+        "English": "The game often crashes"
+    },
+    {
+        "key": "FeedbackItem 5",
+        "English": "The translation is poor"
+    },
+    {
+        "key": "BonusCoinsTitle",
+        "English": "Bonus: 5000 Coins"
+    }
+]

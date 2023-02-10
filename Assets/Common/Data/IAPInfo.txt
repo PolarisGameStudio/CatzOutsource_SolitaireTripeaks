@@ -1,0 +1,1 @@
+{"isTestIAP":false,"enableAndroid":true,"enableIos":true,"AndroidProductInfos":[],"IOSProductInfos":[]}

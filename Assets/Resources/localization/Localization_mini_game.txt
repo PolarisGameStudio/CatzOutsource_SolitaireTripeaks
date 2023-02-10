@@ -1,0 +1,9 @@
+[
+    {
+        "key": "Pick Cards for Treasure",
+        "English": "Choose any Cards for mega rewards, the game will end when you have selected a <color=#FF0000FF>Skull Card!</color>"
+    },{
+        "key": "Treasure_Title",
+        "English": "Game Rules"
+    }
+]

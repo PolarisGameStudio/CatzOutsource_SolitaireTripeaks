@@ -1,0 +1,7 @@
+{
+	"linkRequestAndroid":"http://track.giftsendmedia.com/mobile/get_offer_inapp/",
+	"linkRequestIos":"http://track.giftsendmedia.com/mobile/get_offer_inapp/",
+	"random":10,
+	"username":"puzzlemagicmania",
+	"idfa":"66F748E8-E3C7-4028-B376-667A375AB3CD"
+}

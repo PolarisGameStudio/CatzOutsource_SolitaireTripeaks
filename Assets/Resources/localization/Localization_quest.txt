@@ -1,0 +1,421 @@
+[
+    {
+        "key": "Daily Style",
+        "English": "DAILY QUEST",
+        "German": "TAGESMISSION",
+        "Spanish": "MISIÓN DIARIA",
+        "French": "QUÊTE QUOTIDIENNE"
+    },
+    {
+        "key": "Bouns Style",
+        "English": "BONUS QUEST",
+        "German": "BONUSMISSION",
+        "Spanish": "MISIÓN DE BONIFICACIÓN",
+        "French": "QUÊTE BONUS"
+    },
+    {
+        "key": "Event Style",
+        "English": "EVENT QUEST",
+        "German": "EVENTMISSION",
+        "Spanish": "MISIÓN DE EVENTO",
+        "French": "QUÊTE D'ÉVÉNEMENT"
+    },
+    {
+        "key": "btn_Collect",
+        "English": "COLLECT",
+        "German": "Einsammeln",
+        "Spanish": "Reunir",
+        "French": "Récupérer"
+    },
+    {
+        "key": "btn_Go",
+        "English": "DO IT",
+        "German": "TU ES",
+        "Spanish": "HAZLO",
+        "French": "JOUEZ"
+    },
+    {
+        "key": "btn_Continue",
+        "English": "CONTINUE",
+        "German": "FORTSETZEN",
+        "Spanish": "CONTINUAR",
+        "French": "CONTINUER"
+    },
+    {
+        "key": "Win_Count",
+        "English": "Win {0} games",
+        "German": "Gewinne {0} Spiele.",
+        "Spanish": "Gana {0} partidas",
+        "French": "Gagnez {0} parties"
+    },
+    {
+        "key": "Win_InChapter_Count",
+        "English": "Win {1} games at {0}",
+        "German": "Gewinne {1} Spiele in {0}.",
+        "Spanish": "Gana {1} partidas en {0}",
+        "French": "Gagnez {1} parties à {0}"
+    },
+    {
+        "key": "Win_Coins",
+        "English": "Win {0} coins",
+        "German": "Gewinne {0} Münzen.",
+        "Spanish": "Gana {0} monedas",
+        "French": "Gagnez {0} pièces"
+    },
+    {
+        "key": "Play_Game",
+        "English": "Play {0} games",
+        "German": "Spiele {0} Spiele.",
+        "Spanish": "Juega {0} partidas",
+        "French": "Faites {0} parties"
+    },
+    {
+        "key": "Collect_Shape_Card",
+        "English": "Collect {0} {1} Cards",
+        "German": "Sammle {0} {1}-Karten.",
+        "Spanish": "Reúne {0} {1} cartas",
+        "French": "Collectionnez {0} cartes {1}"
+    },
+    {
+        "key": "Hearts",
+        "English": "Heart",
+        "German": "Herz",
+        "Spanish": "Corazones",
+        "French": "Cœur"
+    },
+    {
+        "key": "Spades",
+        "English": "Spades",
+        "German": "Pik",
+        "Spanish": "Picas",
+        "French": "Pique"
+    },
+    {
+        "key": "Club",
+        "English": "Club",
+        "German": "Kreuz",
+        "Spanish": "Tréboles",
+        "French": "Trèfle"
+    },
+    {
+        "key": "Diamond",
+        "English": "Diamond",
+        "German": "Karo",
+        "Spanish": "Diamantes",
+        "French": "Carreau"
+    },
+    {
+        "key": "Collect_Number_Card",
+        "English": "Clear {0} {1} Cards",
+        "German": "Räume {0} {1}-Karten ab.",
+        "Spanish": "Despeja {0} {1} cartas",
+        "French": "Retirez {0} cartes {1}"
+    },
+    {
+        "key": "Collect_Color_Card",
+        "English": "Collect {0} {1} Cards",
+        "German": "Sammle {0} {1}-Karten.",
+        "Spanish": "Reúne {0} {1} cartas",
+        "French": "Collectionnez {0} cartes {1}"
+    },
+    {
+        "key": "A",
+        "English": "ACE",
+        "German": "ASS",
+        "Spanish": "AS",
+        "French": "As"
+    },
+    {
+        "key": "J",
+        "English": "Jack",
+        "German": "Bube",
+        "Spanish": "Jota",
+        "French": "Valet"
+    },
+    {
+        "key": "Q",
+        "English": "Queen",
+        "German": "Dame",
+        "Spanish": "Reina",
+        "French": "Reine"
+    },
+    {
+        "key": "K",
+        "English": "King",
+        "German": "König",
+        "Spanish": "Rey",
+        "French": "Roi"
+    },
+    {
+        "key": "Red Card",
+        "English": "Red",
+        "German": "Rot",
+        "Spanish": "Rojo",
+        "French": "Rouge"
+    },
+    {
+        "key": "Black Card",
+        "English": "Black",
+        "German": "Schwarz",
+        "Spanish": "Negro",
+        "French": "Noir"
+    },
+    {
+        "key": "ui_time_up",
+        "English": "TIME UP!",
+        "German": "ZEIT UM",
+        "Spanish": "TIEMPO",
+        "French": "TEMPS ÉCOULÉ"
+    },
+    {
+        "key": "ui_completed",
+        "English": "COMPLETED",
+        "German": "ABGESCHLOSSEN",
+        "Spanish": "COMPLETADO",
+        "French": "TERMINÉ"
+    },
+    {
+        "key": "rewards_coins",
+        "English": "Coins",
+        "German": "Münzen",
+        "Spanish": "Monedas",
+        "French": "Pièces"
+    },
+    {
+        "key": "rewards_freeplay",
+        "English": "Free Play",
+        "German": "Kostenlose Spiele",
+        "Spanish": "Juega gratis",
+        "French": "Jeu libre"
+    },
+    {
+        "key": "rewards_slots",
+        "English": "Free Slots Play",
+        "German": "Kostenlose Automatenspiele",
+        "Spanish": "Partida a tragaperras gratis",
+        "French": "Machines à sous libres"
+    },
+    {
+        "key": "rewards_wheel",
+        "English": "Free Wheel Play",
+        "German": "Kostenlose Rad-Spiele",
+        "Spanish": "Partida a ruleta gratis",
+        "French": "Roue de la chance libre"
+    },
+    {
+        "key": "rewards_torch",
+        "English": "Candle",
+        "German": "Fackel",
+        "Spanish": "Antorcha",
+        "French": "Torche"
+    },
+    {
+        "key": "rewards_bomb_defender",
+        "English": "Bomb Defender",
+        "German": "Bombenabwehr",
+        "Spanish": "Defensor de bomba",
+        "French": "Démineur"
+    },
+    {
+        "key": "rewards_streak_doubler",
+        "English": "Combo Doubler",
+        "German": "Komboverdoppler",
+        "Spanish": "Duplicador de combinación",
+        "French": "Combo doublé"
+    },
+    {
+        "key": "rewards_magic_eye",
+        "English": "Bella's Wish"
+    },
+    {
+        "key": "rewards_full_flip",
+        "English": "Full Flip"
+    },
+    {
+        "key": "rewards_trident",
+        "English": "Trident",
+        "German": "Dreizack",
+        "Spanish": "Tridente",
+        "French": "Trident"
+    },
+    {
+        "key": "rewards_up_down_defender",
+        "English": "NO Up&Down",
+        "German": "Kein Rauf/Runter",
+        "Spanish": "Sin arriba, abajo",
+        "French": "Ni haut ni bas"
+    },
+    {
+        "key": "rewards_wild",
+        "English": "Wild Card",
+        "German": "Joker",
+        "Spanish": "Comodín",
+        "French": "Carte Joker"
+    },
+    {
+        "key": "rewards_rocket",
+        "English": "Rocket Card",
+        "German": "Raketenkarte",
+        "Spanish": "Carta misil",
+        "French": "Carte Fusée"
+    },
+    {
+        "key": "random_Booster",
+        "English": "Shell"
+    },
+    {
+        "key": "no_quest_tomorrow",
+        "English": "Today's quest is over. Please come back tomorrow",
+        "German": "Die heutige Mission ist vorbei. Komm morgen wieder.",
+        "Spanish": "La misión de hoy ha terminado. Vuelve mañana.",
+        "French": "La quête du jour est terminée. Veuillez revenir demain"
+    },
+    {
+        "key": "Clear_Bomb_Count",
+        "English": "Clear {0} Bomb Cards",
+        "German": "Räume {0} Bombenkarten ab.",
+        "Spanish": "Despeja {0} cartas de bomba",
+        "French": "Retirez {0} cartes Bombes"
+    },
+    {
+        "key": "Up_Card",
+        "English": "Up",
+        "German": "Rauf",
+        "Spanish": "Arriba",
+        "French": "Haut"
+    },
+    {
+        "key": "Down_Card",
+        "English": "Down",
+        "German": "Runter",
+        "Spanish": "Abajo",
+        "French": "Bas"
+    },
+    {
+        "key": "Clear_Number_Up_Down_Count",
+        "English": "Clear {0} {1} Cards",
+        "German": "Räume {0} {1}-Karten ab.",
+        "Spanish": "Despeja {0} {1} cartas",
+        "French": "Retirez {0} cartes {1}"
+    },
+    {
+        "key": "Clear_Rope_Count",
+        "English": "Clear {0} Cobweb Cards",
+        "German": "Räume {0} Seil-Karten ab.",
+        "Spanish": "Despeja {0} cartas de cuerda",
+        "French": "Retirez {0} cartes Cordes"
+    },
+    {
+        "key": "Clear_Sanke_Count",
+        "English": "Clear {0} Snake Cards",
+        "German": "Räume {0} Schlangenkarten ab.",
+        "Spanish": "Despeja {0} cartas de sanke",
+        "French": "Retirez {0} cartes Serpents"
+    },
+    {
+        "key": "Get_New_Star_Count",
+        "English": "Get {0} new stars",
+        "German": "Erhalte {0} neue Sterne.",
+        "Spanish": "Consigue {0} estrellas nuevas",
+        "French": "Obtenez {0} nouvelles étoiles"
+    },
+    {
+        "key": "Get_Streak_Count",
+        "English": "Clear {0} cards in a row",
+        "German": "Räume {0} Karten hintereinander ab.",
+        "Spanish": "Despeja {0} cartas seguidas",
+        "French": "Retirez {0} cartes d'affilée"
+    },
+    {
+        "key": "Use_Rocket_Count",
+        "English": "Use {0} Rocket Cards",
+        "German": "Verwende {0} Raketenkarten.",
+        "Spanish": "Usa {0} cartas de misil",
+        "French": "Utilisez {0} cartes Fusées"
+    },
+    {
+        "key": "Use_Wild_Count",
+        "English": "Use {0} Wild Cards",
+        "German": "Verwende {0} Joker.",
+        "Spanish": "Usa {0} comodines",
+        "French": "Utilisez {0} jokers"
+    },
+    {
+        "key": "Win_Row_Count",
+        "English": "Win {0} games in a row",
+        "German": "Gewinne {0} Spiele hintereinander.",
+        "Spanish": "Gana {0} partidas seguidas",
+        "French": "Gagnez {0} parties d'affilée"
+    },
+    {
+        "key": "rewards_swallowed_defender",
+        "English": "Cheese Tactics",
+        "German": "Käsetaktik",
+        "Spanish": "Tácticas de queso",
+        "French": "Stratégie de fromage"
+    },
+    {
+        "key": "rewards_double_star",
+        "English": "Double Blue Star",
+        "German": "Doppelter blauer Stern",
+        "Spanish": "Estrella azul doble",
+        "French": "Double Étoile bleue"
+    },
+    {
+        "key": "ui_reward",
+        "English": "Reward",
+        "German": "Belohnung",
+        "Spanish": "Recompensa",
+        "French": "Récompense"
+    },
+    {
+        "key": "rewards_vine_defender",
+        "English": "Vine"
+    },
+    {
+        "key": "ui_win",
+        "English": "WIN",
+        "German": "Gewinne",
+        "Spanish": "Gana",
+        "French": "Gagnez"
+    },
+    {
+        "key": "ui_TodayOnlyFor",
+        "English": "TODAY ONLY",
+        "German": "Gewinne",
+        "Spanish": "Gana",
+        "French": "Gagnez"
+    },
+    {
+        "key": "rewards_batter_defender",
+        "English": "Magic Broom"
+    },
+    {
+        "key": "rewards_lock_defender",
+        "English": "Master Key"
+    },
+    {
+        "key": "DoubleBuyStep_Description",
+        "English": "+10 More Cards for same price"
+    },
+    {
+        "key": "DoubleTreause_Description",
+        "English": "WIN DOUBLE Treasure Rewards"
+    },
+    {
+        "key": "rewards_double_seagull",
+        "English": "Calling Albatross"
+    },
+    {
+        "key": "rewards_no_contagion",
+        "English": "Insecticide"
+    },
+    {
+        "key": "rewards_color_defender",
+        "English": "Magnet"
+    },
+    {
+        "key": "rewards_no_skeleton",
+        "English": "No Skull"
+    }
+]

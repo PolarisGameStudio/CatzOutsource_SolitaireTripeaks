@@ -1,0 +1,455 @@
+[
+    {
+        "key": "Christmas Day",
+        "English": "Christmas Day",
+        "German": "Weihnachten",
+        "Spanish": "Día de Navidad",
+        "French": "Noël"
+    },
+    {
+        "key": "Valentine's Day",
+        "English": "Valentine's Day",
+        "German": "Valentinstag",
+        "Spanish": "Día de san Valentín",
+        "French": "Saint-Valentin"
+    },
+    {
+        "key": "Bella",
+        "English": "Bella",
+        "German": "Bella",
+        "Spanish": "Bella",
+        "French": "Bella"
+    },
+    {
+        "key": "Traveller",
+        "English": "Novice",
+        "German": "Neuling",
+        "Spanish": "Novato",
+        "French": "Novice"
+    },
+    {
+        "key": "Wild Wild Wild",
+        "English": "Match Match",
+        "German": "Match-Match",
+        "Spanish": "Partida partida",
+        "French": "Match Match"
+    },
+    {
+        "key": "Winner",
+        "English": "Trainee",
+        "German": "Azubi",
+        "Spanish": "Aprendiz",
+        "French": "Apprenti"
+    },
+    {
+        "key": "Boost It!",
+        "English": "Boosters",
+        "German": "Booster",
+        "Spanish": "Potenciadores",
+        "French": "Bonus"
+    },
+    {
+        "key": "On a Quest",
+        "English": "Solitaire Fans",
+        "German": "Solitaire-Fans",
+        "Spanish": "Fans del solitario",
+        "French": "Fans de Solitaire"
+    },
+    {
+        "key": "Golden Bella",
+        "English": "Golden Bella",
+        "German": "Goldene Bella",
+        "Spanish": "Bella dorada",
+        "French": "Bella dorée"
+    },
+    {
+        "key": "Hopper",
+        "English": "Fascinated",
+        "German": "Fasziniert",
+        "Spanish": "Fascinado",
+        "French": "Fasciné"
+    },
+    {
+        "key": "Wild Wild Wild Wild",
+        "English": "Match Match Match!",
+        "German": "Match-Match-Match",
+        "Spanish": "Partida partida partida",
+        "French": "Match Match Match"
+    },
+    {
+        "key": "Mega Winner",
+        "English": "Big Winner",
+        "German": "Großer Sieger",
+        "Spanish": "Gran ganador",
+        "French": "Grand gagnant"
+    },
+    {
+        "key": "Boost Boost Boost",
+        "English": "Boost Boost!",
+        "German": "Boost-Boost",
+        "Spanish": "Potenciador potenciador",
+        "French": "Bonus Bonus"
+    },
+    {
+        "key": "Quest Master",
+        "English": "Do Everything",
+        "German": "Tu alles",
+        "Spanish": "Hazlo todo",
+        "French": "Tout faire"
+    },
+    {
+        "key": "Facebook Login",
+        "English": "Socialer",
+        "German": "Geselliger Typ",
+        "Spanish": "Social",
+        "French": "Socialiseur"
+    },
+    {
+        "key": "Invite Friends",
+        "English": "Inviter",
+        "German": "Einlader",
+        "Spanish": "Invitador",
+        "French": "Expert en invitation"
+    },
+    {
+        "key": "Help Friends",
+        "English": "Helper",
+        "German": "Helfer",
+        "Spanish": "Ayudante",
+        "French": "Âme charitable"
+    },
+    {
+        "key": "Ask for Help",
+        "English": "Help Me",
+        "German": "Hilf mir",
+        "Spanish": "Ayúdame",
+        "French": "Aidez-moi"
+    },
+    {
+        "key": "Facebook Master",
+        "English": "Social Master",
+        "German": "Social-Meister",
+        "Spanish": "Maestro social",
+        "French": "Maître social"
+    },
+    {
+        "key": "Invite the Town",
+        "English": "Invite the Earth",
+        "German": "Lade die Erde ein",
+        "Spanish": "Invita la tierra",
+        "French": "Invitez toute la Terre"
+    },
+    {
+        "key": "Helping Master",
+        "English": "Lei Feng"
+    },
+    {
+        "key": "Friendly",
+        "English": "Friendly",
+        "German": "Freundlich",
+        "Spanish": "Amistoso",
+        "French": "Amical"
+    },
+    {
+        "key": "Ask_Help",
+        "English": "Ask for help from Friends {0} times",
+        "German": "Bitte {0}-mal Freunde um Hilfe.",
+        "Spanish": "Pide ayuda a amigos {0} veces",
+        "French": "Demandez {0} fois de l'aide à des amis"
+    },
+    {
+        "key": "Collected_In_Chapter",
+        "English": "Collect all Stars in {0}",
+        "German": "Sammle alle Sterne in {0}.",
+        "Spanish": "Reúne todas las estrellas en {0}",
+        "French": "Récupérez toutes les étoiles dans {0}"
+    },
+    {
+        "key": "Compeleted_Chapter",
+        "English": "Complete all levels in {0}",
+        "German": "Schließe alle Levels in {0} ab.",
+        "Spanish": "Completa todos los niveles en {0}",
+        "French": "Terminez tous les niveaux dans {0}"
+    },
+    {
+        "key": "Compeleted_Level",
+        "English": "Complete level {1} in {0}",
+        "German": "Schließe Level {1} in {0} ab.",
+        "Spanish": "Completa el nivel {1} en {0}",
+        "French": "Terminez le niveau {1} dans {0}"
+    },
+    {
+        "key": "Help_Friend",
+        "English": "Help Friends {0} times",
+        "German": "Hilf {0}-mal Freunden.",
+        "Spanish": "Ayuda a amigos {0} veces",
+        "French": "Aidez {0} fois des amis"
+    },
+    {
+        "key": "Invite_Friend",
+        "English": "Invite {0} Friends",
+        "German": "Lade {0} Freunde ein.",
+        "Spanish": "Invita a {0} amigos",
+        "French": "Invitez {0} amis"
+    },
+    {
+        "key": "Login_Facebook",
+        "English": "Login Facebook",
+        "German": "Melde dich bei Facebook an.",
+        "Spanish": "Inicia sesión en Facebook",
+        "French": "Connexion à Facebook"
+    },
+    {
+        "key": "Play",
+        "English": "Play {0} games",
+        "German": "Spiele {0} Spiele.",
+        "Spanish": "Juega {0} partidas",
+        "French": "Faites {0} parties"
+    },
+    {
+        "key": "Quest",
+        "English": "Complete {0} Daily Quests",
+        "German": "Schließe {0} Tagesmissionen ab.",
+        "Spanish": "Completa {0} misiones diarias",
+        "French": "Terminez {0} quêtes quotidiennes"
+    },
+    {
+        "key": "RowDay",
+        "English": "Play {0} Days in a row",
+        "German": "Spiele an {0} Tagen hintereinander.",
+        "Spanish": "Juega {0} días seguidos",
+        "French": "Jouez {0} jours d'affilée"
+    },
+    {
+        "key": "Use_Booster",
+        "English": "Use {0} Boosters",
+        "German": "Verwende {0} Booster.",
+        "Spanish": "Usa {0} potenciadores",
+        "French": "Utilisez {0} Boosters"
+    },
+    {
+        "key": "Use_Wild",
+        "English": "Use {0} Wild Cards",
+        "German": "Verwende {0} Joker.",
+        "Spanish": "Usa {0} comodines",
+        "French": "Utilisez {0} jokers"
+    },
+    {
+        "key": "Win",
+        "English": "Win {0} games",
+        "German": "Gewinne {0} Spiele.",
+        "Spanish": "Gana {0} partidas",
+        "French": "Gagnez {0} parties"
+    },
+    {
+        "key": "Clear_Suit_Card",
+        "English": "Clear {0} {1} cards",
+        "German": "Räume {0} {1}-Karten ab.",
+        "Spanish": "Despeja {0} {1} cartas",
+        "French": "Retirez {0} cartes {1}"
+    },
+    {
+        "key": "Heart",
+        "English": "Heart",
+        "German": "Herz",
+        "Spanish": "Corazones",
+        "French": "Cœur"
+    },
+    {
+        "key": "Spade",
+        "English": "Spade",
+        "German": "Pik",
+        "Spanish": "Pica",
+        "French": "Pique"
+    },
+    {
+        "key": "Club",
+        "English": "Club",
+        "German": "Kreuz",
+        "Spanish": "Tréboles",
+        "French": "Trèfle"
+    },
+    {
+        "key": "Diamond",
+        "English": "Diamond",
+        "German": "Karo",
+        "Spanish": "Diamantes",
+        "French": "Carreau"
+    },
+    {
+        "key": "btn_reset",
+        "English": "RESET",
+        "German": "ZURÜCKSETZEN",
+        "Spanish": "REINICIAR",
+        "French": "RÉINITIALISER"
+    },
+    {
+        "key": "btn_select",
+        "English": "SET AVATAR",
+        "German": "AVATAR FESTLEGEN",
+        "Spanish": "ESTABLECER AVATAR",
+        "French": "DÉFINIR \nL'AVATAR"
+    },
+    {
+        "key": "ui_collected",
+        "English": "Yours:{0}/{1}",
+        "German": "Dein: {0}/{1}",
+        "Spanish": "Tuyo: {0}/{1}",
+        "French": "Vous : {0}/{1}"
+    },
+    {
+        "key": "Coming Soon",
+        "English": "Coming Soon!!!",
+        "German": "Bald verfügbar",
+        "Spanish": "Próximamente",
+        "French": "Bientôt disponible"
+    },
+    {
+        "key": "On Day",
+        "English": "On {0}",
+        "German": "Am {0}",
+        "Spanish": "En {0}",
+        "French": "Sur {0}"
+    },
+    {
+        "key": "Special",
+        "English": "EVENT",
+        "German": "EVENT",
+        "Spanish": "EVENTO",
+        "French": "ÉVÉNEMENT"
+    },
+    {
+        "key": "Journey",
+        "English": "BEGINNER"
+    },
+    {
+        "key": "Journey Master",
+        "English": "CONTINUE",
+        "German": "FORTSETZEN",
+        "Spanish": "CONTINUAR",
+        "French": "CONTINUER"
+    },
+    {
+        "key": "Social",
+        "English": "SOCIAL",
+        "German": "SOCIAL",
+        "Spanish": "SOCIAL",
+        "French": "SOCIAL"
+    },
+    {
+        "key": "Social Master",
+        "English": "SOCIAL MASTER",
+        "German": "Social-Meister",
+        "Spanish": "Maestro social",
+        "French": "Maître social"
+    },
+    {
+        "key": "Explore In world",
+        "English": "{0} BEGINNER",
+        "German": "{0}-NEULING",
+        "Spanish": "{0} PRINCIPIANTE",
+        "French": "NOVICE {0}"
+    },
+    {
+        "key": "Master In world",
+        "English": "{0} MASTER",
+        "German": "{0}-MEISTER",
+        "Spanish": "{0} MAESTRO",
+        "French": "MAÎTRE {0}"
+    },
+    {
+        "key": "Portrait collection",
+        "English": "AVATAR COLLECTED",
+        "German": "AVATAR EINGESAMMELT",
+        "Spanish": "AVATAR CONSEGUIDO",
+        "French": "AVATAR OBTENU"
+    },
+    {
+        "key": "ui_unlock",
+        "English": "UNLOCKED!",
+        "German": "FREIGESCHALTET",
+        "Spanish": "DESBLOQUEADO",
+        "French": "DÉBLOQUÉ"
+    },
+    {
+        "key": "btn_next",
+        "English": "NEXT",
+        "German": "WEITER",
+        "Spanish": "SIGUIENTE",
+        "French": "SUIVANT"
+    },
+    {
+        "key": "btn_ok",
+        "English": "OK",
+        "German": "OK",
+        "Spanish": "ACEPTAR",
+        "French": "OK"
+    },
+    {
+        "key": "Join_Bella",
+        "English": "Welcome to Bella Island",
+        "German": "Willkommen auf Bella Island",
+        "Spanish": "Bienvenido a la isla Bella",
+        "French": "Bienvenue sur l'île de Bella"
+    },
+    {
+        "key": "Island_completed",
+        "English": "Complete {0}",
+        "German": "Schließe {0} ab.",
+        "Spanish": "Completa {0}",
+        "French": "Terminez {0}"
+    },
+    {
+        "key": "Island_completed_master",
+        "English": "{0} Owner",
+        "German": "{0} Besitzer",
+        "Spanish": "{0} dueño",
+        "French": "Propriétaire de {0}"
+    },
+    {
+        "key": "Use_10_Rocket_Title",
+        "English": "Big Blast",
+        "German": "Große Explosion",
+        "Spanish": "Big Blast",
+        "French": "Big Blast"
+    },
+    {
+        "key": "Use_Rocket",
+        "English": "Use {0} Rocket",
+        "German": "Benutze {0} Rakete",
+        "Spanish": "Use {0} cohete",
+        "French": "Utiliser {0} Rocket"
+    },
+    {
+        "key": "Use_25_Snake_Title",
+        "English": "Snake Hunter",
+        "German": "Schlangenjäger",
+        "Spanish": "cazadores de serpientes",
+        "French": "Chasseur de serpents"
+    },
+    {
+        "key": "Use_Snake",
+        "English": "Use {0} Trident",
+        "German": "Verwenden Sie {0} Trident",
+        "Spanish": "Usa {0} tridente",
+        "French": "Utiliser {0} Trident"
+    },
+    {
+        "key": "Row_10_Day_Title",
+        "English": "Be a fans",
+        "German": "Sei ein Fan",
+        "Spanish": "Sé un fanático",
+        "French": "Soyez fans"
+    },
+    {
+        "key": "Row_10_Day",
+        "English": "Play {0} days in a row.",
+        "German": "Spiele {0} Tage hintereinander.",
+        "Spanish": "Juega {0} días seguidos.",
+        "French": "Jouez {0} jours d'affilée."
+    },
+    {
+        "key": "Master",
+        "English": "Master Level"
+    }
+]

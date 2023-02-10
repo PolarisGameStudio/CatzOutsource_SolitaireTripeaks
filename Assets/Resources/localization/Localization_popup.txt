@@ -1,0 +1,694 @@
+[
+    {
+        "key": "title_out_of_coins",
+        "English": "GET MORE COINS",
+        "German": "ERHALTE MEHR MÜNZEN",
+        "Spanish": "OBTENER MÁS MONEDAS",
+        "French": "OBTENIR PLUS DE PIÈCES"
+    },
+    {
+        "key": "title_got",
+        "English": "YOU GOT",
+        "German": "DU HAST",
+        "Spanish": "HAS OBTENIDO",
+        "French": "VOUS AVEZ OBTENU"
+    },
+    {
+        "key": "title_purchas_success",
+        "English": "THANK YOU",
+        "German": "DANKE",
+        "Spanish": "GRACIAS",
+        "French": "MERCI"
+    },
+    {
+        "key": "you_received",
+        "English": "You received:",
+        "German": "Du hast erhalten:",
+        "Spanish": "Has recibido:",
+        "French": "Vous avez reçu :"
+    },
+    {
+        "key": "desc_out_of_coins",
+        "English": "You need more coins. Please come to store for more.",
+        "German": "Du brauchst mehr Münzen. Du bekommst sie im Laden.",
+        "Spanish": "Necesitas más monedas. Ve a la tienda para más.",
+        "French": "Il vous faut plus de pièces. Veuillez aller à la boutique pour en obtenir plus."
+    },
+    {
+        "key": "btn_ok",
+        "English": "OK",
+        "German": "OK",
+        "Spanish": "ACEPTAR",
+        "French": "OK"
+    },
+    {
+        "key": "WildEvent_Buy_Description",
+        "English": "You successfully opened a new Event Quest!"
+    },
+    {
+        "key": "btn_collect",
+        "English": "COLLECT",
+        "German": "Einsammeln",
+        "Spanish": "Reunir",
+        "French": "Récupérer"
+    },
+    {
+        "key": "btn_go",
+        "English": "GO",
+        "German": "LOS",
+        "Spanish": "IR",
+        "French": "ALLER"
+    },
+    {
+        "key": "btn_join_market",
+        "English": "UPDATE",
+        "German": "AKTUALISIEREN",
+        "Spanish": "ACTUALIZAR",
+        "French": "MISE À JOUR"
+    },
+    {
+        "key": "UnLock Chapter Tips Title",
+        "English": "LOCKED",
+        "German": "GESPERRT",
+        "Spanish": "BLOQUEADO",
+        "French": "VERROUILLÉ"
+    },
+    {
+        "key": "UnLock Chapter Tips Description",
+        "English": "Complete {0} to unlock {1}",
+        "German": "Schließe {0} ab, um {1} freizuschalten.",
+        "Spanish": "Completa el {0} para desbloquear {1}",
+        "French": "Terminez le {0} pour débloquer {1}"
+    },
+    {
+        "key": "Download Chapter Tips Title",
+        "English": "Downloading...",
+        "German": "Wird heruntergeladen ...",
+        "Spanish": "Descargando...",
+        "French": "Téléchargement..."
+    },
+    {
+        "key": "Download Chapter Tips Description",
+        "English": "This may take a few minutes.",
+        "German": "Dies kann einige Minuten dauern.",
+        "Spanish": "Esto puede tardar unos minutos.",
+        "French": "Cela pourrait prendre quelques minutes."
+    },
+    {
+        "key": "Version_TooLow_Title",
+        "English": "Update",
+        "German": "AKTUALISIEREN",
+        "Spanish": "ACTUALIZAR",
+        "French": "MISE À JOUR"
+    },
+    {
+        "key": "Version_TooLow_description",
+        "English": "The version is too low, you need to update the game",
+        "German": "Die Version ist veraltet. Aktualisiere das Spiel.",
+        "Spanish": "Esta versión es muy inferior, tienes que actualizar el juego",
+        "French": "Cette version est obsolète, veuillez effectuer la mise à jour du jeu"
+    },
+    {
+        "key": "Quit_Title",
+        "English": "QUIT THE LEVEL?",
+        "German": "LEVEL VERLASSEN?",
+        "Spanish": "¿SALIR DEL NIVEL?",
+        "French": "QUITTER CE NIVEAU ?"
+    },
+    {
+        "key": "Quit_description",
+        "English": "Are you sure you want to quit the level?",
+        "German": "Level wirklich verlassen?",
+        "Spanish": "¿Seguro que quieres salir del nivel?",
+        "French": "Voulez-vous vraiment quitter ce niveau ?"
+    },
+    {
+        "key": "btn_yes",
+        "English": "YES",
+        "German": "JA",
+        "Spanish": "SÍ",
+        "French": "OUI"
+    },
+    {
+        "key": "Invite_Friends_Title",
+        "English": "WELL DONE",
+        "German": "GUT GEMACHT",
+        "Spanish": "BIEN HECHO",
+        "French": "BIEN JOUÉ"
+    },
+    {
+        "key": "Invite_Friends_description",
+        "English": "Invitation(s) have been sent successfully!",
+        "German": "Einladung(en) erfolgreich versendet",
+        "Spanish": "Se han enviado las invitaciones correctamente",
+        "French": "Invitation(s) envoyée(s)"
+    },
+    {
+        "key": "Ask_for_help_Title",
+        "English": "HELP ME",
+        "German": "Hilf mir",
+        "Spanish": "Ayúdame",
+        "French": "Aidez-moi"
+    },
+    {
+        "key": "Ask_for_help_description",
+        "English": "Your request(s) have been sent successfully!",
+        "German": "Anfrage(n) erfolgreich versendet",
+        "Spanish": "Se han enviado las solicitudes correctamente",
+        "French": "Requête(s) envoyée(s)"
+    },
+    {
+        "key": "NoSelectFriends_Title",
+        "English": "Select Friends",
+        "German": "Freunde auswählen",
+        "Spanish": "Seleccionar amigos",
+        "French": "Choisissez des amis"
+    },
+    {
+        "key": "NoSelectFriends_description",
+        "English": "Please select at least one friend.",
+        "German": "Bitte wähle mindestens einen Freund aus.",
+        "Spanish": "Selecciona al menos un amigo.",
+        "French": "Veuillez choisir au moins un(e) ami(e)."
+    },
+    {
+        "key": "Btn_Cancel",
+        "English": "CANCEL",
+        "German": "ABBRECHEN",
+        "Spanish": "CANCELAR",
+        "French": "ANNULER"
+    },
+    {
+        "key": "Btn_LOGOUT",
+        "English": "LOGOUT",
+        "German": "ABMELDEN",
+        "Spanish": "CERRAR SESIÓN",
+        "French": "DÉCONNEXION"
+    },
+    {
+        "key": "Not_Reachable_Title",
+        "English": "LOGIN ERROR!",
+        "German": "ANMELDEFEHLER.",
+        "Spanish": "ERROR AL INICIAR SESIÓN",
+        "French": "ERREUR DE CONNEXION"
+    },
+    {
+        "key": "Not_Reachable_description",
+        "English": "There seems to be a problem with the internet connection.",
+        "German": "Es besteht offenbar ein Problem mit der Internetverbindung.",
+        "Spanish": "Parece que hay un problema con la conexión a Internet.",
+        "French": "Apparemment, vous avez un problème de connexion Internet."
+    },
+    {
+        "key": "btn_retry",
+        "English": "RETRY",
+        "German": "NOCH MAL",
+        "Spanish": "REINTENTAR",
+        "French": "RÉESSAYER"
+    },
+    {
+        "key": "New_Version_Title",
+        "English": "NEW VERSION",
+        "German": "NEUE VERSION",
+        "Spanish": "NUEVA VERSIÓN",
+        "French": "NOUVELLE VERSION"
+    },
+    {
+        "key": "New_Version_description",
+        "English": "Tap UPDATE to download the new version",
+        "German": "Tippe auf AKTUALISIEREN, um die neue Version herunterzuladen.",
+        "Spanish": "Toca ACTUALIZAR para descargar la nueva versión",
+        "French": "Touchez MISE À JOUR pour télécharger la dernière version du jeu"
+    },
+    {
+        "key": "loading_time_too_long_Title",
+        "English": "PLEASE WAIT...",
+        "German": "BITTE WARTEN ...",
+        "Spanish": "ESPERA...",
+        "French": "VEUILLEZ PATIENTER..."
+    },
+    {
+        "key": "loading_time_too_long_Desc",
+        "English": "Loading settings...\n\nIf this takes a long time, try checking your network connection.",
+        "German": "Einstellungen werden geladen ...  Wenn der Vorgang übermäßig lange dauert, überprüfe deine Netzwerkverbindung.",
+        "Spanish": "Cargando ajustes... si esto tarda mucho, comprueba tu conexión de red.",
+        "French": "Chargement des paramètres...  Si cela prend du temps, veuillez vérifier votre connexion Internet."
+    },
+    {
+        "key": "loading_progress_Title",
+        "English": "LOADING PROGRESS",
+        "German": "FORTSCHRITTE WERDEN GELADEN ...",
+        "Spanish": "CARGANDO PROGRESO",
+        "French": "CHARGEMENT DE LA PROGRESSION"
+    },
+    {
+        "key": "loading_progress_Desc",
+        "English": "In order to load this game progress, game will restart.",
+        "German": "Das Spiel wird neu gestartet, damit die Spielfortschritte geladen werden können.",
+        "Spanish": "Se va a reiniciar el juego para cargar el progreso.",
+        "French": "Pour charger la progression, le jeu va redémarrer."
+    },
+    {
+        "key": "Logout_Facebook_restart_Title",
+        "English": "LOGGING OUT",
+        "German": "ABMELDEN ...",
+        "Spanish": "CERRANDO SESIÓN",
+        "French": "DÉCONNEXION"
+    },
+    {
+        "key": "Logout_Facebook_restart_DESC",
+        "English": "The game will restart after logging out.",
+        "German": "Das Spiel wird nach dem Abmelden neu gestartet.",
+        "Spanish": "El juego se reiniciará tras cerrar sesión.",
+        "French": "Le jeu va redémarrer après la déconnexion."
+    },
+    {
+        "key": "Logout_Facebook_restart_btn",
+        "English": "CONTINUE",
+        "German": "FORTSETZEN",
+        "Spanish": "CONTINUAR",
+        "French": "CONTINUER"
+    },
+    {
+        "key": "Logout_Facebook_Title",
+        "English": "LOGOUT?",
+        "German": "ABMELDEN?",
+        "Spanish": "¿CERRAR SESIÓN?",
+        "French": "DÉCONNEXION ?"
+    },
+    {
+        "key": "Logout_Facebook_description",
+        "English": "Your current game progress is tied to your Facebook Account.Log in with the same Facebook Account on any device to get current game progress.",
+        "German": "Der aktuelle Spielfortschritt ist mit deinem Facebook-Konto verknüpft. Melde dich auf einem beliebigen Gerät mit dem entsprechenden Facebook-Konto an, um den aktuellen Spielfortschritt abzurufen.",
+        "Spanish": "Tu progreso actual está vinculado a tu cuenta de Facebook. Inicia sesión con tu cuenta de Facebook en cualquier dispositivo para obtener tu progreso actual.",
+        "French": "Votre progression actuelle est associée à votre compte Facebook. Connectez-vous sur n'importe quel appareil avec votre compte Facebook pour continuer votre partie."
+    },
+    {
+        "key": "watch_ad_title",
+        "English": "BONUS COINS",
+        "German": "BONUSMÜNZEN",
+        "Spanish": "MONEDAS DE BONIFICACIÓN",
+        "French": "PIÈCES BONUS"
+    },
+    {
+        "key": "watch_ad_desc",
+        "English": "Get 1000 coins each time by watching video!",
+        "German": "Erhalte 1.000 Münzen, wenn du ein Video ansiehst.",
+        "Spanish": "Consigue 1000 monedas cada vez que veas un vídeo",
+        "French": "Obtenez 1000 pièces à chaque vidéo regardée"
+    },
+    {
+        "key": "Error_Title",
+        "English": "ERROR",
+        "German": "FEHLER",
+        "Spanish": "ERROR",
+        "French": "ERREUR"
+    },
+    {
+        "key": "Facebook_Login_Failed_description",
+        "English": "Facebook Login Failed",
+        "German": "Fehler bei Facebook-Anmeldung.",
+        "Spanish": "Error al iniciar sesión en Facebook",
+        "French": "Échec de connexion à Facebook"
+    },
+    {
+        "key": "ComingSoon_title",
+        "English": "Coming Soon",
+        "German": "Bald verfügbar",
+        "Spanish": "Próximamente",
+        "French": "Bientôt disponible"
+    },
+    {
+        "key": "ComingSoon_desc",
+        "English": "Coming Soon",
+        "German": "Bald verfügbar",
+        "Spanish": "Próximamente",
+        "French": "Bientôt disponible"
+    },
+    {
+        "key": "SynchronizeError",
+        "English": "Synchronize data failed, please check your network!",
+        "German": "Fehler bei Datensynchronisierung. Überprüfe deine Netzwerkverbindung.",
+        "Spanish": "Error al sincronizar los datos, comprueba tu red",
+        "French": "Échec de synchronisation des données, veuillez vérifier votre réseau"
+    },
+    {
+        "key": "watch_ad_completed_title",
+        "English": "THANKS",
+        "German": "DANKE",
+        "Spanish": "GRACIAS",
+        "French": "MERCI"
+    },
+    {
+        "key": "watch_ad_completed_desc",
+        "English": "Thank you for viewing! You got {0} coins.",
+        "German": "Danke fürs Ansehen. Du hast {0} Münzen erhalten.",
+        "Spanish": "Gracias por verlo Has recibido {0} monedas",
+        "French": "Merci d'avoir regardé. Vous avez reçu {0} pièces."
+    },
+    {
+        "key": "DeviceTimeError_Title",
+        "English": "TIME ERROR!",
+        "German": "ZEITFEHLER",
+        "Spanish": "ERROR DE TIEMPO",
+        "French": "ERREUR DE TEMPS"
+    },
+    {
+        "key": "DeviceTimeError_Desc",
+        "English": "Network connection failed, please check your network!",
+        "German": "Netzwerkverbindungsfehler. Überprüfe deine Netzwerkverbindung.",
+        "Spanish": "Error de conexión de red, comprueba tu red",
+        "French": "Échec de connexion au réseau, veuillez vérifier votre réseau"
+    },
+    {
+        "key": "data_downloading_title",
+        "English": "DOWNLOADING...",
+        "German": "Wird heruntergeladen ...",
+        "Spanish": "Descargando...",
+        "French": "Téléchargement..."
+    },
+    {
+        "key": "data_downloading_desc",
+        "English": "Data is downloading, wait a moment please!",
+        "German": "Die Daten werden heruntergeladen. Bitte warte einen Moment.",
+        "Spanish": "Se están descargando los datos, espera un momento",
+        "French": "Téléchargement des données, veuillez patienter"
+    },
+    {
+        "key": "watch_ad_wating_title",
+        "English": "Sorry",
+        "German": "Huch!",
+        "Spanish": "Lo sentimos",
+        "French": "Désolé"
+    },
+    {
+        "key": "watch_ad_wating_desc",
+        "English": "Ads are unavailable at the moment.Please try again later.",
+        "German": "Derzeit ist keine Werbung verfügbar. Versuch es später noch einmal.",
+        "Spanish": "No hay anuncios disponibles en este momento. Vuelve a intentarlo más tarde.",
+        "French": "Publicités actuellement indisponibles. Veuillez réessayer plus tard."
+    },
+    {
+        "key": "Synchronizeing",
+        "English": "Synchronous data, please do not close the game!",
+        "German": "Die Daten sind synchron. Schließe das Spiel nicht.",
+        "Spanish": "Sincronizando datos, no cierres el juego",
+        "French": "Synchronisation des données, ne quittez pas le jeu"
+    },
+    {
+        "key": "rate_for_reward_popup_title",
+        "English": "ENJOY THIS GAME?",
+        "German": "MACHT DIR DAS SPIEL SPASS?",
+        "Spanish": "¿TE GUSTA ESTE JUEGO?",
+        "French": "VOUS AIMEZ CE JEU ?"
+    },
+    {
+        "key": "rate_for_reward_popup_desc",
+        "English": "We are working hard for a better user experience.\nWe’d greatly appreciate if you can rate us.",
+        "German": "Wir arbeiten hart daran, das Spiel zu verbessern. Wenn du uns eine Bewertung gibst, freuen wir uns sehr.",
+        "Spanish": "Trabajamos duro para conseguir una mejor experiencia de usuario. Te agradeceríamos que nos puntuaras.",
+        "French": "Nous travaillons dur pour améliorer l'expérience des utilisateurs. Nous aimerions beaucoup recevoir une évaluation de votre part."
+    },
+    {
+        "key": "rate_for_reward_popup_once",
+        "English": "ONLY ONCE",
+        "German": "NUR EINMAL",
+        "Spanish": "SOLO UNA VEZ",
+        "French": "UNE FOIS UNIQUEMENT"
+    },
+    {
+        "key": "change_nick_name_popup_title",
+        "English": "NAME",
+        "German": "NAME",
+        "Spanish": "NOMBRE",
+        "French": "NOM"
+    },
+    {
+        "key": "change_nick_name_popup_desc",
+        "English": "Spend 1000 coins to change the name?",
+        "German": "'Münzen ausgeben, um den Namen zu ändern?'",
+        "Spanish": "¿Gastar monedas para cambiar el nombre?",
+        "French": "Dépenser des pièces pour changer de nom ?"
+    },
+    {
+        "key": "FullFriends_Title",
+        "English": "Limit Reached",
+        "German": "Limit erreicht",
+        "Spanish": "Límite alcanzado",
+        "French": "Limite atteinte"
+    },
+    {
+        "key": "ErrorDialogTitle",
+        "English": "SUBMIT ERROR",
+        "German": "FEHLER SENDEN",
+        "Spanish": "ENVIAR ERROR",
+        "French": "ENVOYER L'ERREUR"
+    },
+    {
+        "key": "ErrorDialogMessage",
+        "English": "Some unknown error occurred,in order to help us to optimize the game,counld you send there errors to us. Thanks.",
+        "German": "Es ist ein unbekannter Fehler aufgetreten. Bitte sende uns den Fehler, damit wir das Spiel verbessern können. Danke.",
+        "Spanish": "Ha ocurrido un error desconocido. Mándanos el error para ayudarnos a optimizar el juego. Gratis.",
+        "French": "Une erreur de type inconnu est survenue. Pour nous aider à optimiser le jeu, vous pouvez nous signaler ces erreurs. Merci."
+    },
+    {
+        "key": "btn_Send",
+        "English": "SEND",
+        "German": "SENDEN",
+        "Spanish": "ENVIAR",
+        "French": "ENVOYER"
+    },
+    {
+        "key": "EventQuest_DialogTitle",
+        "English": "HAVE NEW FUN",
+        "German": "NEUER SPASS",
+        "Spanish": "DIVIÉRTETE",
+        "French": "AMUSEZ-VOUS BIEN"
+    },
+    {
+        "key": "EventQuest_DialogMessage",
+        "English": "The new Event Quest is on. Complete it to win big bonus.",
+        "German": "Die neue Event-Mission ist verfügbar! Schließe sie ab, um einen großen Bonus zu erhalten.",
+        "Spanish": "La nueva misión de evento está disponible. Complétala para ganar una gran bonificación.",
+        "French": "La nouvelle Quête d'événement est disponible. Terminez-la pour obtenir un bonus exceptionnel."
+    },
+    {
+        "key": "watch_ad_completed_wild_title",
+        "English": "Thank You",
+        "German": "DANKE",
+        "Spanish": "GRACIAS",
+        "French": "MERCI"
+    },
+    {
+        "key": "watch_ad_completed_wild_desc",
+        "English": "Thank you for viewing! You received 1 Wild.",
+        "German": "Danke fürs Ansehen. Du hast 1 Joker erhalten.",
+        "Spanish": "Gracias por verlo Has recibido 1 comodín.",
+        "French": "Merci d'avoir regardé. Vous avez reçu 1 Joker."
+    },
+    {
+        "key": "btn_WATCH",
+        "English": "WATCH",
+        "German": "ZUSEHEN",
+        "Spanish": "VER",
+        "French": "REGARDER"
+    },
+    {
+        "key": "OUT_COINS_WatchVideoReward_Title",
+        "English": "NEED MORE COINS?",
+        "German": "BRAUCHST DU MEHR MÜNZEN?",
+        "Spanish": "¿NECESITAS MÁS MONEDAS?",
+        "French": "IL VOUS FAUT PLUS DE PIÈCES ?"
+    },
+    {
+        "key": "OUT_COINS_WatchVideoReward_description",
+        "English": "Get 1000 coins by viewing this short video.",
+        "German": "Erhalte 1.000 Münzen, indem du dieses kurze Video ansiehst.",
+        "Spanish": "Ve este breve vídeo para conseguir 1000 monedas.",
+        "French": "Regardez cette courte vidéo pour obtenir 1000 pièces."
+    },
+    {
+        "key": "btn_leaderBoard_lets_go",
+        "English": "LET'S GO",
+        "German": "LOS GEHT'S",
+        "Spanish": "VAMOS",
+        "French": "ALLONS-Y"
+    },
+    {
+        "key": "btn_buyDouble",
+        "English": "BOOST",
+        "German": "BOOST",
+        "Spanish": "POTENCIADOR",
+        "French": "BONUS"
+    },
+    {
+        "key": "buyDouble_Title",
+        "English": "BLUE STAR x2",
+        "German": "BLAUER STERN x2",
+        "Spanish": "ESTRELLA AZUL x2",
+        "French": "ÉTOILE BLEUE x2"
+    },
+    {
+        "key": "buyDouble_Description",
+        "English": "Speed up the rankings!\n\nEarn 2x Blue Stars for 3 Hours.",
+        "German": "Schnellere Promo-Ränge  Verdiene 2 Blaue Sterne für 3 Stunden.",
+        "Spanish": "Ascenso en la clasificación más rápido Gana 2 estrellas azules durante 3 horas.",
+        "French": "Progression accélérée au classement. Gagnez 2x Étoiles bleues toutes les 3 heures."
+    },
+    {
+        "key": "FullFriends_description",
+        "English": "You can only invite 5 friends per day",
+        "German": "Du kannst max. 5 Freunde täglich einladen.",
+        "Spanish": "Solo puedes invitar a 5 amigos al día.",
+        "French": "Vous ne pouvez inviter que 5 amis par jour."
+    },
+    {
+        "key": "Leaderboard_top_1",
+        "English": "TOP {0}:  "
+    },
+    {
+        "key": "Leaderboard_top_2",
+        "English": "TOP {0} TO {1}:  "
+    },
+    {
+        "key": "RequestPermissionTitle",
+        "English": "Permission Request"
+    },
+    {
+        "key": "RequestPermissionMessage",
+        "English": "Before the game, need to open the storage permissions, phone permissions to ensure that the game functions properly"
+    },
+    {
+        "key": "btn_Open",
+        "English": "OPEN",
+        "German": "Öffnen",
+        "Spanish": "Abrir",
+        "French": "Ouvert"
+    },
+    {
+        "key": "RequestPermissionOpenSettingsTitle",
+        "English": "Permission Request"
+    },
+    {
+        "key": "RequestPermissionOpenSettingsMessage",
+        "English": "Games need to use the phone permissions to ensure normal use of the game part of the function.\nPlease open the phone permissions in the settings."
+    }
+
+    ,
+    {
+        "key": "UnLock_World_Tips_Title",
+        "English": "{0} LOCKED"
+    },
+    {
+        "key": "UnLock_World_Tips_Description",
+        "English": "Complete {0} to unlock {1}"
+    },
+    {
+        "key": "TripeaksBonus_ErrorCode_Title",
+        "English": "Oops",
+        "German": "Huch",
+        "Spanish": "Ups",
+        "French": "Oups"
+    },
+    {
+        "key": "TripeaksBonus_ErrorCode_Des",
+        "English": "The code has been used or it is error!",
+        "German": "Der Code ist nicht korrekt, oder er wurde bereits verwendet.",
+        "Spanish": "¡El código ya se ha usado o es erróneo!",
+        "French": "Le code a été utilisé ou comporte une erreur !"
+    },
+    {
+        "key": "Spin_Double_Title",
+        "English": "DOUBLE REWARDS",
+        "German": "DOUBLE REWARDS",
+        "Spanish": "DOUBLE REWARDS",
+        "French": "DOUBLE REWARDS"
+    },
+    {
+        "key": "Spin_Double_description",
+        "English": "Watch a brief video, get Double Rewards!",
+        "German": "Sieh dir ein kurzes Video an, erhalte doppelte Belohnungen.",
+        "Spanish": "Vea un video breve, obtenga recompensas dobles.",
+        "French": "Regarder une courte vidéo, obtenez des récompenses doubles!"
+    },
+    {
+        "key": "Cheat_title",
+        "English": "Features Limited",
+        "German": "Features Limited",
+        "Spanish": "Features Limited",
+        "French": "Features Limited"
+    },
+    {
+        "key": "Cheat_desc",
+        "English": "Your behavior in the game is very suspicious,\nsome game features will not be available,\nif you think we are misjudged,\nplease contact customer service.",
+        "German": "Your behavior in the game is very suspicious,\nsome game features will not be available,\nif you think we are misjudged,\nplease contact customer service.",
+        "Spanish": "Your behavior in the game is very suspicious,\nsome game features will not be available,\nif you think we are misjudged,\nplease contact customer service.",
+        "French": "Your behavior in the game is very suspicious,\nsome game features will not be available,\nif you think we are misjudged,\nplease contact customer service."
+    },
+    {
+        "key": "btn_Cheat_ok",
+        "English": "Appeal",
+        "German": "Appeal",
+        "Spanish": "Appeal",
+        "French": "Appeal"
+    },
+    {
+        "key": "treasure_chest_desc",
+        "English": "You've got a Mystery Chest!\nFind the Key!"
+    },
+    {
+        "key": "treasure_key_desc",
+        "English": "You got the Key!\nLet's open the Chest now!"
+    },
+    {
+        "key": "KeyInvalid_Title",
+        "English": "Oops",
+        "German": "Huch",
+        "Spanish": "Ups",
+        "French": "Oups"
+    },
+    {
+        "key": "KeyInvalid_Description",
+        "English": "Ohhh, the Key has flown!\nKeep an eye out! Another Key is coming soon!"
+    },
+    {
+        "key": "ClubStore_Buy_Title",
+        "English": "THANK YOU"
+    },
+    {
+        "key": "ClubStore_Buy_Description",
+        "English": "The purchase was successful and the gift was sent."
+    },
+    {
+        "key": "Facebook_Rewards_Limit_Title",
+        "English": "LIMITED"
+    },
+    {
+        "key": "Facebook_Rewards_Limit_description",
+        "English": "You can only receive 25 gifts per day."
+    },
+    {
+        "key": "LeaderBoard_Speed_Title",
+        "English": "THANK YOU"
+    },
+    {
+        "key": "LeaderBoard_Speed_Description",
+        "English": "Congratulations, the high score list accelerated the purchase of the package. Start upgrading now!"
+    },
+    {
+        "key": "_PlayExpertTitle",
+        "English": "Master Levels"
+    },
+    {
+        "key": "_PlayExpertDescription",
+        "English": "You have completed all the islands! The next island is coming soon, and before that, you can try the Master Levels."
+    },
+    {
+        "key": "Upload_Completed_Title",
+        "English": "Tips"
+    },
+    {
+        "key": "Upload_Completed_Description",
+        "English": "Please copy the following text to other device.(May have been copied to your clipboard.)\n{0}"
+    }
+]

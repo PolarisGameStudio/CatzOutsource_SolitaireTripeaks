@@ -1,0 +1,44 @@
+[
+    {
+        "key": "theme_use_ing",
+        "English": "IN USE",
+        "German": "IN VERWENDUNG",
+        "Spanish": "EN USO",
+        "French": "UTILISATION EN COURS"
+    },
+    {
+        "key": "btn_use",
+        "English": "SELECT",
+        "German": "AUSWÄHLEN",
+        "Spanish": "SELECCIONAR",
+        "French": "SÉLECTIONNER"
+    },
+    {
+        "key": "theme_lock",
+        "English": "SELECT",
+        "German": "AUSWÄHLEN",
+        "Spanish": "SELECCIONAR",
+        "French": "SÉLECTIONNER"
+    },
+    {
+        "key": "theme_lock_title",
+        "English": "LOCKED",
+        "German": "GESPERRT",
+        "Spanish": "BLOQUEADO",
+        "French": "VERROUILLÉ"
+    },
+    {
+        "key": "theme_lock_desc",
+        "English": "You must complete {0} to unlock {1}",
+        "German": "Du musst {0} abschließen, um {1} freizuschalten.",
+        "Spanish": "Tienes que completar {0} para desbloquear {1}",
+        "French": "Vous devez terminer {0} pour débloquer {1}"
+    },
+    {
+        "key": "theme_scene_desc",
+        "English": "SELECT YOUR FAVORITE CARD BACKS TO DISPLAY IN GAME!",
+        "German": "Wählen Sie Ihre Lieblingskartenrückseiten aus, um im Spiel anzuzeigen!",
+        "Spanish": "¡Selecciona tus respaldos de tarjeta favoritos para mostrar en el juego!",
+        "French": "Sélectionnez vos dos de cartes préférés à afficher dans le jeu!"
+    }
+]

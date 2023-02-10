@@ -1,0 +1,9 @@
+Version 1.0.2
+- Features:
+	+ Remove enableAssetBundle
+Version 1.0.1
+- Features:
+	+ Add variable enableAssetBundle
+Version 1.0.0
+- Features:
+	+ Asset bundle

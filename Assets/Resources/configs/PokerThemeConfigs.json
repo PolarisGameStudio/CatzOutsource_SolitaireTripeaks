@@ -1,0 +1,129 @@
+{
+  "pokers": [
+    {
+      "identifier": "NormalPoker_6",
+      "fileName": "Sprites/Themes/NormalPoker_6",
+      "name": "Valentine",
+      "thumbnail": "Poker_thumbnail_6",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 4,
+        "level": 0
+      },
+      "order": 6
+    },
+    {
+      "identifier": "NormalPoker_1",
+      "fileName": "Sprites/Themes/NormalPoker_1",
+      "name": "Zuma",
+      "thumbnail": "Poker_thumbnail_1",
+      "themeType": "None",
+      "order": 1
+    },
+    {
+      "identifier": "NormalPoker_2",
+      "fileName": "Sprites/Themes/NormalPoker_2",
+      "name": "PalmLeaves",
+      "thumbnail": "Poker_thumbnail_2",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 0,
+        "level": 0
+      },
+      "order": 2
+    },
+    {
+      "identifier": "NormalPoker_3",
+      "fileName": "Sprites/Themes/NormalPoker_3",
+      "name": "Egypt",
+      "thumbnail": "Poker_thumbnail_3",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 1,
+        "level": 0
+      },
+      "order": 3
+    },
+    {
+      "identifier": "NormalPoker_4",
+      "fileName": "Sprites/Themes/NormalPoker_4",
+      "name": "Frangipane",
+      "thumbnail": "Poker_thumbnail_4",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 2,
+        "level": 0
+      },
+      "order": 4
+    },
+    {
+      "identifier": "NormalPoker_5",
+      "fileName": "Sprites/Themes/NormalPoker_5",
+      "name": "Lantern",
+      "thumbnail": "Poker_thumbnail_5",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 3,
+        "level": 0
+      },
+      "order": 5
+    },
+    {
+      "identifier": "NormalPoker_7",
+      "fileName": "Sprites/Themes/NormalPoker_7",
+      "name": "EasterEgg",
+      "thumbnail": "Poker_thumbnail_7",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 6,
+        "level": 0
+      },
+      "order": 7
+    },
+    {
+      "identifier": "NormalPoker_8",
+      "fileName": "Sprites/Themes/NormalPoker_8",
+      "name": "WorldCup",
+      "thumbnail": "Poker_thumbnail_8",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 0,
+        "chapter": 7,
+        "level": 0
+      },
+      "order": 8
+    },
+    {
+      "identifier": "NormalPoker_9",
+      "fileName": "Sprites/Themes/NormalPoker_9",
+      "name": "Halloween",
+      "thumbnail": "Poker_thumbnail_9",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 1,
+        "chapter": 7,
+        "level": 0
+      },
+      "order": -1
+    },
+    {
+      "identifier": "NormalPoker_10",
+      "fileName": "Sprites/Themes/NormalPoker_10",
+      "name": "Christmas",
+      "thumbnail": "Poker_thumbnail_10",
+      "themeType": "Chapter",
+      "scheduleData": {
+        "world": 2,
+        "chapter": 0,
+        "level": 0
+      },
+      "order": -1
+    }
+  ]
+}

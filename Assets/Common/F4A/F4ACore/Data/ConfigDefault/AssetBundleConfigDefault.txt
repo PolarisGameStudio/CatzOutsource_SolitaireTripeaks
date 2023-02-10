@@ -1,0 +1,111 @@
+{
+  "Windows": {
+    "url_server": "",
+    "enable": "false",
+    "version": "1.0.0",
+    "assets": [
+      {
+        "url_download": "",
+        "asset_bundle_name": "xmirror_models_clothes_man_001",
+        "type": "prefab",
+        "sub_type": "clothes",
+        "version": 0,
+        "first_load": true,
+        "objects": [
+          {
+            "name": "1"
+          },
+          {
+            "name": "2"
+          }
+        ]
+      },
+      {
+        "url_download": "",
+        "asset_bundle_name": "xmirror_models_clothes_woman_001",
+        "type": "prefab",
+        "sub_type": "clothes",
+        "version": 0,
+        "first_load": true,
+        "objects": [
+          {
+            "name": "1"
+          },
+          {
+            "name": "2"
+          }
+        ]
+      }
+    ]
+  },
+  "WebGL": {
+    "url_server": "",
+    "enable": "false",
+    "version": "1.0.0",
+    "assets": [
+      {
+        "url_download": "",
+        "asset_bundle_name": "xmirror_scenes_1",
+        "type": "scene",
+        "sub_type": "",
+        "version": 0,
+        "first_load": true
+      },
+      {
+        "url_download": "",
+        "asset_bundle_name": "xmirror_scenes_2",
+        "type": "scene",
+        "sub_type": "",
+        "version": 0,
+        "first_load": true
+      },
+      {
+        "url_download": "",
+        "asset_bundle_name": "xmirror_models_clothes_man_001",
+        "type": "prefab",
+        "sub_type": "clothes",
+        "version": 0,
+        "first_load": false,
+        "objects": [
+          {
+            "name": "1"
+          },
+          {
+            "name": "2"
+          }
+        ]
+      },
+      {
+        "url_download": "",
+        "asset_bundle_name": "xmirror_models_clothes_woman_001",
+        "type": "prefab",
+        "sub_type": "clothes",
+        "version": 0,
+        "first_load": false,
+        "objects": [
+          {
+            "name": "1"
+          },
+          {
+            "name": "2"
+          }
+        ]
+      }
+    ]
+  },
+  "Android": {
+    "url_server": "dont_have_url_server",
+    "enable": "true",
+    "version": "1.0.0",
+    "assets": [
+      {
+        "url_download": "https://docs.google.com/uc?export=download&id=1Nr0BDj_dJHxcaZgjH0ycOFHuAYgdWDtP",
+        "asset_bundle_name": "scene.main.dat",
+        "type": "scene",
+        "sub_type": "",
+        "version": 1,
+        "first_load": true
+      }
+    ]
+  }
+}
